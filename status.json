@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "7f41347c42ce5eb2ebb30995e4f59b0e0941525b",
+  "latestDaily": {
+    "id": "2026-08-04-daily-petroleo-rebota-y-chile-recupera-actividad",
+    "issueNumber": 2,
+    "title": "El petróleo rebota mientras Chile recupera actividad",
+    "publishedAt": "2026-08-04T07:01:00-04:00",
+    "cutoffAt": "2026-08-04T07:01:00-04:00"
+  },
+  "publications": {
+    "daily": 2,
+    "weekly": 1,
+    "readings": 0,
+    "total": 3
+  },
+  "indicators": {
+    "status": "current",
+    "asOf": "2026-08-04",
+    "sourceName": "Mi Indicador (datos públicos de Chile)"
+  }
+}
