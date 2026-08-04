@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "status": "current",
   "asOf": "2026-08-04",
-  "fetchedAt": "2026-08-04T04:42:10.361Z",
-  "lastAttemptAt": "2026-08-04T04:42:10.361Z",
+  "fetchedAt": "2026-08-04T10:58:56.926Z",
+  "lastAttemptAt": "2026-08-04T10:58:56.926Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -13,14 +13,14 @@
       "label": "UF",
       "value": 40844.79,
       "unit": "clp",
-      "effectiveDate": "2026-08-03"
+      "effectiveDate": "2026-08-04"
     },
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 928.42,
+      "value": 924.89,
       "unit": "clp",
-      "effectiveDate": "2026-08-03"
+      "effectiveDate": "2026-08-04"
     },
     {
       "code": "euro",
@@ -48,7 +48,7 @@
       "label": "Cobre",
       "value": 6.28,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-08-03"
+      "effectiveDate": "2026-08-04"
     }
   ]
 }
