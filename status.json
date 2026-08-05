@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3feb907ab7e7ebc8905d2b1a7a357aa2546e7042",
+  "sourceCommit": "b93c370de7057eec0f32072f6f9792b465a49453",
   "latestDaily": {
-    "id": "2026-08-04-daily-petroleo-rebota-y-chile-recupera-actividad",
-    "issueNumber": 2,
-    "title": "El petróleo rebota mientras Chile recupera actividad",
-    "publishedAt": "2026-08-04T07:01:00-04:00",
-    "cutoffAt": "2026-08-04T07:01:00-04:00"
+    "id": "2026-08-05-daily-petroleo-baja-y-la-ia-sostiene-el-riesgo",
+    "issueNumber": 3,
+    "title": "El petróleo baja y la inteligencia artificial sostiene el apetito por riesgo",
+    "publishedAt": "2026-08-05T10:02:00-04:00",
+    "cutoffAt": "2026-08-05T06:20:00-04:00"
   },
   "publications": {
-    "daily": 2,
+    "daily": 3,
     "weekly": 1,
     "readings": 0,
-    "total": 3
+    "total": 4
   },
   "indicators": {
-    "status": "stale",
+    "status": "current",
     "asOf": "2026-08-05",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
