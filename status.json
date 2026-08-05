@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "bf301945070d4ee72199f14bb6379f0dbe840c5a",
+  "sourceCommit": "6a9a359022f954b14e5d910e702671410bf987a5",
   "latestDaily": {
     "id": "2026-08-04-daily-petroleo-rebota-y-chile-recupera-actividad",
     "issueNumber": 2,
@@ -16,7 +16,7 @@
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-04",
+    "asOf": "2026-08-05",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
