@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "b93c370de7057eec0f32072f6f9792b465a49453",
+  "sourceCommit": "8b6584b3219a89a7c8dcc8fbea18182053a8af73",
   "latestDaily": {
     "id": "2026-08-05-daily-petroleo-baja-y-la-ia-sostiene-el-riesgo",
     "issueNumber": 3,
@@ -11,8 +11,8 @@
   "publications": {
     "daily": 3,
     "weekly": 1,
-    "readings": 0,
-    "total": 4
+    "readings": 1,
+    "total": 5
   },
   "indicators": {
     "status": "current",
