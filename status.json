@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "8084123af9f0a4598782b923e28d6fb1df48faa4",
+  "sourceCommit": "6a9507526a931559b11bd986863db68e43ac532f",
   "latestDaily": {
-    "id": "2026-08-06-daily-petroleo-alivia-y-la-tecnologia-se-vuelve-selectiva",
-    "issueNumber": 4,
-    "title": "El petróleo alivia las tasas y la tecnología se vuelve más selectiva",
-    "publishedAt": "2026-08-06T07:46:00-04:00",
-    "cutoffAt": "2026-08-06T07:07:00-04:00"
+    "id": "2026-08-07-daily-mercados-esperan-empleo-y-chile-llega-al-ipc",
+    "issueNumber": 5,
+    "title": "El empleo de EE.UU. se debilita y la inflación chilena se modera",
+    "publishedAt": "2026-08-07T13:18:00-04:00",
+    "cutoffAt": "2026-08-07T13:15:00-04:00"
   },
   "publications": {
-    "daily": 4,
+    "daily": 5,
     "weekly": 1,
     "readings": 1,
-    "total": 6
+    "total": 7
   },
   "indicators": {
     "status": "current",
