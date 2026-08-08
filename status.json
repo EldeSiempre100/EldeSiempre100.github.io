@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "6a9507526a931559b11bd986863db68e43ac532f",
+  "sourceCommit": "39d6c4c70fb79858b00caacad648c1ba5410267c",
   "latestDaily": {
-    "id": "2026-08-07-daily-mercados-esperan-empleo-y-chile-llega-al-ipc",
-    "issueNumber": 5,
-    "title": "El empleo de EE.UU. se debilita y la inflación chilena se modera",
-    "publishedAt": "2026-08-07T13:18:00-04:00",
-    "cutoffAt": "2026-08-07T13:15:00-04:00"
+    "id": "2026-08-08-daily-empleo-eeuu-reabre-el-debate-de-tasas",
+    "issueNumber": 6,
+    "title": "El empleo de EE.UU. reabre el debate de tasas mientras la tecnología sostiene el riesgo",
+    "publishedAt": "2026-08-08T13:03:00-04:00",
+    "cutoffAt": "2026-08-08T13:00:00-04:00"
   },
   "publications": {
-    "daily": 5,
+    "daily": 6,
     "weekly": 1,
     "readings": 1,
-    "total": 7
+    "total": 8
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-08",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
