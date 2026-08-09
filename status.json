@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "c2f86bd74a211056785045b310d1e28d347be8e5",
+  "sourceCommit": "8efd5b5b9892027097113b153715166edc152584",
   "latestDaily": {
-    "id": "2026-08-08-daily-empleo-eeuu-reabre-el-debate-de-tasas",
-    "issueNumber": 6,
-    "title": "El empleo de EE.UU. reabre el debate de tasas mientras la tecnología sostiene el riesgo",
-    "publishedAt": "2026-08-08T13:03:00-04:00",
-    "cutoffAt": "2026-08-08T13:00:00-04:00"
+    "id": "2026-08-09-daily-mercados-premian-menor-presion-de-tasas",
+    "issueNumber": 7,
+    "title": "Mercados premian menor presión de tasas, pero la inflación sigue mandando",
+    "publishedAt": "2026-08-09T06:00:00-04:00",
+    "cutoffAt": "2026-08-09T05:45:00-04:00"
   },
   "publications": {
-    "daily": 6,
+    "daily": 7,
     "weekly": 1,
     "readings": 2,
-    "total": 9
+    "total": 10
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-08",
+    "asOf": "2026-08-09",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
