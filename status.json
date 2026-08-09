@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "e30dd8f752905c1aabe4c3fad042fa6245bba4ad",
+  "sourceCommit": "8b610ee7db52ddd2bcae72876c69d851d2bbc393",
   "latestDaily": {
     "id": "2026-08-08-daily-empleo-eeuu-reabre-el-debate-de-tasas",
     "issueNumber": 6,
@@ -11,8 +11,8 @@
   "publications": {
     "daily": 6,
     "weekly": 1,
-    "readings": 1,
-    "total": 8
+    "readings": 2,
+    "total": 9
   },
   "indicators": {
     "status": "current",
