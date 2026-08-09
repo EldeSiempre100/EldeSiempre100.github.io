@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "8efd5b5b9892027097113b153715166edc152584",
+  "sourceCommit": "1eb6fb7cb3e056c7e5032f540ba03fe1c897d392",
   "latestDaily": {
     "id": "2026-08-09-daily-mercados-premian-menor-presion-de-tasas",
     "issueNumber": 7,
@@ -8,9 +8,13 @@
     "publishedAt": "2026-08-09T06:00:00-04:00",
     "cutoffAt": "2026-08-09T05:45:00-04:00"
   },
+  "latestNational": null,
+  "latestMarkets": null,
   "publications": {
     "daily": 7,
     "weekly": 1,
+    "national": 0,
+    "markets": 0,
     "readings": 2,
     "total": 10
   },
