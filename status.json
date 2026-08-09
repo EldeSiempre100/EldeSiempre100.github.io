@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4255461db933ad425077f2e76c4bd1069738c042",
+  "sourceCommit": "be100a46753f73c299fd5a46c053ac50bb5daacf",
   "latestDaily": {
     "id": "2026-08-09-daily-mercados-premian-menor-presion-de-tasas",
     "issueNumber": 7,
@@ -8,22 +8,32 @@
     "publishedAt": "2026-08-09T06:00:00-04:00",
     "cutoffAt": "2026-08-09T05:45:00-04:00"
   },
-  "latestNational": null,
-  "latestMarkets": null,
+  "latestNational": {
+    "id": "2026-08-09-national-chile-mejora-senales-macro-y-hacienda-prepara-reformas",
+    "title": "Chile mejora sus señales macro y Hacienda prepara una nueva fase de reformas",
+    "publishedAt": "2026-08-09T15:58:00-04:00",
+    "cutoffAt": "2026-08-09T14:15:00-04:00"
+  },
+  "latestMarkets": {
+    "id": "2026-08-09-markets-wall-street-records-empleo-fed-hormuz",
+    "title": "Wall Street bate récords mientras empleo débil enfría a la Fed y Hormuz vuelve al foco",
+    "publishedAt": "2026-08-09T15:58:00-04:00",
+    "cutoffAt": "2026-08-09T14:15:00-04:00"
+  },
   "morningPackage": {
     "date": "2026-08-09",
     "generalPublished": true,
-    "nationalPublished": false,
-    "marketsPublished": false,
-    "completeness": 1
+    "nationalPublished": true,
+    "marketsPublished": true,
+    "completeness": 3
   },
   "publications": {
     "daily": 7,
     "weekly": 1,
-    "national": 0,
-    "markets": 0,
+    "national": 1,
+    "markets": 1,
     "readings": 2,
-    "total": 10
+    "total": 12
   },
   "indicators": {
     "status": "current",
