@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "64ad1e1213ed7d0d8dcd5c3bd8509bb83c26f5dd",
+  "sourceCommit": "2ea8f11d0a39c2d7a4fba9785a3a8784ee15fe83",
   "latestDaily": {
-    "id": "2026-08-09-daily-mercados-premian-menor-presion-de-tasas",
-    "issueNumber": 7,
-    "title": "Mercados premian menor presión de tasas, pero la inflación sigue mandando",
-    "publishedAt": "2026-08-09T06:00:00-04:00",
-    "cutoffAt": "2026-08-09T05:45:00-04:00"
+    "id": "2026-08-10-daily-inflacion-vuelve-a-mandar",
+    "issueNumber": 8,
+    "title": "Mercados premian menor presión de tasas, pero la inflación vuelve a mandar",
+    "publishedAt": "2026-08-10T06:00:00-04:00",
+    "cutoffAt": "2026-08-10T06:00:00-04:00"
   },
   "latestNational": {
     "id": "2026-08-09-national-chile-mejora-senales-macro-y-hacienda-prepara-reformas",
@@ -15,29 +15,29 @@
     "cutoffAt": "2026-08-09T14:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-09-markets-wall-street-records-empleo-fed-hormuz",
-    "title": "Wall Street bate récords mientras empleo débil enfría a la Fed y Hormuz vuelve al foco",
-    "publishedAt": "2026-08-09T15:58:00-04:00",
-    "cutoffAt": "2026-08-09T14:15:00-04:00"
+    "id": "2026-08-10-markets-riesgo-se-desplaza-a-inflacion",
+    "title": "El alivio de tasas sostiene el riesgo, pero el mercado queda expuesto al IPC",
+    "publishedAt": "2026-08-10T06:30:00-04:00",
+    "cutoffAt": "2026-08-10T06:25:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-09",
+    "date": "2026-08-10",
     "generalPublished": true,
-    "nationalPublished": true,
+    "nationalPublished": false,
     "marketsPublished": true,
-    "completeness": 3
+    "completeness": 2
   },
   "publications": {
-    "daily": 7,
+    "daily": 8,
     "weekly": 1,
     "national": 1,
-    "markets": 1,
+    "markets": 2,
     "readings": 2,
-    "total": 12
+    "total": 14
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-09",
+    "asOf": "2026-08-10",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
