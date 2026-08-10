@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2ea8f11d0a39c2d7a4fba9785a3a8784ee15fe83",
+  "sourceCommit": "dd7eda7e33895fdc85979900b5c74cd0774babd1",
   "latestDaily": {
     "id": "2026-08-10-daily-inflacion-vuelve-a-mandar",
     "issueNumber": 8,
@@ -29,11 +29,11 @@
   },
   "publications": {
     "daily": 8,
-    "weekly": 1,
+    "weekly": 2,
     "national": 1,
     "markets": 2,
     "readings": 2,
-    "total": 14
+    "total": 15
   },
   "indicators": {
     "status": "current",
