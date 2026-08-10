@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "date": "2026-08-10",
+  "title": "ATLAS NEWS — Resumen diario — 10 de agosto de 2026",
+  "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
+  "path": "/audio/2026-08-10-resumen-diario.mp3",
+  "durationSeconds": 166.2,
+  "durationLabel": "3 min",
+  "generatedAt": "2026-08-10T13:26:33.278300+00:00",
+  "engine": "Kokoro-82M",
+  "voice": "ef_dora",
+  "language": "es",
+  "completeness": 3,
+  "sourceIds": {
+    "general": "2026-08-10-daily-inflacion-vuelve-a-mandar",
+    "national": "2026-08-10-national-expectativas-prueban-la-desinflacion",
+    "markets": "2026-08-10-markets-riesgo-se-desplaza-a-inflacion"
+  }
+}
