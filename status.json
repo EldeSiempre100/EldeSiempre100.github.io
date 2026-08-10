@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "dd7eda7e33895fdc85979900b5c74cd0774babd1",
+  "sourceCommit": "90dccd8ac6427b2f8f9497deddf42632d05ec32f",
   "latestDaily": {
     "id": "2026-08-10-daily-inflacion-vuelve-a-mandar",
     "issueNumber": 8,
@@ -9,10 +9,10 @@
     "cutoffAt": "2026-08-10T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-09-national-chile-mejora-senales-macro-y-hacienda-prepara-reformas",
-    "title": "Chile mejora sus señales macro y Hacienda prepara una nueva fase de reformas",
-    "publishedAt": "2026-08-09T15:58:00-04:00",
-    "cutoffAt": "2026-08-09T14:15:00-04:00"
+    "id": "2026-08-10-national-expectativas-prueban-la-desinflacion",
+    "title": "Chile entra en una semana de confirmación para inflación, actividad y tasas",
+    "publishedAt": "2026-08-10T07:45:00-04:00",
+    "cutoffAt": "2026-08-10T07:35:00-04:00"
   },
   "latestMarkets": {
     "id": "2026-08-10-markets-riesgo-se-desplaza-a-inflacion",
@@ -23,20 +23,20 @@
   "morningPackage": {
     "date": "2026-08-10",
     "generalPublished": true,
-    "nationalPublished": false,
+    "nationalPublished": true,
     "marketsPublished": true,
-    "completeness": 2
+    "completeness": 3
   },
   "publications": {
     "daily": 8,
     "weekly": 2,
-    "national": 1,
+    "national": 2,
     "markets": 2,
     "readings": 2,
-    "total": 15
+    "total": 16
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-08-10",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
