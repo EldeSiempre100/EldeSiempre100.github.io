@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "7da69bc2afcaf18cf0a42edec56ba87cf224d62c",
+  "sourceCommit": "f584d38dead913953ccea7abb0a4cb914ad91899",
   "latestDaily": {
-    "id": "2026-08-10-daily-inflacion-vuelve-a-mandar",
-    "issueNumber": 8,
-    "title": "Mercados premian menor presión de tasas, pero la inflación vuelve a mandar",
-    "publishedAt": "2026-08-10T06:00:00-04:00",
-    "cutoffAt": "2026-08-10T06:00:00-04:00"
+    "id": "2026-08-11-daily-petroleo-vuelve-a-tensionar-las-tasas",
+    "issueNumber": 9,
+    "title": "El petróleo vuelve a tensionar las tasas antes de la prueba de inflación en Estados Unidos",
+    "publishedAt": "2026-08-11T06:00:00-04:00",
+    "cutoffAt": "2026-08-11T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-10-national-expectativas-prueban-la-desinflacion",
-    "title": "Chile entra en una semana de confirmación para inflación, actividad y tasas",
-    "publishedAt": "2026-08-10T07:45:00-04:00",
-    "cutoffAt": "2026-08-10T07:35:00-04:00"
+    "id": "2026-08-11-national-expectativas-prueban-desinflacion",
+    "title": "La EEE pondrá a prueba si la desinflación chilena ya alcanza para mover la trayectoria de tasas",
+    "publishedAt": "2026-08-11T06:15:00-04:00",
+    "cutoffAt": "2026-08-11T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-10-markets-riesgo-se-desplaza-a-inflacion",
-    "title": "El alivio de tasas sostiene el riesgo, pero el mercado queda expuesto al IPC",
-    "publishedAt": "2026-08-10T06:30:00-04:00",
-    "cutoffAt": "2026-08-10T06:25:00-04:00"
+    "id": "2026-08-11-markets-energia-reabre-prima-inflacion",
+    "title": "Energía y tasas vuelven a moverse juntas: el mercado reabre la prima de inflación",
+    "publishedAt": "2026-08-11T06:30:00-04:00",
+    "cutoffAt": "2026-08-11T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 8,
+    "daily": 9,
     "weekly": 2,
-    "national": 2,
-    "markets": 2,
+    "national": 3,
+    "markets": 3,
     "readings": 3,
-    "total": 17
+    "total": 20
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-10",
+    "asOf": "2026-08-11",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
