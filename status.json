@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "b9a94fca11416565fc6b55130c3442c9826a21a8",
+  "sourceCommit": "cb93ad01edec5c810a8f3c1231061737c6960661",
   "latestDaily": {
-    "id": "2026-08-11-daily-petroleo-vuelve-a-tensionar-las-tasas",
-    "issueNumber": 9,
-    "title": "El petróleo vuelve a tensionar las tasas antes de la prueba de inflación en Estados Unidos",
-    "publishedAt": "2026-08-11T06:00:00-04:00",
-    "cutoffAt": "2026-08-11T06:00:00-04:00"
+    "id": "2026-08-12-daily-inflacion-y-energia-definen-el-precio-del-riesgo",
+    "issueNumber": 10,
+    "title": "Inflación y energía definen el precio del riesgo antes del IPC de Estados Unidos",
+    "publishedAt": "2026-08-12T06:00:00-04:00",
+    "cutoffAt": "2026-08-12T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-11-national-expectativas-prueban-desinflacion",
-    "title": "La EEE pondrá a prueba si la desinflación chilena ya alcanza para mover la trayectoria de tasas",
-    "publishedAt": "2026-08-11T06:15:00-04:00",
-    "cutoffAt": "2026-08-11T06:15:00-04:00"
+    "id": "2026-08-12-national-costos-logisticos-y-expectativas",
+    "title": "Costos logísticos ceden, pero la EOF debe confirmar si Chile puede mirar hacia tasas más bajas",
+    "publishedAt": "2026-08-12T06:15:00-04:00",
+    "cutoffAt": "2026-08-12T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-11-markets-energia-reabre-prima-inflacion",
-    "title": "Energía y tasas vuelven a moverse juntas: el mercado reabre la prima de inflación",
-    "publishedAt": "2026-08-11T06:30:00-04:00",
-    "cutoffAt": "2026-08-11T06:30:00-04:00"
+    "id": "2026-08-12-markets-energia-duracion-y-capital-ia",
+    "title": "Energía, duración y capital de IA separan al mercado antes del IPC",
+    "publishedAt": "2026-08-12T06:30:00-04:00",
+    "cutoffAt": "2026-08-12T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 9,
+    "daily": 10,
     "weekly": 2,
-    "national": 3,
-    "markets": 3,
+    "national": 4,
+    "markets": 4,
     "readings": 3,
-    "total": 20
+    "total": 23
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-11",
+    "asOf": "2026-08-12",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
