@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 2,
   "status": "published",
-  "date": "2026-08-11",
-  "title": "ATLAS NEWS — Resumen diario — 11 de agosto de 2026",
+  "date": "2026-08-12",
+  "title": "ATLAS NEWS — Resumen diario — 12 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-11-resumen-diario.mp3",
-  "durationSeconds": 258.5,
+  "path": "/audio/2026-08-12-resumen-diario.mp3",
+  "durationSeconds": 266.6,
   "durationLabel": "4 min",
-  "generatedAt": "2026-08-11T11:17:13.553552+00:00",
+  "generatedAt": "2026-08-12T11:17:00.992092+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-11-daily-petroleo-vuelve-a-tensionar-las-tasas",
-    "national": "2026-08-11-national-expectativas-prueban-desinflacion",
-    "markets": "2026-08-11-markets-energia-reabre-prima-inflacion"
+    "general": "2026-08-12-daily-inflacion-y-energia-definen-el-precio-del-riesgo",
+    "national": "2026-08-12-national-costos-logisticos-y-expectativas",
+    "markets": "2026-08-12-markets-energia-duracion-y-capital-ia"
   }
 }
