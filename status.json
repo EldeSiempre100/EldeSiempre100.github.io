@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "cb93ad01edec5c810a8f3c1231061737c6960661",
+  "sourceCommit": "4639a911111160fcf51d08848822cff967160e0b",
   "latestDaily": {
-    "id": "2026-08-12-daily-inflacion-y-energia-definen-el-precio-del-riesgo",
-    "issueNumber": 10,
-    "title": "Inflación y energía definen el precio del riesgo antes del IPC de Estados Unidos",
-    "publishedAt": "2026-08-12T06:00:00-04:00",
-    "cutoffAt": "2026-08-12T06:00:00-04:00"
+    "id": "2026-08-13-daily-mercado-ve-pausa-fed-tras-ipc",
+    "issueNumber": 11,
+    "title": "El mercado eleva a 65% la probabilidad de una pausa de la Fed en septiembre",
+    "publishedAt": "2026-08-13T06:00:00-04:00",
+    "cutoffAt": "2026-08-13T06:00:00-04:00"
   },
   "latestNational": {
     "id": "2026-08-12-national-costos-logisticos-y-expectativas",
@@ -21,23 +21,23 @@
     "cutoffAt": "2026-08-12T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "generalPublished": true,
-    "nationalPublished": true,
-    "marketsPublished": true,
-    "completeness": 3
+    "nationalPublished": false,
+    "marketsPublished": false,
+    "completeness": 1
   },
   "publications": {
-    "daily": 10,
+    "daily": 11,
     "weekly": 2,
     "national": 4,
     "markets": 4,
     "readings": 3,
-    "total": 23
+    "total": 24
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-12",
+    "asOf": "2026-08-13",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
