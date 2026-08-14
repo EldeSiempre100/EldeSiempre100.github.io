@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4639a911111160fcf51d08848822cff967160e0b",
+  "sourceCommit": "7636aadde1bae579e57af12534841321d7886040",
   "latestDaily": {
-    "id": "2026-08-13-daily-mercado-ve-pausa-fed-tras-ipc",
-    "issueNumber": 11,
-    "title": "El mercado eleva a 65% la probabilidad de una pausa de la Fed en septiembre",
-    "publishedAt": "2026-08-13T06:00:00-04:00",
-    "cutoffAt": "2026-08-13T06:00:00-04:00"
+    "id": "2026-08-14-daily-precios-mayoristas-eeuu-no-suben-en-julio",
+    "issueNumber": 12,
+    "title": "Los precios mayoristas de Estados Unidos no suben en julio",
+    "publishedAt": "2026-08-14T06:00:00-04:00",
+    "cutoffAt": "2026-08-14T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-12-national-costos-logisticos-y-expectativas",
-    "title": "Costos logísticos ceden, pero la EOF debe confirmar si Chile puede mirar hacia tasas más bajas",
-    "publishedAt": "2026-08-12T06:15:00-04:00",
-    "cutoffAt": "2026-08-12T06:15:00-04:00"
+    "id": "2026-08-14-national-costo-del-credito-y-tasas",
+    "title": "El costo máximo del crédito se recalibra mientras la desinflación mejora el escenario local",
+    "publishedAt": "2026-08-14T06:15:00-04:00",
+    "cutoffAt": "2026-08-14T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-12-markets-energia-duracion-y-capital-ia",
-    "title": "Energía, duración y capital de IA separan al mercado antes del IPC",
-    "publishedAt": "2026-08-12T06:30:00-04:00",
-    "cutoffAt": "2026-08-12T06:30:00-04:00"
+    "id": "2026-08-14-markets-fed-pausa-curva-larga-y-primas",
+    "title": "La Fed gana espacio para pausar, pero la curva larga y la energía mantienen vivo el costo del riesgo",
+    "publishedAt": "2026-08-14T06:30:00-04:00",
+    "cutoffAt": "2026-08-14T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-13",
+    "date": "2026-08-14",
     "generalPublished": true,
-    "nationalPublished": false,
-    "marketsPublished": false,
-    "completeness": 1
+    "nationalPublished": true,
+    "marketsPublished": true,
+    "completeness": 3
   },
   "publications": {
-    "daily": 11,
+    "daily": 12,
     "weekly": 2,
-    "national": 4,
-    "markets": 4,
+    "national": 5,
+    "markets": 5,
     "readings": 3,
-    "total": 24
+    "total": 27
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-13",
+    "asOf": "2026-08-14",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
