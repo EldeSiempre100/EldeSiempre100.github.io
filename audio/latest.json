@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 2,
   "status": "published",
-  "date": "2026-08-13",
-  "title": "ATLAS NEWS — Resumen diario — 13 de agosto de 2026",
-  "summary": "Una cápsula con las señales principales de General.",
-  "path": "/audio/2026-08-13-resumen-diario.mp3",
-  "durationSeconds": 231.3,
+  "date": "2026-08-14",
+  "title": "ATLAS NEWS — Resumen diario — 14 de agosto de 2026",
+  "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
+  "path": "/audio/2026-08-14-resumen-diario.mp3",
+  "durationSeconds": 258.0,
   "durationLabel": "4 min",
-  "generatedAt": "2026-08-13T11:15:15.781991+00:00",
+  "generatedAt": "2026-08-14T11:13:03.710157+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
-  "completeness": 1,
+  "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-13-daily-mercado-ve-pausa-fed-tras-ipc",
-    "national": null,
-    "markets": null
+    "general": "2026-08-14-daily-precios-mayoristas-eeuu-no-suben-en-julio",
+    "national": "2026-08-14-national-costo-del-credito-y-tasas",
+    "markets": "2026-08-14-markets-fed-pausa-curva-larga-y-primas"
   }
 }
