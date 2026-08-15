@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "7636aadde1bae579e57af12534841321d7886040",
+  "sourceCommit": "ae7f26e7bfb79bc0609d55b67d8475dc32166fdb",
   "latestDaily": {
-    "id": "2026-08-14-daily-precios-mayoristas-eeuu-no-suben-en-julio",
-    "issueNumber": 12,
-    "title": "Los precios mayoristas de Estados Unidos no suben en julio",
-    "publishedAt": "2026-08-14T06:00:00-04:00",
-    "cutoffAt": "2026-08-14T06:00:00-04:00"
+    "id": "2026-08-15-daily-consumo-eeuu-refuerza-pausa-fed",
+    "issueNumber": 13,
+    "title": "La caída del consumo en Estados Unidos refuerza la pausa de la Fed",
+    "publishedAt": "2026-08-15T06:00:00-04:00",
+    "cutoffAt": "2026-08-15T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-14-national-costo-del-credito-y-tasas",
-    "title": "El costo máximo del crédito se recalibra mientras la desinflación mejora el escenario local",
-    "publishedAt": "2026-08-14T06:15:00-04:00",
-    "cutoffAt": "2026-08-14T06:15:00-04:00"
+    "id": "2026-08-15-national-cuentas-nacionales-prueban-recuperacion",
+    "title": "Las Cuentas Nacionales dirán si el rebote de junio fue recuperación o apenas un alivio minero",
+    "publishedAt": "2026-08-15T06:20:00-04:00",
+    "cutoffAt": "2026-08-15T06:20:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-14-markets-fed-pausa-curva-larga-y-primas",
-    "title": "La Fed gana espacio para pausar, pero la curva larga y la energía mantienen vivo el costo del riesgo",
-    "publishedAt": "2026-08-14T06:30:00-04:00",
-    "cutoffAt": "2026-08-14T06:30:00-04:00"
+    "id": "2026-08-15-markets-pausa-fed-no-baja-prima-riesgo",
+    "title": "La pausa de la Fed gana consenso, pero bonos, petróleo y flujos no compran un alivio completo",
+    "publishedAt": "2026-08-15T06:30:00-04:00",
+    "cutoffAt": "2026-08-15T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-14",
+    "date": "2026-08-15",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 12,
+    "daily": 13,
     "weekly": 2,
-    "national": 5,
-    "markets": 5,
+    "national": 6,
+    "markets": 6,
     "readings": 3,
-    "total": 27
+    "total": 30
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-14",
+    "asOf": "2026-08-15",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
