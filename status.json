@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f29762accc13b372f3c736b01e5003b9461acae7",
+  "sourceCommit": "265be402fdfb2bca4c06a59d80c779fa2c0840ca",
   "latestDaily": {
     "id": "2026-08-15-daily-consumo-eeuu-refuerza-pausa-fed",
     "issueNumber": 13,
@@ -32,8 +32,8 @@
     "weekly": 2,
     "national": 6,
     "markets": 6,
-    "readings": 3,
-    "total": 30
+    "readings": 4,
+    "total": 31
   },
   "indicators": {
     "status": "current",
