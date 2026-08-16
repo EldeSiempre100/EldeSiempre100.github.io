@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "ae7f26e7bfb79bc0609d55b67d8475dc32166fdb",
+  "sourceCommit": "f29762accc13b372f3c736b01e5003b9461acae7",
   "latestDaily": {
     "id": "2026-08-15-daily-consumo-eeuu-refuerza-pausa-fed",
     "issueNumber": 13,
@@ -37,7 +37,7 @@
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-15",
+    "asOf": "2026-08-16",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
