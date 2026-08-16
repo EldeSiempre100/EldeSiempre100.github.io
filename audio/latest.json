@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 2,
   "status": "published",
-  "date": "2026-08-15",
-  "title": "ATLAS NEWS — Resumen diario — 15 de agosto de 2026",
+  "date": "2026-08-16",
+  "title": "ATLAS NEWS — Resumen diario — 16 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-15-resumen-diario.mp3",
-  "durationSeconds": 266.2,
+  "path": "/audio/2026-08-16-resumen-diario.mp3",
+  "durationSeconds": 260.9,
   "durationLabel": "4 min",
-  "generatedAt": "2026-08-15T11:13:49.687741+00:00",
+  "generatedAt": "2026-08-16T19:10:30.015419+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-15-daily-consumo-eeuu-refuerza-pausa-fed",
-    "national": "2026-08-15-national-cuentas-nacionales-prueban-recuperacion",
-    "markets": "2026-08-15-markets-pausa-fed-no-baja-prima-riesgo"
+    "general": "2026-08-16-daily-minutas-fed-y-resultados-abren-la-semana",
+    "national": "2026-08-16-national-crecimiento-y-financiamiento-externo",
+    "markets": "2026-08-16-markets-curva-larga-y-resultados"
   }
 }
