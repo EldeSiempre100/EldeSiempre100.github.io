@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "265be402fdfb2bca4c06a59d80c779fa2c0840ca",
+  "sourceCommit": "2b78b23465a4bae0ce72e3cd2be7399343beec95",
   "latestDaily": {
-    "id": "2026-08-15-daily-consumo-eeuu-refuerza-pausa-fed",
-    "issueNumber": 13,
-    "title": "La caída del consumo en Estados Unidos refuerza la pausa de la Fed",
-    "publishedAt": "2026-08-15T06:00:00-04:00",
-    "cutoffAt": "2026-08-15T06:00:00-04:00"
+    "id": "2026-08-16-daily-minutas-fed-y-resultados-abren-la-semana",
+    "issueNumber": 14,
+    "title": "Las minutas de la Fed y los resultados de retailers abren la semana",
+    "publishedAt": "2026-08-16T15:00:00-04:00",
+    "cutoffAt": "2026-08-16T14:50:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-15-national-cuentas-nacionales-prueban-recuperacion",
-    "title": "Las Cuentas Nacionales dirán si el rebote de junio fue recuperación o apenas un alivio minero",
-    "publishedAt": "2026-08-15T06:20:00-04:00",
-    "cutoffAt": "2026-08-15T06:20:00-04:00"
+    "id": "2026-08-16-national-crecimiento-y-financiamiento-externo",
+    "title": "Chile abre una semana clave para crecimiento y financiamiento externo",
+    "publishedAt": "2026-08-16T15:05:00-04:00",
+    "cutoffAt": "2026-08-16T14:50:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-15-markets-pausa-fed-no-baja-prima-riesgo",
-    "title": "La pausa de la Fed gana consenso, pero bonos, petróleo y flujos no compran un alivio completo",
-    "publishedAt": "2026-08-15T06:30:00-04:00",
-    "cutoffAt": "2026-08-15T06:30:00-04:00"
+    "id": "2026-08-16-markets-curva-larga-y-resultados",
+    "title": "La curva larga y los resultados corporativos medirán la calidad del alivio de tasas",
+    "publishedAt": "2026-08-16T15:10:00-04:00",
+    "cutoffAt": "2026-08-16T14:50:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 13,
+    "daily": 14,
     "weekly": 2,
-    "national": 6,
-    "markets": 6,
+    "national": 7,
+    "markets": 7,
     "readings": 4,
-    "total": 31
+    "total": 34
   },
   "indicators": {
     "status": "current",
