@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0fdee49ea32c791da319a9384106015355777247",
+  "sourceCommit": "0d2ab7aad25779fc60514baa7f7957ae38729ca6",
   "latestDaily": {
     "id": "2026-08-17-daily-mercado-consolida-pausa-fed",
     "issueNumber": 15,
@@ -29,11 +29,11 @@
   },
   "publications": {
     "daily": 15,
-    "weekly": 2,
+    "weekly": 3,
     "national": 8,
     "markets": 8,
     "readings": 4,
-    "total": 37
+    "total": 38
   },
   "indicators": {
     "status": "current",
