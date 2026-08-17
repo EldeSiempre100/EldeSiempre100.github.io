@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4b6dabf85f2d71bb77522f087bcf4c8eb0952caf",
+  "sourceCommit": "18dfea92b9235ad6e1f1b7f95de44561f9dd20f1",
   "latestDaily": {
     "id": "2026-08-17-daily-mercado-consolida-pausa-fed",
     "issueNumber": 15,
@@ -36,7 +36,7 @@
     "total": 38
   },
   "indicators": {
-    "status": "stale",
+    "status": "current",
     "asOf": "2026-08-17",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
