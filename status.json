@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2b78b23465a4bae0ce72e3cd2be7399343beec95",
+  "sourceCommit": "0fdee49ea32c791da319a9384106015355777247",
   "latestDaily": {
-    "id": "2026-08-16-daily-minutas-fed-y-resultados-abren-la-semana",
-    "issueNumber": 14,
-    "title": "Las minutas de la Fed y los resultados de retailers abren la semana",
-    "publishedAt": "2026-08-16T15:00:00-04:00",
-    "cutoffAt": "2026-08-16T14:50:00-04:00"
+    "id": "2026-08-17-daily-mercado-consolida-pausa-fed",
+    "issueNumber": 15,
+    "title": "El mercado consolida la pausa de la Fed tras el enfriamiento del consumo",
+    "publishedAt": "2026-08-17T06:30:00-04:00",
+    "cutoffAt": "2026-08-17T06:30:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-16-national-crecimiento-y-financiamiento-externo",
-    "title": "Chile abre una semana clave para crecimiento y financiamiento externo",
-    "publishedAt": "2026-08-16T15:05:00-04:00",
-    "cutoffAt": "2026-08-16T14:50:00-04:00"
+    "id": "2026-08-17-national-flujos-anticipan-prueba-del-pib",
+    "title": "Los flujos extranjeros abren la antesala de la prueba del PIB chileno",
+    "publishedAt": "2026-08-17T07:05:00-04:00",
+    "cutoffAt": "2026-08-17T07:00:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-16-markets-curva-larga-y-resultados",
-    "title": "La curva larga y los resultados corporativos medirán la calidad del alivio de tasas",
-    "publishedAt": "2026-08-16T15:10:00-04:00",
-    "cutoffAt": "2026-08-16T14:50:00-04:00"
+    "id": "2026-08-17-markets-pausa-fed-no-borra-primas-globales",
+    "title": "La pausa de la Fed gana precio, pero no borra las primas globales",
+    "publishedAt": "2026-08-17T07:20:00-04:00",
+    "cutoffAt": "2026-08-17T07:15:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-16",
+    "date": "2026-08-17",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 14,
+    "daily": 15,
     "weekly": 2,
-    "national": 7,
-    "markets": 7,
+    "national": 8,
+    "markets": 8,
     "readings": 4,
-    "total": 34
+    "total": 37
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-16",
+    "asOf": "2026-08-17",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
