@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "9db244ffd89f8146a52a2228faf86c77be2f29f9",
+  "sourceCommit": "c15d0c5e29b964918e837431834232ab5985945c",
   "latestDaily": {
-    "id": "2026-08-17-daily-mercado-consolida-pausa-fed",
-    "issueNumber": 15,
-    "title": "El mercado consolida la pausa de la Fed tras el enfriamiento del consumo",
-    "publishedAt": "2026-08-17T06:30:00-04:00",
-    "cutoffAt": "2026-08-17T06:30:00-04:00"
+    "id": "2026-08-18-daily-treasury-largo-rompe-calma-mercado",
+    "issueNumber": 16,
+    "title": "El Treasury a 30 años alcanza máximos de casi dos décadas y rompe la calma del mercado",
+    "publishedAt": "2026-08-18T06:00:00-04:00",
+    "cutoffAt": "2026-08-18T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-17-national-flujos-anticipan-prueba-del-pib",
-    "title": "Los flujos extranjeros abren la antesala de la prueba del PIB chileno",
-    "publishedAt": "2026-08-17T07:05:00-04:00",
-    "cutoffAt": "2026-08-17T07:00:00-04:00"
+    "id": "2026-08-18-national-pib-prueba-calidad-recuperacion",
+    "title": "El PIB pone a prueba la calidad de la recuperación chilena y el espacio para menores tasas",
+    "publishedAt": "2026-08-18T06:15:00-04:00",
+    "cutoffAt": "2026-08-18T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-17-markets-pausa-fed-no-borra-primas-globales",
-    "title": "La pausa de la Fed gana precio, pero no borra las primas globales",
-    "publishedAt": "2026-08-17T07:20:00-04:00",
-    "cutoffAt": "2026-08-17T07:15:00-04:00"
+    "id": "2026-08-18-markets-curva-larga-separa-riesgo-y-crecimiento",
+    "title": "La curva larga separa riesgo y crecimiento: petróleo, cobre e IA ya no cuentan la misma historia",
+    "publishedAt": "2026-08-18T06:30:00-04:00",
+    "cutoffAt": "2026-08-18T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 15,
+    "daily": 16,
     "weekly": 3,
-    "national": 8,
-    "markets": 8,
+    "national": 9,
+    "markets": 9,
     "readings": 4,
-    "total": 38
+    "total": 41
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-17",
+    "asOf": "2026-08-18",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
