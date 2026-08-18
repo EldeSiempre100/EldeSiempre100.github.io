@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 2,
   "status": "published",
-  "date": "2026-08-17",
-  "title": "ATLAS NEWS — Resumen diario — 17 de agosto de 2026",
+  "date": "2026-08-18",
+  "title": "ATLAS NEWS — Resumen diario — 18 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-17-resumen-diario.mp3",
-  "durationSeconds": 261.9,
+  "path": "/audio/2026-08-18-resumen-diario.mp3",
+  "durationSeconds": 264.7,
   "durationLabel": "4 min",
-  "generatedAt": "2026-08-17T11:11:15.501790+00:00",
+  "generatedAt": "2026-08-18T11:31:45.321448+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-17-daily-mercado-consolida-pausa-fed",
-    "national": "2026-08-17-national-flujos-anticipan-prueba-del-pib",
-    "markets": "2026-08-17-markets-pausa-fed-no-borra-primas-globales"
+    "general": "2026-08-18-daily-treasury-largo-rompe-calma-mercado",
+    "national": "2026-08-18-national-pib-prueba-calidad-recuperacion",
+    "markets": "2026-08-18-markets-curva-larga-separa-riesgo-y-crecimiento"
   }
 }
