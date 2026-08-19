@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "c15d0c5e29b964918e837431834232ab5985945c",
+  "sourceCommit": "f67bd3d873502434122f9eb01ef929792ee656e1",
   "latestDaily": {
-    "id": "2026-08-18-daily-treasury-largo-rompe-calma-mercado",
-    "issueNumber": 16,
-    "title": "El Treasury a 30 años alcanza máximos de casi dos décadas y rompe la calma del mercado",
-    "publishedAt": "2026-08-18T06:00:00-04:00",
-    "cutoffAt": "2026-08-18T06:00:00-04:00"
+    "id": "2026-08-19-daily-tasas-largas-reordenan-riesgo",
+    "issueNumber": 17,
+    "title": "Las tasas largas reordenan el precio del riesgo mientras Chile pierde impulso",
+    "publishedAt": "2026-08-19T06:00:00-04:00",
+    "cutoffAt": "2026-08-19T05:58:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-18-national-pib-prueba-calidad-recuperacion",
-    "title": "El PIB pone a prueba la calidad de la recuperación chilena y el espacio para menores tasas",
-    "publishedAt": "2026-08-18T06:15:00-04:00",
-    "cutoffAt": "2026-08-18T06:15:00-04:00"
+    "id": "2026-08-19-national-demanda-interna-amortigua-caida-del-pib",
+    "title": "La demanda interna amortigua la caída del PIB, pero la inversión todavía no confirma una recuperación amplia",
+    "publishedAt": "2026-08-19T06:15:00-04:00",
+    "cutoffAt": "2026-08-19T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-18-markets-curva-larga-separa-riesgo-y-crecimiento",
-    "title": "La curva larga separa riesgo y crecimiento: petróleo, cobre e IA ya no cuentan la misma historia",
-    "publishedAt": "2026-08-18T06:30:00-04:00",
-    "cutoffAt": "2026-08-18T06:30:00-04:00"
+    "id": "2026-08-19-markets-prima-plazo-domina-precio-riesgo",
+    "title": "La prima de plazo domina el precio del riesgo mientras petróleo e IA compiten por capital",
+    "publishedAt": "2026-08-19T07:15:00-04:00",
+    "cutoffAt": "2026-08-19T07:10:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-18",
+    "date": "2026-08-19",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 16,
+    "daily": 17,
     "weekly": 3,
-    "national": 9,
-    "markets": 9,
+    "national": 10,
+    "markets": 10,
     "readings": 4,
-    "total": 41
+    "total": 44
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-18",
+    "asOf": "2026-08-19",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
