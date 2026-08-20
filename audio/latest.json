@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 2,
   "status": "published",
-  "date": "2026-08-19",
-  "title": "ATLAS NEWS — Resumen diario — 19 de agosto de 2026",
+  "date": "2026-08-20",
+  "title": "ATLAS NEWS — Resumen diario — 20 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-19-resumen-diario.mp3",
-  "durationSeconds": 273.0,
-  "durationLabel": "5 min",
-  "generatedAt": "2026-08-19T11:16:01.906427+00:00",
+  "path": "/audio/2026-08-20-resumen-diario.mp3",
+  "durationSeconds": 268.1,
+  "durationLabel": "4 min",
+  "generatedAt": "2026-08-20T11:14:23.173694+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-19-daily-tasas-largas-reordenan-riesgo",
-    "national": "2026-08-19-national-demanda-interna-amortigua-caida-del-pib",
-    "markets": "2026-08-19-markets-prima-plazo-domina-precio-riesgo"
+    "general": "2026-08-20-daily-tesoro-alivia-curva-no-resuelve-riesgo",
+    "national": "2026-08-20-national-credito-tensiona-recuperacion",
+    "markets": "2026-08-20-markets-recompra-tesoro-no-elimina-prima-plazo"
   }
 }
