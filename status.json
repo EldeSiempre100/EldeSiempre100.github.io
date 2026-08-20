@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f67bd3d873502434122f9eb01ef929792ee656e1",
+  "sourceCommit": "422322a19c8900e8fe503115b7b91b2df5ffb80f",
   "latestDaily": {
-    "id": "2026-08-19-daily-tasas-largas-reordenan-riesgo",
-    "issueNumber": 17,
-    "title": "Las tasas largas reordenan el precio del riesgo mientras Chile pierde impulso",
-    "publishedAt": "2026-08-19T06:00:00-04:00",
-    "cutoffAt": "2026-08-19T05:58:00-04:00"
+    "id": "2026-08-20-daily-tesoro-alivia-curva-no-resuelve-riesgo",
+    "issueNumber": 18,
+    "title": "El Tesoro alivia la curva, pero no resuelve el riesgo de tasas largas",
+    "publishedAt": "2026-08-20T06:00:00-04:00",
+    "cutoffAt": "2026-08-20T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-19-national-demanda-interna-amortigua-caida-del-pib",
-    "title": "La demanda interna amortigua la caída del PIB, pero la inversión todavía no confirma una recuperación amplia",
-    "publishedAt": "2026-08-19T06:15:00-04:00",
-    "cutoffAt": "2026-08-19T06:15:00-04:00"
+    "id": "2026-08-20-national-credito-tensiona-recuperacion",
+    "title": "El crédito empieza a tensionar una recuperación que todavía pierde fuerza",
+    "publishedAt": "2026-08-20T06:15:00-04:00",
+    "cutoffAt": "2026-08-20T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-19-markets-prima-plazo-domina-precio-riesgo",
-    "title": "La prima de plazo domina el precio del riesgo mientras petróleo e IA compiten por capital",
-    "publishedAt": "2026-08-19T07:15:00-04:00",
-    "cutoffAt": "2026-08-19T07:10:00-04:00"
+    "id": "2026-08-20-markets-recompra-tesoro-no-elimina-prima-plazo",
+    "title": "La recompra del Tesoro frena el shock, pero no elimina la prima de plazo",
+    "publishedAt": "2026-08-20T06:20:00-04:00",
+    "cutoffAt": "2026-08-20T06:20:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 17,
+    "daily": 18,
     "weekly": 3,
-    "national": 10,
-    "markets": 10,
+    "national": 11,
+    "markets": 11,
     "readings": 4,
-    "total": 44
+    "total": 47
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-19",
+    "asOf": "2026-08-20",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
