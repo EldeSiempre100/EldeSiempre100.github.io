@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 2,
   "status": "published",
-  "date": "2026-08-20",
-  "title": "ATLAS NEWS — Resumen diario — 20 de agosto de 2026",
-  "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-20-resumen-diario.mp3",
-  "durationSeconds": 268.1,
+  "date": "2026-08-21",
+  "title": "ATLAS NEWS — Resumen diario — 21 de agosto de 2026",
+  "summary": "Una cápsula con las señales principales de General, Nacional.",
+  "path": "/audio/2026-08-21-resumen-diario.mp3",
+  "durationSeconds": 221.9,
   "durationLabel": "4 min",
-  "generatedAt": "2026-08-20T11:14:23.173694+00:00",
+  "generatedAt": "2026-08-21T11:09:41.364929+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
-  "completeness": 3,
+  "completeness": 2,
   "sourceIds": {
-    "general": "2026-08-20-daily-tesoro-alivia-curva-no-resuelve-riesgo",
-    "national": "2026-08-20-national-credito-tensiona-recuperacion",
-    "markets": "2026-08-20-markets-recompra-tesoro-no-elimina-prima-plazo"
+    "general": "2026-08-21-daily-bolsas-globales-peor-semana-desde-julio",
+    "national": "2026-08-21-national-shock-energetico-presiona-margenes-y-credito",
+    "markets": null
   }
 }
