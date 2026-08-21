@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "422322a19c8900e8fe503115b7b91b2df5ffb80f",
+  "sourceCommit": "1da1d3e71a9732ab51fc3f932f658faf8c7e0f8e",
   "latestDaily": {
-    "id": "2026-08-20-daily-tesoro-alivia-curva-no-resuelve-riesgo",
-    "issueNumber": 18,
-    "title": "El Tesoro alivia la curva, pero no resuelve el riesgo de tasas largas",
-    "publishedAt": "2026-08-20T06:00:00-04:00",
-    "cutoffAt": "2026-08-20T06:00:00-04:00"
+    "id": "2026-08-21-daily-bolsas-globales-peor-semana-desde-julio",
+    "issueNumber": 19,
+    "title": "Las bolsas globales encaran su peor semana desde julio por tasas largas y petróleo",
+    "publishedAt": "2026-08-21T06:00:00-04:00",
+    "cutoffAt": "2026-08-21T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-20-national-credito-tensiona-recuperacion",
-    "title": "El crédito empieza a tensionar una recuperación que todavía pierde fuerza",
-    "publishedAt": "2026-08-20T06:15:00-04:00",
-    "cutoffAt": "2026-08-20T06:15:00-04:00"
+    "id": "2026-08-21-national-shock-energetico-presiona-margenes-y-credito",
+    "title": "El shock energético presiona márgenes y crédito antes de trasladarse por completo a la inflación",
+    "publishedAt": "2026-08-21T06:20:00-04:00",
+    "cutoffAt": "2026-08-21T06:20:00-04:00"
   },
   "latestMarkets": {
     "id": "2026-08-20-markets-recompra-tesoro-no-elimina-prima-plazo",
@@ -21,23 +21,23 @@
     "cutoffAt": "2026-08-20T06:20:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-20",
+    "date": "2026-08-21",
     "generalPublished": true,
     "nationalPublished": true,
-    "marketsPublished": true,
-    "completeness": 3
+    "marketsPublished": false,
+    "completeness": 2
   },
   "publications": {
-    "daily": 18,
+    "daily": 19,
     "weekly": 3,
-    "national": 11,
+    "national": 12,
     "markets": 11,
     "readings": 4,
-    "total": 47
+    "total": 49
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-20",
+    "asOf": "2026-08-21",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
