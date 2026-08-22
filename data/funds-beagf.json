@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "status": "current",
-  "asOf": "2026-08-19",
-  "fetchedAt": "2026-08-21T13:45:24.356Z",
+  "asOf": "2026-08-20",
+  "fetchedAt": "2026-08-22T13:32:23.341Z",
   "source": {
     "name": "BuscaFondos",
     "provider": "buscafondos",
@@ -14,13 +14,13 @@
       "displayName": "Conveniencia",
       "seriesId": "2923188229",
       "seriesName": "C",
-      "effectiveDate": "2026-08-19",
+      "effectiveDate": "2026-08-20",
       "trend": "up",
       "returns": {
         "d7": 0.06,
         "d30": 0.26,
-        "d60": 0.5,
-        "d90": 0.77,
+        "d60": 0.51,
+        "d90": 0.78,
         "y1": 3.25
       }
     },
@@ -29,13 +29,13 @@
       "displayName": "Liquidez ASG",
       "seriesId": "1364354814",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
+      "effectiveDate": "2026-08-20",
       "trend": "up",
       "returns": {
         "d7": 0.06,
         "d30": 0.26,
-        "d60": 0.5,
-        "d90": 0.77,
+        "d60": 0.51,
+        "d90": 0.78,
         "y1": 3.22
       }
     },
@@ -44,14 +44,14 @@
       "displayName": "Chile Sostenible Conservador",
       "seriesId": "619462196",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
+      "effectiveDate": "2026-08-20",
       "trend": "up",
       "returns": {
-        "d7": 0.09,
-        "d30": 0.31,
+        "d7": 0.07,
+        "d30": 0.32,
         "d60": 0.61,
         "d90": 0.86,
-        "y1": 4.41
+        "y1": 4.42
       }
     },
     {
@@ -59,10 +59,10 @@
       "displayName": "Mi Futuro Accesible",
       "seriesId": "240528668",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
+      "effectiveDate": "2026-08-20",
       "trend": "up",
       "returns": {
-        "d7": 0.09,
+        "d7": 0.08,
         "d30": 0.34,
         "d60": 0.69,
         "d90": 0.9,
@@ -74,14 +74,14 @@
       "displayName": "Mi Futuro Conservador",
       "seriesId": "1601605775",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
-      "trend": "up",
+      "effectiveDate": "2026-08-20",
+      "trend": "down",
       "returns": {
-        "d7": 0.11,
-        "d30": 0.33,
-        "d60": 0.79,
-        "d90": 0.73,
-        "y1": 4.96
+        "d7": 0.07,
+        "d30": 0.35,
+        "d60": 0.78,
+        "d90": 0.72,
+        "y1": 5.01
       }
     },
     {
@@ -89,14 +89,14 @@
       "displayName": "Mi Futuro Moderado",
       "seriesId": "1357703813",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
-      "trend": "up",
+      "effectiveDate": "2026-08-20",
+      "trend": "down",
       "returns": {
-        "d7": 0.2,
-        "d30": 0.56,
-        "d60": 0.91,
-        "d90": 1.15,
-        "y1": 6.01
+        "d7": 0.07,
+        "d30": 0.48,
+        "d60": 0.86,
+        "d90": 1.1,
+        "y1": 6.07
       }
     },
     {
@@ -104,14 +104,14 @@
       "displayName": "Chile Ecológico",
       "seriesId": "395874242",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
-      "trend": "up",
+      "effectiveDate": "2026-08-20",
+      "trend": "down",
       "returns": {
-        "d7": 0.16,
-        "d30": 0.24,
-        "d60": 0.58,
-        "d90": 0.46,
-        "y1": 4.73
+        "d7": 0.08,
+        "d30": 0.33,
+        "d60": 0.54,
+        "d90": 0.42,
+        "y1": 4.71
       }
     },
     {
@@ -119,14 +119,14 @@
       "displayName": "Perfil E",
       "seriesId": "1502993196",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
+      "effectiveDate": "2026-08-20",
       "trend": "up",
       "returns": {
-        "d7": 0.35,
-        "d30": 0.36,
-        "d60": 0.87,
-        "d90": 1.23,
-        "y1": 6.42
+        "d7": 0.26,
+        "d30": 0.32,
+        "d60": 0.88,
+        "d90": 1.24,
+        "y1": 6.64
       }
     },
     {
@@ -134,14 +134,14 @@
       "displayName": "Perfil C",
       "seriesId": "63492819",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
+      "effectiveDate": "2026-08-20",
       "trend": "up",
       "returns": {
-        "d7": 0.52,
-        "d30": 0.99,
-        "d60": 0.93,
-        "d90": 2.39,
-        "y1": 10.54
+        "d7": 0.29,
+        "d30": 0.55,
+        "d60": 0.95,
+        "d90": 2.41,
+        "y1": 10.7
       }
     },
     {
@@ -149,14 +149,14 @@
       "displayName": "Perfil A",
       "seriesId": "2200754105",
       "seriesName": "Clásico",
-      "effectiveDate": "2026-08-19",
+      "effectiveDate": "2026-08-20",
       "trend": "down",
       "returns": {
-        "d7": 0.66,
-        "d30": 1.74,
-        "d60": 1.08,
-        "d90": 3.49,
-        "y1": 15.05
+        "d7": 0.11,
+        "d30": 1.08,
+        "d60": 0.99,
+        "d90": 3.4,
+        "y1": 15.11
       }
     }
   ]
