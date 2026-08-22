@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 2,
   "status": "published",
-  "date": "2026-08-21",
-  "title": "ATLAS NEWS — Resumen diario — 21 de agosto de 2026",
-  "summary": "Una cápsula con las señales principales de General, Nacional.",
-  "path": "/audio/2026-08-21-resumen-diario.mp3",
-  "durationSeconds": 221.9,
-  "durationLabel": "4 min",
-  "generatedAt": "2026-08-21T11:09:41.364929+00:00",
+  "date": "2026-08-22",
+  "title": "ATLAS NEWS — Resumen diario — 22 de agosto de 2026",
+  "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
+  "path": "/audio/2026-08-22-resumen-diario.mp3",
+  "durationSeconds": 272.3,
+  "durationLabel": "5 min",
+  "generatedAt": "2026-08-22T11:12:31.369094+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
-  "completeness": 2,
+  "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-21-daily-bolsas-globales-peor-semana-desde-julio",
-    "national": "2026-08-21-national-shock-energetico-presiona-margenes-y-credito",
-    "markets": null
+    "general": "2026-08-22-daily-mercado-exige-prima-por-capital",
+    "national": "2026-08-22-national-lbtr-abre-infraestructura-a-no-bancos",
+    "markets": "2026-08-22-markets-capital-se-encarece-y-flujos-discriminan"
   }
 }
