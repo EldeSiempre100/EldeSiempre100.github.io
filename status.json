@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "1da1d3e71a9732ab51fc3f932f658faf8c7e0f8e",
+  "sourceCommit": "f20af3b70b86960135ae414c8f19caabeb18456c",
   "latestDaily": {
-    "id": "2026-08-21-daily-bolsas-globales-peor-semana-desde-julio",
-    "issueNumber": 19,
-    "title": "Las bolsas globales encaran su peor semana desde julio por tasas largas y petróleo",
-    "publishedAt": "2026-08-21T06:00:00-04:00",
-    "cutoffAt": "2026-08-21T06:00:00-04:00"
+    "id": "2026-08-22-daily-mercado-exige-prima-por-capital",
+    "issueNumber": 20,
+    "title": "El mercado exige una prima mayor por capital pese al rebote de Wall Street",
+    "publishedAt": "2026-08-22T06:00:00-04:00",
+    "cutoffAt": "2026-08-22T05:57:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-21-national-shock-energetico-presiona-margenes-y-credito",
-    "title": "El shock energético presiona márgenes y crédito antes de trasladarse por completo a la inflación",
-    "publishedAt": "2026-08-21T06:20:00-04:00",
-    "cutoffAt": "2026-08-21T06:20:00-04:00"
+    "id": "2026-08-22-national-lbtr-abre-infraestructura-a-no-bancos",
+    "title": "El Banco Central abre el LBTR a nuevos actores y cambia la arquitectura de pagos de alto valor",
+    "publishedAt": "2026-08-22T06:15:00-04:00",
+    "cutoffAt": "2026-08-22T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-20-markets-recompra-tesoro-no-elimina-prima-plazo",
-    "title": "La recompra del Tesoro frena el shock, pero no elimina la prima de plazo",
-    "publishedAt": "2026-08-20T06:20:00-04:00",
-    "cutoffAt": "2026-08-20T06:20:00-04:00"
+    "id": "2026-08-22-markets-capital-se-encarece-y-flujos-discriminan",
+    "title": "El capital se encarece, pero los flujos siguen comprando riesgo con mayor discriminación",
+    "publishedAt": "2026-08-22T10:30:00-04:00",
+    "cutoffAt": "2026-08-22T10:15:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "generalPublished": true,
     "nationalPublished": true,
-    "marketsPublished": false,
-    "completeness": 2
+    "marketsPublished": true,
+    "completeness": 3
   },
   "publications": {
-    "daily": 19,
+    "daily": 20,
     "weekly": 3,
-    "national": 12,
-    "markets": 11,
+    "national": 13,
+    "markets": 12,
     "readings": 4,
-    "total": 49
+    "total": 52
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-21",
+    "asOf": "2026-08-22",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
