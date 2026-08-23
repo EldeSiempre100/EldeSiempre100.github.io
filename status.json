@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "5d91a6faa84c54b83d40f5ea2fd9d8298c912ef0",
+  "sourceCommit": "9b7862eb628094949ff0f465a75241ee9daa8126",
   "latestDaily": {
     "id": "2026-08-23-daily-capital-caro-pone-a-prueba-fed-e-ia",
     "issueNumber": 21,
@@ -32,8 +32,8 @@
     "weekly": 3,
     "national": 14,
     "markets": 13,
-    "readings": 4,
-    "total": 55
+    "readings": 6,
+    "total": 57
   },
   "indicators": {
     "status": "current",
