@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 2,
   "status": "published",
-  "date": "2026-08-22",
-  "title": "ATLAS NEWS — Resumen diario — 22 de agosto de 2026",
+  "date": "2026-08-23",
+  "title": "ATLAS NEWS — Resumen diario — 23 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-22-resumen-diario.mp3",
-  "durationSeconds": 272.3,
+  "path": "/audio/2026-08-23-resumen-diario.mp3",
+  "durationSeconds": 274.3,
   "durationLabel": "5 min",
-  "generatedAt": "2026-08-22T11:12:31.369094+00:00",
+  "generatedAt": "2026-08-23T11:11:03.968427+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-22-daily-mercado-exige-prima-por-capital",
-    "national": "2026-08-22-national-lbtr-abre-infraestructura-a-no-bancos",
-    "markets": "2026-08-22-markets-capital-se-encarece-y-flujos-discriminan"
+    "general": "2026-08-23-daily-capital-caro-pone-a-prueba-fed-e-ia",
+    "national": "2026-08-23-national-consumo-y-costos-prueban-debilidad-local",
+    "markets": "2026-08-23-markets-flujos-compran-riesgo-pero-capital-cobra-prima"
   }
 }
