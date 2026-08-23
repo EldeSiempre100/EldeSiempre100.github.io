@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "6b29db6210a202156650c55186bdfce2f0da6331",
+  "sourceCommit": "a5b5557572c44d11beb219106a486f03a6baf5f7",
   "latestDaily": {
     "id": "2026-08-23-daily-capital-caro-pone-a-prueba-fed-e-ia",
     "issueNumber": 21,
@@ -36,7 +36,7 @@
     "total": 57
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-08-23",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
