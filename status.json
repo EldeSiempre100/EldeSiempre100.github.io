@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "bb1fe086aadf06dcd2400f9d5f49069b60afbf9e",
+  "sourceCommit": "308894ace61c9b82158d9aafb914739e804a2210",
   "latestDaily": {
     "id": "2026-08-23-daily-capital-caro-pone-a-prueba-fed-e-ia",
     "issueNumber": 21,
-    "title": "El capital caro pone a prueba la pausa de la Fed y el ciclo de IA",
+    "title": "Tasas largas en máximos desde 2007 dejan a Jackson Hole y Nvidia como pruebas de la semana",
     "publishedAt": "2026-08-23T06:00:00-04:00",
     "cutoffAt": "2026-08-23T06:00:00-04:00"
   },
   "latestNational": {
     "id": "2026-08-23-national-consumo-y-costos-prueban-debilidad-local",
-    "title": "Consumo y costos pondrán a prueba si la debilidad chilena abre espacio real para la TPM",
+    "title": "Precios de productor, ventas y empleo medirán si la debilidad chilena se extiende a la demanda",
     "publishedAt": "2026-08-23T06:30:00-04:00",
     "cutoffAt": "2026-08-23T06:20:00-04:00"
   },
   "latestMarkets": {
     "id": "2026-08-23-markets-flujos-compran-riesgo-pero-capital-cobra-prima",
-    "title": "Los flujos compran riesgo, pero el capital cobra una prima cada vez más selectiva",
+    "title": "Acciones y bonos siguieron recibiendo flujos pese a la peor semana bursátil desde julio",
     "publishedAt": "2026-08-23T07:00:00-04:00",
     "cutoffAt": "2026-08-23T06:50:00-04:00"
   },
