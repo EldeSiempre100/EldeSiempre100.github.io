@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f20af3b70b86960135ae414c8f19caabeb18456c",
+  "sourceCommit": "5d91a6faa84c54b83d40f5ea2fd9d8298c912ef0",
   "latestDaily": {
-    "id": "2026-08-22-daily-mercado-exige-prima-por-capital",
-    "issueNumber": 20,
-    "title": "El mercado exige una prima mayor por capital pese al rebote de Wall Street",
-    "publishedAt": "2026-08-22T06:00:00-04:00",
-    "cutoffAt": "2026-08-22T05:57:00-04:00"
+    "id": "2026-08-23-daily-capital-caro-pone-a-prueba-fed-e-ia",
+    "issueNumber": 21,
+    "title": "El capital caro pone a prueba la pausa de la Fed y el ciclo de IA",
+    "publishedAt": "2026-08-23T06:00:00-04:00",
+    "cutoffAt": "2026-08-23T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-22-national-lbtr-abre-infraestructura-a-no-bancos",
-    "title": "El Banco Central abre el LBTR a nuevos actores y cambia la arquitectura de pagos de alto valor",
-    "publishedAt": "2026-08-22T06:15:00-04:00",
-    "cutoffAt": "2026-08-22T06:15:00-04:00"
+    "id": "2026-08-23-national-consumo-y-costos-prueban-debilidad-local",
+    "title": "Consumo y costos pondrán a prueba si la debilidad chilena abre espacio real para la TPM",
+    "publishedAt": "2026-08-23T06:30:00-04:00",
+    "cutoffAt": "2026-08-23T06:20:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-22-markets-capital-se-encarece-y-flujos-discriminan",
-    "title": "El capital se encarece, pero los flujos siguen comprando riesgo con mayor discriminación",
-    "publishedAt": "2026-08-22T10:30:00-04:00",
-    "cutoffAt": "2026-08-22T10:15:00-04:00"
+    "id": "2026-08-23-markets-flujos-compran-riesgo-pero-capital-cobra-prima",
+    "title": "Los flujos compran riesgo, pero el capital cobra una prima cada vez más selectiva",
+    "publishedAt": "2026-08-23T07:00:00-04:00",
+    "cutoffAt": "2026-08-23T06:50:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 20,
+    "daily": 21,
     "weekly": 3,
-    "national": 13,
-    "markets": 12,
+    "national": 14,
+    "markets": 13,
     "readings": 4,
-    "total": 52
+    "total": 55
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-22",
+    "asOf": "2026-08-23",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
