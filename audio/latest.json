@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 4,
   "status": "published",
-  "date": "2026-08-23",
-  "title": "ATLAS NEWS — Resumen diario — 23 de agosto de 2026",
+  "date": "2026-08-24",
+  "title": "ATLAS NEWS — Resumen diario — 24 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-23-resumen-diario.mp3",
-  "durationSeconds": 274.2,
+  "path": "/audio/2026-08-24-resumen-diario.mp3",
+  "durationSeconds": 278.3,
   "durationLabel": "5 min",
-  "generatedAt": "2026-08-23T16:33:44.605334+00:00",
+  "generatedAt": "2026-08-24T12:56:29.238092+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-23-daily-capital-caro-pone-a-prueba-fed-e-ia",
-    "national": "2026-08-23-national-consumo-y-costos-prueban-debilidad-local",
-    "markets": "2026-08-23-markets-flujos-compran-riesgo-pero-capital-cobra-prima"
+    "general": "2026-08-24-daily-mercado-exige-retorno-capital-antes-nvidia",
+    "national": "2026-08-24-national-presupuesto-2027-entra-en-fase-de-parametros",
+    "markets": "2026-08-24-markets-capital-ia-exige-descuento-y-payback"
   }
 }
