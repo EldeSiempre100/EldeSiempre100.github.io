@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4e4736ebc8d3f2edda2d77c9c5646134f4678c5e",
+  "sourceCommit": "0eb5930f18c0ec01a40cccdf02bb4c67791f4423",
   "latestDaily": {
-    "id": "2026-08-23-daily-capital-caro-pone-a-prueba-fed-e-ia",
-    "issueNumber": 21,
-    "title": "Tasas largas en máximos desde 2007 dejan a Jackson Hole y Nvidia como pruebas de la semana",
-    "publishedAt": "2026-08-23T06:00:00-04:00",
-    "cutoffAt": "2026-08-23T06:00:00-04:00"
+    "id": "2026-08-24-daily-mercado-exige-retorno-capital-antes-nvidia",
+    "issueNumber": 22,
+    "title": "El mercado exige retorno al capital antes de los resultados de Nvidia",
+    "publishedAt": "2026-08-24T06:00:00-04:00",
+    "cutoffAt": "2026-08-24T05:57:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-23-national-consumo-y-costos-prueban-debilidad-local",
-    "title": "Precios de productor, ventas y empleo medirán si la debilidad chilena se extiende a la demanda",
-    "publishedAt": "2026-08-23T06:30:00-04:00",
-    "cutoffAt": "2026-08-23T06:20:00-04:00"
+    "id": "2026-08-24-national-presupuesto-2027-entra-en-fase-de-parametros",
+    "title": "Presupuesto 2027 entra en su fase decisiva con poco margen para equivocarse",
+    "publishedAt": "2026-08-24T10:30:00-04:00",
+    "cutoffAt": "2026-08-24T10:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-23-markets-flujos-compran-riesgo-pero-capital-cobra-prima",
-    "title": "Acciones y bonos siguieron recibiendo flujos pese a la peor semana bursátil desde julio",
-    "publishedAt": "2026-08-23T07:00:00-04:00",
-    "cutoffAt": "2026-08-23T06:50:00-04:00"
+    "id": "2026-08-24-markets-capital-ia-exige-descuento-y-payback",
+    "title": "El capital para IA sigue disponible, pero ahora exige descuento y payback",
+    "publishedAt": "2026-08-24T10:20:00-04:00",
+    "cutoffAt": "2026-08-24T10:15:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 21,
+    "daily": 22,
     "weekly": 4,
-    "national": 14,
-    "markets": 13,
+    "national": 15,
+    "markets": 14,
     "readings": 6,
-    "total": 58
+    "total": 61
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-08-23",
+    "status": "current",
+    "asOf": "2026-08-24",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
