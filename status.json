@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0eb5930f18c0ec01a40cccdf02bb4c67791f4423",
+  "sourceCommit": "72736ee483674877c4d7ccf18b858b5fde9bd00c",
   "latestDaily": {
     "id": "2026-08-24-daily-mercado-exige-retorno-capital-antes-nvidia",
     "issueNumber": 22,
@@ -36,7 +36,7 @@
     "total": 61
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-08-24",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
