@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "78f259c9549d7101e5b190f146cc2b1bafde5190",
+  "sourceCommit": "1e9cb81b7e9475a489a8957c4b181a38d168c9cf",
   "latestDaily": {
     "id": "2026-08-25-daily-mercado-reduce-prima-iran-y-mira-nvidia",
     "issueNumber": 23,
@@ -36,7 +36,7 @@
     "total": 64
   },
   "indicators": {
-    "status": "stale",
+    "status": "current",
     "asOf": "2026-08-25",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
