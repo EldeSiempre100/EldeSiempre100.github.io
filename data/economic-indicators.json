@@ -3,7 +3,7 @@
   "status": "stale",
   "asOf": "2026-08-25",
   "fetchedAt": "2026-08-25T11:08:27.823Z",
-  "lastAttemptAt": "2026-08-25T15:06:16.594Z",
+  "lastAttemptAt": "2026-08-25T16:05:09.254Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -20,11 +20,7 @@
       "label": "Dólar observado",
       "value": 914.64,
       "unit": "clp",
-      "effectiveDate": "2026-08-25",
-      "previousValue": 918.17,
-      "previousEffectiveDate": "2026-08-24",
-      "changePercent": -0.38,
-      "trend": "down"
+      "effectiveDate": "2026-08-25"
     },
     {
       "code": "euro",
