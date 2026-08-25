@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "72736ee483674877c4d7ccf18b858b5fde9bd00c",
+  "sourceCommit": "08df0efd571d9eee050648a299706bccfa36b301",
   "latestDaily": {
-    "id": "2026-08-24-daily-mercado-exige-retorno-capital-antes-nvidia",
-    "issueNumber": 22,
-    "title": "El mercado exige retorno al capital antes de los resultados de Nvidia",
-    "publishedAt": "2026-08-24T06:00:00-04:00",
-    "cutoffAt": "2026-08-24T05:57:00-04:00"
+    "id": "2026-08-25-daily-mercado-reduce-prima-iran-y-mira-nvidia",
+    "issueNumber": 23,
+    "title": "El mercado reduce la prima por Irán y concentra el riesgo en Nvidia y la Fed",
+    "publishedAt": "2026-08-25T06:00:00-04:00",
+    "cutoffAt": "2026-08-25T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-24-national-presupuesto-2027-entra-en-fase-de-parametros",
-    "title": "Presupuesto 2027 entra en su fase decisiva con poco margen para equivocarse",
-    "publishedAt": "2026-08-24T10:30:00-04:00",
-    "cutoffAt": "2026-08-24T10:15:00-04:00"
+    "id": "2026-08-25-national-costos-productor-suben-sin-validar-traspaso-al-ipc",
+    "title": "Los costos de productor aceleran, pero el cobre explica buena parte de la presión",
+    "publishedAt": "2026-08-25T06:00:00-04:00",
+    "cutoffAt": "2026-08-25T06:00:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-24-markets-capital-ia-exige-descuento-y-payback",
-    "title": "El capital para IA sigue disponible, pero ahora exige descuento y payback",
-    "publishedAt": "2026-08-24T10:20:00-04:00",
-    "cutoffAt": "2026-08-24T10:15:00-04:00"
+    "id": "2026-08-25-markets-sanciones-pierden-prima-y-rotacion-cambia",
+    "title": "Las sanciones pierden prima y el mercado rota desde geopolítica hacia ejecución",
+    "publishedAt": "2026-08-25T06:00:00-04:00",
+    "cutoffAt": "2026-08-25T06:00:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 22,
+    "daily": 23,
     "weekly": 4,
-    "national": 15,
-    "markets": 14,
+    "national": 16,
+    "markets": 15,
     "readings": 6,
-    "total": 61
+    "total": 64
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-08-24",
+    "status": "current",
+    "asOf": "2026-08-25",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

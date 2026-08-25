@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
-  "asOf": "2026-08-24",
-  "fetchedAt": "2026-08-24T12:48:57.996Z",
-  "lastAttemptAt": "2026-08-24T12:59:33.589Z",
+  "status": "current",
+  "asOf": "2026-08-25",
+  "fetchedAt": "2026-08-25T11:08:27.823Z",
+  "lastAttemptAt": "2026-08-25T11:08:27.823Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,30 +11,30 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 40864.55,
+      "value": 40865.87,
       "unit": "clp",
-      "effectiveDate": "2026-08-24"
+      "effectiveDate": "2026-08-25"
     },
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 918.17,
+      "value": 914.64,
       "unit": "clp",
-      "effectiveDate": "2026-08-24",
-      "previousValue": 923.23,
-      "previousEffectiveDate": "2026-08-21",
-      "changePercent": -0.55,
+      "effectiveDate": "2026-08-25",
+      "previousValue": 918.17,
+      "previousEffectiveDate": "2026-08-24",
+      "changePercent": -0.38,
       "trend": "down"
     },
     {
       "code": "euro",
       "label": "Euro",
-      "value": 1072.63,
+      "value": 1066.64,
       "unit": "clp",
-      "effectiveDate": "2026-08-24",
-      "previousValue": 1077.66,
-      "previousEffectiveDate": "2026-08-21",
-      "changePercent": -0.47,
+      "effectiveDate": "2026-08-25",
+      "previousValue": 1072.63,
+      "previousEffectiveDate": "2026-08-24",
+      "changePercent": -0.56,
       "trend": "down"
     },
     {
@@ -49,18 +49,18 @@
       "label": "TPM",
       "value": 4.5,
       "unit": "percent",
-      "effectiveDate": "2026-08-24"
+      "effectiveDate": "2026-08-25"
     },
     {
       "code": "cobre",
       "label": "Cobre",
-      "value": 6.4,
+      "value": 6.48,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-08-24",
-      "previousValue": 6.52,
-      "previousEffectiveDate": "2026-08-21",
-      "changePercent": -1.84,
-      "trend": "down"
+      "effectiveDate": "2026-08-25",
+      "previousValue": 6.4,
+      "previousEffectiveDate": "2026-08-24",
+      "changePercent": 1.25,
+      "trend": "up"
     }
   ]
 }
