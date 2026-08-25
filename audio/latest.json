@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 4,
   "status": "published",
-  "date": "2026-08-24",
-  "title": "ATLAS NEWS — Resumen diario — 24 de agosto de 2026",
+  "date": "2026-08-25",
+  "title": "ATLAS NEWS — Resumen diario — 25 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-24-resumen-diario.mp3",
-  "durationSeconds": 278.3,
-  "durationLabel": "5 min",
-  "generatedAt": "2026-08-24T12:56:29.238092+00:00",
+  "path": "/audio/2026-08-25-resumen-diario.mp3",
+  "durationSeconds": 269.6,
+  "durationLabel": "4 min",
+  "generatedAt": "2026-08-25T11:15:39.654447+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-24-daily-mercado-exige-retorno-capital-antes-nvidia",
-    "national": "2026-08-24-national-presupuesto-2027-entra-en-fase-de-parametros",
-    "markets": "2026-08-24-markets-capital-ia-exige-descuento-y-payback"
+    "general": "2026-08-25-daily-mercado-reduce-prima-iran-y-mira-nvidia",
+    "national": "2026-08-25-national-costos-productor-suben-sin-validar-traspaso-al-ipc",
+    "markets": "2026-08-25-markets-sanciones-pierden-prima-y-rotacion-cambia"
   }
 }
