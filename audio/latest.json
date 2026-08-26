@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "scriptVersion": 4,
   "status": "published",
-  "date": "2026-08-25",
-  "title": "ATLAS NEWS — Resumen diario — 25 de agosto de 2026",
+  "date": "2026-08-26",
+  "title": "ATLAS NEWS — Resumen diario — 26 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-25-resumen-diario.mp3",
-  "durationSeconds": 269.6,
+  "path": "/audio/2026-08-26-resumen-diario.mp3",
+  "durationSeconds": 269.2,
   "durationLabel": "4 min",
-  "generatedAt": "2026-08-25T11:15:39.654447+00:00",
+  "generatedAt": "2026-08-26T11:12:39.677997+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-25-daily-mercado-reduce-prima-iran-y-mira-nvidia",
-    "national": "2026-08-25-national-costos-productor-suben-sin-validar-traspaso-al-ipc",
-    "markets": "2026-08-25-markets-sanciones-pierden-prima-y-rotacion-cambia"
+    "general": "2026-08-26-daily-mercado-retira-prima-energetica",
+    "national": "2026-08-26-national-comercio-resiste-con-demanda-desigual",
+    "markets": "2026-08-26-markets-alivio-crudo-rota-riesgo"
   }
 }
