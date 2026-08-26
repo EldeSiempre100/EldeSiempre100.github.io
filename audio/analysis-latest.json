@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T13:28:54.558790+00:00",
+  "sourceCommit": "9ce6ccfea3267cad47530ce627556c4a920a2678",
+  "national": {
+    "status": "published",
+    "sourceId": "2026-08-26-national-comercio-resiste-con-demanda-desigual",
+    "path": "/audio/2026-08-26-national-analysis.mp3",
+    "durationSeconds": 192.9,
+    "durationLabel": "3 min",
+    "bytes": 2314989,
+    "scriptVersion": 1,
+    "scriptHash": "cc6c8c1fbd9db4ce356f684798021dc11420f0127495e3193806626d0f0008aa",
+    "engine": "Kokoro-82M",
+    "voices": {
+      "voice1": "ef_dora",
+      "voice2": "em_alex"
+    },
+    "language": "es"
+  },
+  "markets": {
+    "status": "published",
+    "sourceId": "2026-08-26-markets-alivio-crudo-rota-riesgo",
+    "path": "/audio/2026-08-26-markets-analysis.mp3",
+    "durationSeconds": 221.8,
+    "durationLabel": "4 min",
+    "bytes": 2662317,
+    "scriptVersion": 1,
+    "scriptHash": "925b4dc8b92a037355f5c3a0cde4778af5d36bb826b38b7342ab57d500f956ac",
+    "engine": "Kokoro-82M",
+    "voices": {
+      "voice1": "ef_dora",
+      "voice2": "em_alex"
+    },
+    "language": "es"
+  }
+}
