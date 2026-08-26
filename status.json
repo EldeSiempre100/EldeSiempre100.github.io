@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "1e9cb81b7e9475a489a8957c4b181a38d168c9cf",
+  "sourceCommit": "7d9a029e5d1de3af8373eb7f015815df250fcf96",
   "latestDaily": {
-    "id": "2026-08-25-daily-mercado-reduce-prima-iran-y-mira-nvidia",
-    "issueNumber": 23,
-    "title": "El mercado reduce la prima por Irán y concentra el riesgo en Nvidia y la Fed",
-    "publishedAt": "2026-08-25T06:00:00-04:00",
-    "cutoffAt": "2026-08-25T06:00:00-04:00"
+    "id": "2026-08-26-daily-mercado-retira-prima-energetica",
+    "issueNumber": 24,
+    "title": "El mercado empieza a retirar la prima energética antes de Nvidia y PCE",
+    "publishedAt": "2026-08-26T06:00:00-04:00",
+    "cutoffAt": "2026-08-26T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-25-national-costos-productor-suben-sin-validar-traspaso-al-ipc",
-    "title": "Los costos de productor aceleran, pero el cobre explica buena parte de la presión",
-    "publishedAt": "2026-08-25T06:00:00-04:00",
-    "cutoffAt": "2026-08-25T06:00:00-04:00"
+    "id": "2026-08-26-national-comercio-resiste-con-demanda-desigual",
+    "title": "El comercio resiste en doce meses, pero julio deja una señal más débil en el margen",
+    "publishedAt": "2026-08-26T06:15:00-04:00",
+    "cutoffAt": "2026-08-26T06:13:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-25-markets-sanciones-pierden-prima-y-rotacion-cambia",
-    "title": "Las sanciones pierden prima y el mercado rota desde geopolítica hacia ejecución",
-    "publishedAt": "2026-08-25T06:00:00-04:00",
-    "cutoffAt": "2026-08-25T06:00:00-04:00"
+    "id": "2026-08-26-markets-alivio-crudo-rota-riesgo",
+    "title": "La caída del crudo rota el riesgo, pero cobre y tecnología muestran un alivio incompleto",
+    "publishedAt": "2026-08-26T06:30:00-04:00",
+    "cutoffAt": "2026-08-26T06:28:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 23,
+    "daily": 24,
     "weekly": 4,
-    "national": 16,
-    "markets": 15,
+    "national": 17,
+    "markets": 16,
     "readings": 6,
-    "total": 64
+    "total": 67
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-25",
+    "asOf": "2026-08-26",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
