@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "7d9a029e5d1de3af8373eb7f015815df250fcf96",
+  "sourceCommit": "9ce6ccfea3267cad47530ce627556c4a920a2678",
   "latestDaily": {
     "id": "2026-08-26-daily-mercado-retira-prima-energetica",
     "issueNumber": 24,
@@ -36,7 +36,7 @@
     "total": 67
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-08-26",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
