@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "9ce6ccfea3267cad47530ce627556c4a920a2678",
+  "sourceCommit": "3b9e75364237e6ab4e339234ef75ef941ec1b0a0",
   "latestDaily": {
-    "id": "2026-08-26-daily-mercado-retira-prima-energetica",
-    "issueNumber": 24,
-    "title": "El mercado empieza a retirar la prima energética antes de Nvidia y PCE",
-    "publishedAt": "2026-08-26T06:00:00-04:00",
-    "cutoffAt": "2026-08-26T06:00:00-04:00"
+    "id": "2026-08-27-daily-nvidia-valida-demanda-ia-con-capital-caro",
+    "issueNumber": 25,
+    "title": "Nvidia valida que la demanda de IA todavía absorbe el capital caro",
+    "publishedAt": "2026-08-27T06:00:00-04:00",
+    "cutoffAt": "2026-08-27T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-26-national-comercio-resiste-con-demanda-desigual",
-    "title": "El comercio resiste en doce meses, pero julio deja una señal más débil en el margen",
-    "publishedAt": "2026-08-26T06:15:00-04:00",
-    "cutoffAt": "2026-08-26T06:13:00-04:00"
+    "id": "2026-08-27-national-chile-reduce-seguro-fmi-y-refuerza-reservas",
+    "title": "Chile reduce su seguro con el FMI mientras fortalece reservas propias",
+    "publishedAt": "2026-08-27T06:15:00-04:00",
+    "cutoffAt": "2026-08-27T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-26-markets-alivio-crudo-rota-riesgo",
-    "title": "La caída del crudo rota el riesgo, pero cobre y tecnología muestran un alivio incompleto",
-    "publishedAt": "2026-08-26T06:30:00-04:00",
-    "cutoffAt": "2026-08-26T06:28:00-04:00"
+    "id": "2026-08-27-markets-nvidia-amplia-demanda-pero-no-el-rally",
+    "title": "Nvidia amplía la demanda de IA, pero el mercado no convierte la señal en un rally general",
+    "publishedAt": "2026-08-27T06:30:00-04:00",
+    "cutoffAt": "2026-08-27T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 24,
+    "daily": 25,
     "weekly": 4,
-    "national": 17,
-    "markets": 16,
+    "national": 18,
+    "markets": 17,
     "readings": 6,
-    "total": 67
+    "total": 70
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-08-26",
+    "status": "current",
+    "asOf": "2026-08-27",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
