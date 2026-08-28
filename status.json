@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "06901c260a4d9c75570f5977ae4d04d81ea6b2ce",
+  "sourceCommit": "e10133b5186f2b1b3fcd4cd7e8297428e9efe9a7",
   "latestDaily": {
-    "id": "2026-08-27-daily-nvidia-valida-demanda-ia-con-capital-caro",
-    "issueNumber": 25,
-    "title": "Nvidia valida que la demanda de IA todavía absorbe el capital caro",
-    "publishedAt": "2026-08-27T06:00:00-04:00",
-    "cutoffAt": "2026-08-27T06:00:00-04:00"
+    "id": "2026-08-28-daily-ia-sostiene-mercado-disciplina-capital",
+    "issueNumber": 26,
+    "title": "La IA sostiene el mercado, pero la disciplina de capital gana peso",
+    "publishedAt": "2026-08-28T05:58:00-04:00",
+    "cutoffAt": "2026-08-28T05:58:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-27-national-chile-reduce-seguro-fmi-y-refuerza-reservas",
-    "title": "Chile reduce su seguro con el FMI mientras fortalece reservas propias",
-    "publishedAt": "2026-08-27T06:15:00-04:00",
-    "cutoffAt": "2026-08-27T06:15:00-04:00"
+    "id": "2026-08-28-national-hacienda-moderniza-mercado-deuda-soberana",
+    "title": "Hacienda busca más liquidez en la deuda soberana con un programa de formadores de mercado",
+    "publishedAt": "2026-08-28T06:15:00-04:00",
+    "cutoffAt": "2026-08-28T06:12:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-27-markets-nvidia-amplia-demanda-pero-no-el-rally",
-    "title": "Nvidia amplía la demanda de IA, pero el mercado no convierte la señal en un rally general",
-    "publishedAt": "2026-08-27T06:30:00-04:00",
-    "cutoffAt": "2026-08-27T06:30:00-04:00"
+    "id": "2026-08-28-markets-francia-reabre-prima-fiscal",
+    "title": "Francia reabre la prima fiscal mientras tecnología sostiene el riesgo",
+    "publishedAt": "2026-08-28T07:10:00-04:00",
+    "cutoffAt": "2026-08-28T07:10:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 25,
+    "daily": 26,
     "weekly": 4,
-    "national": 18,
-    "markets": 17,
+    "national": 19,
+    "markets": 18,
     "readings": 6,
-    "total": 70
+    "total": 73
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-27",
+    "asOf": "2026-08-28",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
