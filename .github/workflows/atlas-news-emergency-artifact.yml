@@ -53,7 +53,7 @@ jobs:
           set -euo pipefail
           stage="$RUNNER_TEMP/atlas-news-emergency-dist"
           mkdir -p "$stage"
-          curl --retry 5 --retry-all-errors -fsSL "$BASE_URL/status.json" -o "$stage/status.json"
+          curl --retry 3 --retry-all-errors -fsSL "$BASE_URL/status.json" -o "$stage/status.json"
 
           jq -e --arg sha "$SOURCE_SHA" --arg date "$EXPECTED_DATE" '
             .schemaVersion == 1 and
@@ -89,8 +89,16 @@ jobs:
           fetch_page() {
             local route="$1"
             local target="$2"
+            local fallback
             mkdir -p "$(dirname "$target")"
-            curl --retry 5 --retry-all-errors -fsSL "$BASE_URL$route" -o "$target"
+            echo "fetching=$route"
+            if curl --retry 2 --retry-all-errors -fsSL "$BASE_URL$route" -o "$target"; then
+              test -s "$target"
+              return 0
+            fi
+            fallback="${route%/}/index.html"
+            echo "retrying=$fallback"
+            curl --retry 2 --retry-all-errors -fsSL "$BASE_URL$fallback" -o "$target"
             test -s "$target"
           }
 
@@ -103,7 +111,16 @@ jobs:
           fetch_page "/ediciones/$GENERAL_ID/" "$STAGE/ediciones/$GENERAL_ID/index.html"
           fetch_page "/nacional/$NATIONAL_ID/" "$STAGE/nacional/$NATIONAL_ID/index.html"
           fetch_page "/mercados/$MARKETS_ID/" "$STAGE/mercados/$MARKETS_ID/index.html"
-          fetch_page "/data/economic-indicators.json" "$STAGE/data/economic-indicators.json"
+
+          # Este JSON no forma parte del gate editorial. Si el build lo expone,
+          # se sincroniza; si no, se preserva el último snapshot público válido.
+          mkdir -p "$STAGE/data"
+          if curl --retry 1 --retry-all-errors -fsSL "$BASE_URL/data/economic-indicators.json" -o "$STAGE/data/economic-indicators.json"; then
+            echo "economic_indicators=downloaded"
+          else
+            rm -f "$STAGE/data/economic-indicators.json"
+            echo "economic_indicators=preserved"
+          fi
 
       - name: Sincronizar únicamente superficies afectadas
         env:
@@ -125,10 +142,12 @@ jobs:
           install -m 644 "$STAGE/ediciones/$GENERAL_ID/index.html" "ediciones/$GENERAL_ID/index.html"
           install -m 644 "$STAGE/nacional/$NATIONAL_ID/index.html" "nacional/$NATIONAL_ID/index.html"
           install -m 644 "$STAGE/mercados/$MARKETS_ID/index.html" "mercados/$MARKETS_ID/index.html"
-          install -m 644 "$STAGE/data/economic-indicators.json" data/economic-indicators.json
+          if [[ -f "$STAGE/data/economic-indicators.json" ]]; then
+            install -m 644 "$STAGE/data/economic-indicators.json" data/economic-indicators.json
+          fi
 
-          # audio/, .github/ y data/funds-beagf.json no se tocan.
-          git diff -- audio/ data/funds-beagf.json .github/workflows >/dev/null
+          test -d audio
+          test -f data/funds-beagf.json
 
       - name: Commit y push público de emergencia
         id: publish
@@ -138,10 +157,13 @@ jobs:
           set -euo pipefail
           git config user.name "ATLAS NEWS Emergency Runner"
           git config user.email "actions@users.noreply.github.com"
-          git add index.html status.json archivo/index.html ediciones/index.html estado/index.html nacional/index.html mercados/index.html data/economic-indicators.json
+          git add index.html status.json archivo/index.html ediciones/index.html estado/index.html nacional/index.html mercados/index.html
           git add "ediciones/${{ steps.manifest.outputs.general_id }}/index.html"
           git add "nacional/${{ steps.manifest.outputs.national_id }}/index.html"
           git add "mercados/${{ steps.manifest.outputs.markets_id }}/index.html"
+          if [[ -f "${{ steps.manifest.outputs.stage }}/data/economic-indicators.json" ]]; then
+            git add data/economic-indicators.json
+          fi
 
           if git diff --cached --quiet; then
             echo "La salida pública ya coincide con el artefacto validado."
