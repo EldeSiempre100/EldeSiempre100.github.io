@@ -74,14 +74,19 @@ jobs:
         env:
           RECOVERY_TOKEN: ${{ secrets.ATLAS_NEWS_RECOVERY_TOKEN }}
           NATIVE_TOKEN: ${{ github.token }}
+          SSH_FALLBACK: ${{ secrets.ATLAS_PAGES_DEPLOY_KEY }}
         run: |
           set -euo pipefail
           if [[ -n "$RECOVERY_TOKEN" ]]; then
             echo "token=$RECOVERY_TOKEN" >> "$GITHUB_OUTPUT"
-            echo "credential=dedicated" >> "$GITHUB_OUTPUT"
+            echo "credential=dedicated-token" >> "$GITHUB_OUTPUT"
           else
             echo "token=$NATIVE_TOKEN" >> "$GITHUB_OUTPUT"
-            echo "credential=native" >> "$GITHUB_OUTPUT"
+            if [[ -n "$SSH_FALLBACK" ]]; then
+              echo "credential=ssh-fallback" >> "$GITHUB_OUTPUT"
+            else
+              echo "credential=native-token" >> "$GITHUB_OUTPUT"
+            fi
           fi
 
       - name: Checkout fuente privada en SHA exacto
@@ -90,6 +95,7 @@ jobs:
           repository: EldeSiempre100/ATLAS_NEWS
           ref: ${{ steps.request.outputs.source_sha }}
           token: ${{ steps.auth.outputs.token }}
+          ssh-key: ${{ secrets.ATLAS_PAGES_DEPLOY_KEY }}
           path: source
           fetch-depth: 1
           persist-credentials: false
