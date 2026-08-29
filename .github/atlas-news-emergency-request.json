@@ -1,8 +1,8 @@
 {
-  "requested_at": "2026-08-29T10:30:00-04:00",
+  "requested_at": "2026-08-29T10:31:00-04:00",
   "date": "2026-08-29",
   "mode": "validate",
   "source_sha": "8c31424ab8be86b331acb96189bd492e7d45861e",
   "pr": 98,
-  "reason": "GitHub Actions privadas agotadas; validación de emergencia solicitada desde el repositorio público"
+  "reason": "GitHub Actions privadas agotadas; reintento de validación mediante Emergency Runner público"
 }
