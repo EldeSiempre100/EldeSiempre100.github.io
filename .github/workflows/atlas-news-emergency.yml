@@ -69,14 +69,19 @@ jobs:
           echo "mode=$mode" >> "$GITHUB_OUTPUT"
           echo "ATLAS_SOURCE_SHA=$source_sha" >> "$GITHUB_ENV"
 
-      - name: Verificar credencial de recuperación
+      - name: Resolver credencial de recuperación
+        id: auth
         env:
-          SOURCE_TOKEN: ${{ secrets.ATLAS_NEWS_RECOVERY_TOKEN }}
+          RECOVERY_TOKEN: ${{ secrets.ATLAS_NEWS_RECOVERY_TOKEN }}
+          NATIVE_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          if [[ -z "$SOURCE_TOKEN" ]]; then
-            echo "Falta el secret ATLAS_NEWS_RECOVERY_TOKEN de solo lectura." >&2
-            exit 1
+          if [[ -n "$RECOVERY_TOKEN" ]]; then
+            echo "token=$RECOVERY_TOKEN" >> "$GITHUB_OUTPUT"
+            echo "credential=dedicated" >> "$GITHUB_OUTPUT"
+          else
+            echo "token=$NATIVE_TOKEN" >> "$GITHUB_OUTPUT"
+            echo "credential=native" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Checkout fuente privada en SHA exacto
@@ -84,7 +89,7 @@ jobs:
         with:
           repository: EldeSiempre100/ATLAS_NEWS
           ref: ${{ steps.request.outputs.source_sha }}
-          token: ${{ secrets.ATLAS_NEWS_RECOVERY_TOKEN }}
+          token: ${{ steps.auth.outputs.token }}
           path: source
           fetch-depth: 1
           persist-credentials: false
