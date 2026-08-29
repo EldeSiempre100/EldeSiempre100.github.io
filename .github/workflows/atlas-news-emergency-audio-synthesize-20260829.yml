@@ -1,0 +1,99 @@
+name: ATLAS NEWS — Emergency Audio Synthesis — 2026-08-29
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/atlas-news-emergency-audio-synthesize-20260829.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atlas-news-public-audio-write
+  cancel-in-progress: false
+
+jobs:
+  synthesize-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      ATLAS_SOURCE_SHA: 6aacaa5c3f6511affd74516e9869435f26885238
+      ATLAS_DATE: "2026-08-29"
+      ATLAS_BUNDLE_BASE: https://atlas-news-emergency-audio-bundle.onrender.com
+      ATLAS_AUDIO_V2_PLAN: /tmp/atlas-audio-v2-plan.json
+      ATLAS_PUBLIC_REPO_DIR: ${{ github.workspace }}
+      ATLAS_AUDIO_SPEED: "1.0"
+
+    steps:
+      - name: Checkout public repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install system audio dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y espeak-ng ffmpeg
+
+      - name: Install canonical Kokoro dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install "kokoro==0.9.4" soundfile numpy
+
+      - name: Download SHA-pinned canonical audio bundle
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location "$ATLAS_BUNDLE_BASE/source-sha.txt" -o /tmp/source-sha.txt
+          curl --fail --silent --show-error --location "$ATLAS_BUNDLE_BASE/atlas-cover-plan.json" -o /tmp/atlas-cover-plan.json
+          curl --fail --silent --show-error --location "$ATLAS_BUNDLE_BASE/atlas-audio-v2-plan.json" -o "$ATLAS_AUDIO_V2_PLAN"
+          curl --fail --silent --show-error --location "$ATLAS_BUNDLE_BASE/generate-audio-v2.py" -o /tmp/generate-audio-v2.py
+          test "$(tr -d '\r\n' < /tmp/source-sha.txt)" = "$ATLAS_SOURCE_SHA"
+          test "$(git hash-object /tmp/generate-audio-v2.py)" = "25856e517c381902b4d9dee460b1a127ac33d117"
+          jq -e --arg date "$ATLAS_DATE" '.date == $date and .needsGeneration == true' "$ATLAS_AUDIO_V2_PLAN" >/dev/null
+
+      - name: Synthesize Portada + Nacional + Mercados
+        run: |
+          set -euo pipefail
+          python /tmp/generate-audio-v2.py
+
+      - name: Verify generated audio contract
+        run: |
+          set -euo pipefail
+          jq -e --arg sha "$ATLAS_SOURCE_SHA" --arg date "$ATLAS_DATE" '.sourceCommit == $sha and .date == $date and .status == "published" and .path == ("/audio/" + $date + "-resumen-diario.mp3")' audio/latest.json >/dev/null
+          jq -e --arg sha "$ATLAS_SOURCE_SHA" --arg date "$ATLAS_DATE" '.sourceCommit == $sha and .date == $date and .national.status == "published" and .markets.status == "published" and .national.path == ("/audio/" + $date + "-national-analysis.mp3") and .markets.path == ("/audio/" + $date + "-markets-analysis.mp3")' audio/analysis-latest.json >/dev/null
+          test -s "audio/$ATLAS_DATE-resumen-diario.mp3"
+          test -s "audio/$ATLAS_DATE-national-analysis.mp3"
+          test -s "audio/$ATLAS_DATE-markets-analysis.mp3"
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "audio/$ATLAS_DATE-resumen-diario.mp3"
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "audio/$ATLAS_DATE-national-analysis.mp3"
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "audio/$ATLAS_DATE-markets-analysis.mp3"
+
+      - name: Publish audio atomically to public repo
+        run: |
+          set -euo pipefail
+          git config user.name "ATLAS NEWS Emergency Audio"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            audio/latest.json \
+            audio/analysis-latest.json \
+            "audio/$ATLAS_DATE-resumen-diario.mp3" \
+            "audio/$ATLAS_DATE-national-analysis.mp3" \
+            "audio/$ATLAS_DATE-markets-analysis.mp3"
+          git diff --cached --quiet && { echo "No hay cambios de audio por publicar."; exit 0; }
+          git commit -m "Audio V2 — $ATLAS_DATE — emergency"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - name: Verify committed manifests
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git show origin/main:audio/latest.json | jq -e --arg sha "$ATLAS_SOURCE_SHA" --arg date "$ATLAS_DATE" '.sourceCommit == $sha and .date == $date and .status == "published"' >/dev/null
+          git show origin/main:audio/analysis-latest.json | jq -e --arg sha "$ATLAS_SOURCE_SHA" --arg date "$ATLAS_DATE" '.sourceCommit == $sha and .date == $date and .national.status == "published" and .markets.status == "published"' >/dev/null
