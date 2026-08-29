@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "current",
-  "asOf": "2026-08-28",
-  "fetchedAt": "2026-08-28T11:05:04.277Z",
-  "lastAttemptAt": "2026-08-28T11:05:04.277Z",
+  "asOf": "2026-08-29",
+  "fetchedAt": "2026-08-29T15:09:05.801Z",
+  "lastAttemptAt": "2026-08-29T15:09:05.801Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,9 +11,9 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 40869.82,
+      "value": 40871.14,
       "unit": "clp",
-      "effectiveDate": "2026-08-28"
+      "effectiveDate": "2026-08-29"
     },
     {
       "code": "dolar",

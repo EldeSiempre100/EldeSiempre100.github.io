@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "e10133b5186f2b1b3fcd4cd7e8297428e9efe9a7",
+  "sourceCommit": "6aacaa5c3f6511affd74516e9869435f26885238",
   "latestDaily": {
-    "id": "2026-08-28-daily-ia-sostiene-mercado-disciplina-capital",
-    "issueNumber": 26,
-    "title": "La IA sostiene el mercado, pero la disciplina de capital gana peso",
-    "publishedAt": "2026-08-28T05:58:00-04:00",
-    "cutoffAt": "2026-08-28T05:58:00-04:00"
+    "id": "2026-08-29-daily-fed-devuelve-riesgo-alza-septiembre",
+    "issueNumber": 27,
+    "title": "La Fed devuelve al mercado el riesgo de una subida en septiembre",
+    "publishedAt": "2026-08-29T05:57:00-04:00",
+    "cutoffAt": "2026-08-29T05:57:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-28-national-hacienda-moderniza-mercado-deuda-soberana",
-    "title": "Hacienda busca más liquidez en la deuda soberana con un programa de formadores de mercado",
-    "publishedAt": "2026-08-28T06:15:00-04:00",
-    "cutoffAt": "2026-08-28T06:12:00-04:00"
+    "id": "2026-08-29-national-desempleo-se-vuelve-mas-persistente",
+    "title": "El desempleo chileno se vuelve más persistente y expone una recuperación laboral más frágil",
+    "publishedAt": "2026-08-29T06:15:00-04:00",
+    "cutoffAt": "2026-08-29T06:12:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-28-markets-francia-reabre-prima-fiscal",
-    "title": "Francia reabre la prima fiscal mientras tecnología sostiene el riesgo",
-    "publishedAt": "2026-08-28T07:10:00-04:00",
-    "cutoffAt": "2026-08-28T07:10:00-04:00"
+    "id": "2026-08-29-markets-flujos-rompen-rally-uniforme",
+    "title": "Los flujos rompen el rally uniforme: sale capital de EE.UU., pero sigue entrando a tecnología y carry",
+    "publishedAt": "2026-08-29T06:30:00-04:00",
+    "cutoffAt": "2026-08-29T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 26,
+    "daily": 27,
     "weekly": 4,
-    "national": 19,
-    "markets": 18,
+    "national": 20,
+    "markets": 19,
     "readings": 6,
-    "total": 73
+    "total": 76
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-28",
+    "asOf": "2026-08-29",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
