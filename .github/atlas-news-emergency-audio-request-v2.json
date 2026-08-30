@@ -1,8 +1,8 @@
 {
-  "requested_at": "2026-08-29T11:50:00-04:00",
-  "date": "2026-08-29",
-  "source_sha": "6aacaa5c3f6511affd74516e9869435f26885238",
+  "requested_at": "2026-08-30T08:47:00-04:00",
+  "date": "2026-08-30",
+  "source_sha": "37634823ce29e247db6ac9351033d213f196f5b2",
   "bundle_base_url": "https://atlas-news-emergency-audio-bundle.onrender.com",
   "generator_blob_sha": "25856e517c381902b4d9dee460b1a127ac33d117",
-  "reason": "Prueba idempotente del fallback reutilizable para 30-31 de agosto"
+  "reason": "GitHub Actions privadas sin runner operativo por cuota; fallback Audio V2 reutilizable sobre el sourceCommit aceptado"
 }
