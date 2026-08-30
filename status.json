@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "6aacaa5c3f6511affd74516e9869435f26885238",
+  "sourceCommit": "37634823ce29e247db6ac9351033d213f196f5b2",
   "latestDaily": {
-    "id": "2026-08-29-daily-fed-devuelve-riesgo-alza-septiembre",
-    "issueNumber": 27,
-    "title": "La Fed devuelve al mercado el riesgo de una subida en septiembre",
-    "publishedAt": "2026-08-29T05:57:00-04:00",
-    "cutoffAt": "2026-08-29T05:57:00-04:00"
+    "id": "2026-08-30-daily-riesgo-monetario-se-amplia-a-coordinacion-global",
+    "issueNumber": 28,
+    "title": "El riesgo monetario se amplía desde la Fed hacia la coordinación global",
+    "publishedAt": "2026-08-30T06:02:00-04:00",
+    "cutoffAt": "2026-08-30T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-29-national-desempleo-se-vuelve-mas-persistente",
-    "title": "El desempleo chileno se vuelve más persistente y expone una recuperación laboral más frágil",
-    "publishedAt": "2026-08-29T06:15:00-04:00",
-    "cutoffAt": "2026-08-29T06:12:00-04:00"
+    "id": "2026-08-30-national-toesca-toma-control-de-suralis",
+    "title": "Toesca toma el control de Suralis y profundiza la apuesta local por infraestructura esencial",
+    "publishedAt": "2026-08-30T06:15:00-04:00",
+    "cutoffAt": "2026-08-30T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-29-markets-flujos-rompen-rally-uniforme",
-    "title": "Los flujos rompen el rally uniforme: sale capital de EE.UU., pero sigue entrando a tecnología y carry",
-    "publishedAt": "2026-08-29T06:30:00-04:00",
-    "cutoffAt": "2026-08-29T06:30:00-04:00"
+    "id": "2026-08-30-markets-crudo-baja-diesel-mantiene-prima",
+    "title": "El crudo pierde prima, pero el diésel mantiene vivo el riesgo inflacionario",
+    "publishedAt": "2026-08-30T06:30:00-04:00",
+    "cutoffAt": "2026-08-30T06:29:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-29",
+    "date": "2026-08-30",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 27,
+    "daily": 28,
     "weekly": 4,
-    "national": 20,
-    "markets": 19,
+    "national": 21,
+    "markets": 20,
     "readings": 6,
-    "total": 76
+    "total": 79
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-29",
+    "asOf": "2026-08-30",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
