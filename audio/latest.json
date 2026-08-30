@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "scriptVersion": 4,
   "status": "published",
-  "date": "2026-08-29",
-  "title": "ATLAS NEWS — Resumen diario — 29 de agosto de 2026",
+  "date": "2026-08-30",
+  "title": "ATLAS NEWS — Resumen diario — 30 de agosto de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-29-resumen-diario.mp3",
-  "durationSeconds": 271.5,
+  "path": "/audio/2026-08-30-resumen-diario.mp3",
+  "durationSeconds": 281.8,
   "durationLabel": "5 min",
-  "bytes": 3258765,
-  "generatedAt": "2026-08-29T15:38:40.901776+00:00",
+  "bytes": 3382317,
+  "generatedAt": "2026-08-30T12:49:32.092388+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-29-daily-fed-devuelve-riesgo-alza-septiembre",
-    "national": "2026-08-29-national-desempleo-se-vuelve-mas-persistente",
-    "markets": "2026-08-29-markets-flujos-rompen-rally-uniforme"
+    "general": "2026-08-30-daily-riesgo-monetario-se-amplia-a-coordinacion-global",
+    "national": "2026-08-30-national-toesca-toma-control-de-suralis",
+    "markets": "2026-08-30-markets-crudo-baja-diesel-mantiene-prima"
   },
-  "sourceCommit": "6aacaa5c3f6511affd74516e9869435f26885238"
+  "sourceCommit": "37634823ce29e247db6ac9351033d213f196f5b2"
 }
