@@ -1,8 +1,8 @@
 {
-  "requested_at": "2026-08-29T10:35:00-04:00",
-  "date": "2026-08-29",
+  "requested_at": "2026-08-30T08:35:00-04:00",
+  "date": "2026-08-30",
   "mode": "validate",
-  "source_sha": "8c31424ab8be86b331acb96189bd492e7d45861e",
-  "pr": 98,
-  "reason": "GitHub Actions privadas agotadas; validación mediante Emergency Runner público usando credenciales GitHub existentes"
+  "source_sha": "1ebd8a4a6eb438d237f761f046de31a41664444f",
+  "pr": 99,
+  "reason": "GitHub Actions privadas sin runner operativo por cuota; validación controlada mediante Emergency Runner público existente"
 }
