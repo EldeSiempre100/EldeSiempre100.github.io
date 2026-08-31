@@ -1,8 +1,8 @@
 {
-  "requested_at": "2026-08-31T08:20:00-04:00",
+  "requested_at": "2026-08-31T08:29:00-04:00",
   "date": "2026-08-31",
-  "source_sha": "806725f0f26941e59151a022235431e7ec942ed9",
+  "source_sha": "8de230b318291c48ff8c94166a04d080216fd628",
   "artifact_base_url": "https://atlas-news-emergency-main-20260829.onrender.com",
-  "pr": 104,
-  "reason": "GitHub Actions privadas sin runner operativo por cuota; publicación web desde build Astro canónico validado externamente"
+  "pr": 105,
+  "reason": "GitHub Actions privadas sin runner operativo por cuota; publicación web desde build Astro canónico validado externamente tras promoción mecánica draft→published"
 }
