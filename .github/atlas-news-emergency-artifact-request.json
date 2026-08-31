@@ -1,8 +1,8 @@
 {
-  "requested_at": "2026-08-31T08:33:00-04:00",
+  "requested_at": "2026-08-31T08:58:00-04:00",
   "date": "2026-08-31",
-  "source_sha": "8de230b318291c48ff8c94166a04d080216fd628",
+  "source_sha": "0c96a11c306184a7fda297d6c733c7959c6511a5",
   "artifact_base_url": "https://atlas-news-emergency-main-20260829.onrender.com",
   "pr": 105,
-  "reason": "GitHub Actions privadas sin runner operativo por cuota; publicación web desde build Astro canónico validado externamente tras promoción mecánica draft→published"
+  "reason": "Corrección editorial mecánica del titular General: completa 'la Fed evalúa subir' a 'la Fed evalúa subir las tasas'; build Astro canónico validado externamente y publicación por contingencia existente"
 }
