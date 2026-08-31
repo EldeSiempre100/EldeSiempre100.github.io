@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "37634823ce29e247db6ac9351033d213f196f5b2",
+  "sourceCommit": "8de230b318291c48ff8c94166a04d080216fd628",
   "latestDaily": {
-    "id": "2026-08-30-daily-riesgo-monetario-se-amplia-a-coordinacion-global",
-    "issueNumber": 28,
-    "title": "El riesgo monetario se amplía desde la Fed hacia la coordinación global",
-    "publishedAt": "2026-08-30T06:02:00-04:00",
-    "cutoffAt": "2026-08-30T06:00:00-04:00"
+    "id": "2026-08-31-daily-escalada-golfo-reabre-riesgo-inflacion",
+    "issueNumber": 29,
+    "title": "La escalada en el Golfo reabre el riesgo de inflación justo cuando la Fed evalúa subir",
+    "publishedAt": "2026-08-31T06:00:00-04:00",
+    "cutoffAt": "2026-08-31T06:00:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-30-national-toesca-toma-control-de-suralis",
-    "title": "Toesca toma el control de Suralis y profundiza la apuesta local por infraestructura esencial",
-    "publishedAt": "2026-08-30T06:15:00-04:00",
-    "cutoffAt": "2026-08-30T06:15:00-04:00"
+    "id": "2026-08-31-national-cmf-convierte-modernizacion-en-agenda-regulatoria",
+    "title": "La CMF convierte la modernización financiera en una agenda regulatoria concreta",
+    "publishedAt": "2026-08-31T06:15:00-04:00",
+    "cutoffAt": "2026-08-31T06:13:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-30-markets-crudo-baja-diesel-mantiene-prima",
-    "title": "El crudo pierde prima, pero el diésel mantiene vivo el riesgo inflacionario",
-    "publishedAt": "2026-08-30T06:30:00-04:00",
-    "cutoffAt": "2026-08-30T06:29:00-04:00"
+    "id": "2026-08-31-markets-shock-energia-rota-riesgo-hacia-tasas",
+    "title": "El shock de energía rota el riesgo hacia tasas, pero no rompe todavía la renta variable",
+    "publishedAt": "2026-08-31T06:30:00-04:00",
+    "cutoffAt": "2026-08-31T06:30:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-30",
+    "date": "2026-08-31",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 28,
+    "daily": 29,
     "weekly": 4,
-    "national": 21,
-    "markets": 20,
+    "national": 22,
+    "markets": 21,
     "readings": 6,
-    "total": 79
+    "total": 82
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-08-30",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
