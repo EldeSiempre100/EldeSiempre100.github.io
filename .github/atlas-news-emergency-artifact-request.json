@@ -1,8 +1,0 @@
-{
-  "requested_at": "2026-08-31T08:58:00-04:00",
-  "date": "2026-08-31",
-  "source_sha": "0c96a11c306184a7fda297d6c733c7959c6511a5",
-  "artifact_base_url": "https://atlas-news-emergency-main-20260829.onrender.com",
-  "pr": 105,
-  "reason": "Corrección editorial mecánica del titular General: completa 'la Fed evalúa subir' a 'la Fed evalúa subir las tasas'; build Astro canónico validado externamente y publicación por contingencia existente"
-}

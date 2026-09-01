@@ -1,8 +1,0 @@
-{
-  "requested_at": "2026-08-30T08:35:00-04:00",
-  "date": "2026-08-30",
-  "mode": "validate",
-  "source_sha": "1ebd8a4a6eb438d237f761f046de31a41664444f",
-  "pr": 99,
-  "reason": "GitHub Actions privadas sin runner operativo por cuota; validación controlada mediante Emergency Runner público existente"
-}

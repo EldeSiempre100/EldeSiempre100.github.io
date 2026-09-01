@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0c96a11c306184a7fda297d6c733c7959c6511a5",
+  "sourceCommit": "8e196e66e77e205b7843ad82c9ab1d1004bc80af",
   "latestDaily": {
     "id": "2026-08-31-daily-escalada-golfo-reabre-riesgo-inflacion",
     "issueNumber": 29,
@@ -36,8 +36,8 @@
     "total": 82
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-08-30",
+    "status": "current",
+    "asOf": "2026-08-31",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
