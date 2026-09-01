@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "8e196e66e77e205b7843ad82c9ab1d1004bc80af",
+  "sourceCommit": "3950fc43c8d5ce4b9641145f1e612e50aa752866",
   "latestDaily": {
-    "id": "2026-08-31-daily-escalada-golfo-reabre-riesgo-inflacion",
-    "issueNumber": 29,
-    "title": "La escalada en el Golfo reabre el riesgo de inflación justo cuando la Fed evalúa subir las tasas",
-    "publishedAt": "2026-08-31T06:00:00-04:00",
-    "cutoffAt": "2026-08-31T06:00:00-04:00"
+    "id": "2026-09-01-daily-bonos-globales-reprecifican-inflacion",
+    "issueNumber": 30,
+    "title": "Los bonos globales reprecifican inflación y elevan el costo del capital",
+    "publishedAt": "2026-09-01T06:00:00-04:00",
+    "cutoffAt": "2026-09-01T05:58:00-04:00"
   },
   "latestNational": {
-    "id": "2026-08-31-national-cmf-convierte-modernizacion-en-agenda-regulatoria",
-    "title": "La CMF convierte la modernización financiera en una agenda regulatoria concreta",
-    "publishedAt": "2026-08-31T06:15:00-04:00",
-    "cutoffAt": "2026-08-31T06:13:00-04:00"
+    "id": "2026-09-01-national-servicios-resisten-mientras-comercio-se-enfria",
+    "title": "Los servicios resisten mientras el comercio pierde fuerza en julio",
+    "publishedAt": "2026-09-01T06:15:00-04:00",
+    "cutoffAt": "2026-09-01T06:14:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-08-31-markets-shock-energia-rota-riesgo-hacia-tasas",
-    "title": "El shock de energía rota el riesgo hacia tasas, pero no rompe todavía la renta variable",
-    "publishedAt": "2026-08-31T06:30:00-04:00",
-    "cutoffAt": "2026-08-31T06:30:00-04:00"
+    "id": "2026-09-01-markets-japon-exporta-tasas-yen-no-responde",
+    "title": "Japón exporta tasas, pero el yen no responde: el carry entra en zona de intervención",
+    "publishedAt": "2026-09-01T06:30:00-04:00",
+    "cutoffAt": "2026-09-01T06:28:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 29,
+    "daily": 30,
     "weekly": 4,
-    "national": 22,
-    "markets": 21,
+    "national": 23,
+    "markets": 22,
     "readings": 6,
-    "total": 82
+    "total": 85
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-08-31",
+    "asOf": "2026-09-01",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
