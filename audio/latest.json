@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "scriptVersion": 4,
   "status": "published",
-  "date": "2026-08-31",
-  "title": "ATLAS NEWS — Resumen diario — 31 de agosto de 2026",
+  "date": "2026-09-01",
+  "title": "ATLAS NEWS — Resumen diario — 1 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-08-31-resumen-diario.mp3",
-  "durationSeconds": 276.7,
-  "durationLabel": "5 min",
-  "bytes": 3320973,
-  "generatedAt": "2026-08-31T12:37:46.408077+00:00",
+  "path": "/audio/2026-09-01-resumen-diario.mp3",
+  "durationSeconds": 266.4,
+  "durationLabel": "4 min",
+  "bytes": 3197421,
+  "generatedAt": "2026-09-01T11:41:04.061196+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-08-31-daily-escalada-golfo-reabre-riesgo-inflacion",
-    "national": "2026-08-31-national-cmf-convierte-modernizacion-en-agenda-regulatoria",
-    "markets": "2026-08-31-markets-shock-energia-rota-riesgo-hacia-tasas"
+    "general": "2026-09-01-daily-bonos-globales-reprecifican-inflacion",
+    "national": "2026-09-01-national-servicios-resisten-mientras-comercio-se-enfria",
+    "markets": "2026-09-01-markets-japon-exporta-tasas-yen-no-responde"
   },
-  "sourceCommit": "8de230b318291c48ff8c94166a04d080216fd628"
+  "sourceCommit": "3950fc43c8d5ce4b9641145f1e612e50aa752866"
 }
