@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4388fe10883739d60691e27438ec444ff560f67d",
+  "sourceCommit": "2a2b504cdf5d966bf528e60c66d59d153f25117a",
   "latestDaily": {
-    "id": "2026-09-01-daily-bonos-globales-reprecifican-inflacion",
-    "issueNumber": 30,
-    "title": "Los bonos globales reprecifican inflación y elevan el costo del capital",
-    "publishedAt": "2026-09-01T06:00:00-04:00",
-    "cutoffAt": "2026-09-01T05:58:00-04:00"
+    "id": "2026-09-02-daily-fed-vuelve-a-poner-el-alza-en-el-centro",
+    "issueNumber": 31,
+    "title": "La Fed vuelve a poner el alza en el centro del mercado",
+    "publishedAt": "2026-09-02T05:58:00-04:00",
+    "cutoffAt": "2026-09-02T05:58:00-04:00"
   },
   "latestNational": {
-    "id": "2026-09-01-national-servicios-resisten-mientras-comercio-se-enfria",
-    "title": "Los servicios resisten mientras el comercio pierde fuerza en julio",
-    "publishedAt": "2026-09-01T06:15:00-04:00",
-    "cutoffAt": "2026-09-01T06:14:00-04:00"
+    "id": "2026-09-02-national-invariabilidad-incorpora-rebaja-tributaria",
+    "title": "La invariabilidad tributaria incorporará la rebaja gradual del impuesto corporativo",
+    "publishedAt": "2026-09-02T06:15:00-04:00",
+    "cutoffAt": "2026-09-02T06:12:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-09-01-markets-japon-exporta-tasas-yen-no-responde",
-    "title": "Japón exporta tasas, pero el yen no responde: el carry entra en zona de intervención",
-    "publishedAt": "2026-09-01T06:30:00-04:00",
-    "cutoffAt": "2026-09-01T06:28:00-04:00"
+    "id": "2026-09-02-markets-japon-repatria-capital-y-endurece-curvas",
+    "title": "Japón deja de ser comprador marginal y endurece las curvas globales",
+    "publishedAt": "2026-09-02T06:30:00-04:00",
+    "cutoffAt": "2026-09-02T06:28:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-09-01",
+    "date": "2026-09-02",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 30,
+    "daily": 31,
     "weekly": 4,
-    "national": 23,
-    "markets": 22,
+    "national": 24,
+    "markets": 23,
     "readings": 6,
-    "total": 85
+    "total": 88
   },
   "indicators": {
     "status": "current",
