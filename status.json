@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3950fc43c8d5ce4b9641145f1e612e50aa752866",
+  "sourceCommit": "4388fe10883739d60691e27438ec444ff560f67d",
   "latestDaily": {
     "id": "2026-09-01-daily-bonos-globales-reprecifican-inflacion",
     "issueNumber": 30,
@@ -37,7 +37,7 @@
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-01",
+    "asOf": "2026-09-02",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
