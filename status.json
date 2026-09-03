@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2a2b504cdf5d966bf528e60c66d59d153f25117a",
+  "sourceCommit": "51343318fa8ed23147450c67c03034c6acb2c073",
   "latestDaily": {
-    "id": "2026-09-02-daily-fed-vuelve-a-poner-el-alza-en-el-centro",
-    "issueNumber": 31,
-    "title": "La Fed vuelve a poner el alza en el centro del mercado",
-    "publishedAt": "2026-09-02T05:58:00-04:00",
-    "cutoffAt": "2026-09-02T05:58:00-04:00"
+    "id": "2026-09-03-daily-empleo-devuelve-duda-al-alza-fed",
+    "issueNumber": 32,
+    "title": "El empleo devuelve incertidumbre al alza de la Fed",
+    "publishedAt": "2026-09-03T06:00:00-04:00",
+    "cutoffAt": "2026-09-03T05:58:00-04:00"
   },
   "latestNational": {
-    "id": "2026-09-02-national-invariabilidad-incorpora-rebaja-tributaria",
-    "title": "La invariabilidad tributaria incorporará la rebaja gradual del impuesto corporativo",
-    "publishedAt": "2026-09-02T06:15:00-04:00",
-    "cutoffAt": "2026-09-02T06:12:00-04:00"
+    "id": "2026-09-03-national-pgu-eleva-ingreso-de-pensionados",
+    "title": "La segunda etapa de la PGU eleva ingresos de pensionados de 75 años o más",
+    "publishedAt": "2026-09-03T08:45:00-04:00",
+    "cutoffAt": "2026-09-03T08:40:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-09-02-markets-japon-repatria-capital-y-endurece-curvas",
-    "title": "Japón deja de ser comprador marginal y endurece las curvas globales",
-    "publishedAt": "2026-09-02T06:30:00-04:00",
-    "cutoffAt": "2026-09-02T06:28:00-04:00"
+    "id": "2026-09-03-markets-ia-compite-por-capital-europeo",
+    "title": "La IA empieza a competir por el capital europeo",
+    "publishedAt": "2026-09-03T08:55:00-04:00",
+    "cutoffAt": "2026-09-03T08:50:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 31,
+    "daily": 32,
     "weekly": 4,
-    "national": 24,
-    "markets": 23,
+    "national": 25,
+    "markets": 24,
     "readings": 6,
-    "total": 88
+    "total": 91
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-02",
+    "asOf": "2026-09-03",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
