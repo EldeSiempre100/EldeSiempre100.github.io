@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "scriptVersion": 4,
   "status": "published",
-  "date": "2026-09-02",
-  "title": "ATLAS NEWS — Resumen diario — 2 de septiembre de 2026",
+  "date": "2026-09-03",
+  "title": "ATLAS NEWS — Resumen diario — 3 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-09-02-resumen-diario.mp3",
-  "durationSeconds": 271.5,
+  "path": "/audio/2026-09-03-resumen-diario.mp3",
+  "durationSeconds": 288.9,
   "durationLabel": "5 min",
-  "bytes": 3258765,
-  "generatedAt": "2026-09-02T12:07:40.776214+00:00",
+  "bytes": 3466701,
+  "generatedAt": "2026-09-03T11:08:25.446664+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-09-02-daily-fed-vuelve-a-poner-el-alza-en-el-centro",
-    "national": "2026-09-02-national-invariabilidad-incorpora-rebaja-tributaria",
-    "markets": "2026-09-02-markets-japon-repatria-capital-y-endurece-curvas"
+    "general": "2026-09-03-daily-empleo-devuelve-duda-al-alza-fed",
+    "national": "2026-09-03-national-pgu-eleva-ingreso-de-pensionados",
+    "markets": "2026-09-03-markets-ia-compite-por-capital-europeo"
   },
-  "sourceCommit": "2a2b504cdf5d966bf528e60c66d59d153f25117a"
+  "sourceCommit": "51343318fa8ed23147450c67c03034c6acb2c073"
 }
