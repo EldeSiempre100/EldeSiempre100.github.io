@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "scriptVersion": 4,
+  "scriptVersion": 6,
   "status": "published",
   "date": "2026-09-03",
   "title": "ATLAS NEWS — Resumen diario — 3 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
   "path": "/audio/2026-09-03-resumen-diario.mp3",
-  "durationSeconds": 288.9,
+  "durationSeconds": 277.4,
   "durationLabel": "5 min",
-  "bytes": 3466701,
-  "generatedAt": "2026-09-03T11:08:25.446664+00:00",
+  "bytes": 3328749,
+  "generatedAt": "2026-09-04T04:27:34.422935+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -19,5 +19,5 @@
     "national": "2026-09-03-national-pgu-eleva-ingreso-de-pensionados",
     "markets": "2026-09-03-markets-ia-compite-por-capital-europeo"
   },
-  "sourceCommit": "51343318fa8ed23147450c67c03034c6acb2c073"
+  "sourceCommit": "ebe3462e42cd96922d804267cfa59414b4ba55d9"
 }
