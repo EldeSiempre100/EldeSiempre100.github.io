@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "e458ac21118ec59f886cd0f741377469b7ad8181",
+  "sourceCommit": "07aa0935e886941c2b70a170eec82b4624c9045c",
   "latestDaily": {
     "id": "2026-09-04-daily-septiembre-vuelve-a-ser-un-cincuenta-cincuenta",
     "issueNumber": 33,
@@ -32,8 +32,8 @@
     "weekly": 4,
     "national": 26,
     "markets": 25,
-    "readings": 6,
-    "total": 94
+    "readings": 7,
+    "total": 95
   },
   "indicators": {
     "status": "current",
