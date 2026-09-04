@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3ec6e8f3c3b191b4db6cf11410eaf63f288beed9",
+  "sourceCommit": "ebe3462e42cd96922d804267cfa59414b4ba55d9",
   "latestDaily": {
     "id": "2026-09-03-daily-empleo-devuelve-duda-al-alza-fed",
     "issueNumber": 32,
@@ -37,7 +37,7 @@
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-03",
+    "asOf": "2026-09-04",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
