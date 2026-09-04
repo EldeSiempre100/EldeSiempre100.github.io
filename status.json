@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f420d5d88f1a4a10e2f109f273568d1a8bfedebf",
+  "sourceCommit": "3d948fa2b7962e22b34fd63d3c28ab87d98128dd",
   "latestDaily": {
     "id": "2026-09-04-daily-septiembre-vuelve-a-ser-un-cincuenta-cincuenta",
     "issueNumber": 33,
@@ -36,7 +36,7 @@
     "total": 95
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-04",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
