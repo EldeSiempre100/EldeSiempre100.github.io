@@ -1,0 +1,32 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-05-daily-empleo-devuelve-ventaja-al-alza-fed.md",
+  "contractPath": "tools/social-renderer/contracts/2026-09-05-daily-empleo-fed.json",
+  "canonicalUrl": "https://eldesiempre100.github.io/ediciones/2026-09-05-daily-empleo-devuelve-ventaja-al-alza-fed/",
+  "childContainerIds": [
+    "18086403101386975",
+    "18086403122386975",
+    "18086403143386975",
+    "18086403164386975",
+    "18086403185386975"
+  ],
+  "carouselContainerId": "18086403218386975",
+  "mediaId": "18121998476492715",
+  "permalink": "https://www.instagram.com/p/Dc5-BTekcln/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-05T12:32:28+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/33966254287-1/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/33966254287-1/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/33966254287-1/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/33966254287-1/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/33966254287-1/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "33966254287",
+  "githubRunAttempt": "1"
+}
