@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "pilotId": "AUD-READ-01",
+  "status": "pilot_generated",
+  "sourceId": "2026-09-04-reading-activo-seguro-riesgo",
+  "sourceCommit": "7ba9b4ba97bbe1491e65332e9788e925f1b0ba62",
+  "pilotCommit": "7ba9b4ba97bbe1491e65332e9788e925f1b0ba62",
+  "voice": "em_alex",
+  "language": "es",
+  "engine": "Kokoro-82M",
+  "speed": 1.0,
+  "speechNormalizerVersion": "reading-pilot-1",
+  "durationSeconds": 783.7,
+  "durationLabel": "13 min",
+  "bytes": 9405261,
+  "sha256": "88ce9b37ad5cc914aaab3eb0630eaf815481c2ebd77afe5a44d3466ac07c33eb",
+  "path": "/lab/audio/reading-pilot-2026-09-04-activo-seguro-alex.mp3",
+  "generatedAt": "2026-09-05T22:22:11.356556+00:00",
+  "production": false
+}
