@@ -1,23 +1,24 @@
 {
   "schemaVersion": 1,
   "scriptVersion": 6,
+  "speechNormalizerVersion": 1,
   "status": "published",
-  "date": "2026-09-04",
-  "title": "ATLAS NEWS — Resumen diario — 4 de septiembre de 2026",
+  "date": "2026-09-05",
+  "title": "ATLAS NEWS — Resumen diario — 5 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-09-04-resumen-diario.mp3",
-  "durationSeconds": 272.2,
+  "path": "/audio/2026-09-05-resumen-diario.mp3",
+  "durationSeconds": 279.0,
   "durationLabel": "5 min",
-  "bytes": 3267117,
-  "generatedAt": "2026-09-04T11:11:56.750533+00:00",
+  "bytes": 3348045,
+  "generatedAt": "2026-09-05T11:06:09.354821+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-09-04-daily-septiembre-vuelve-a-ser-un-cincuenta-cincuenta",
-    "national": "2026-09-04-national-costos-se-moderan-pero-expectativas-siguen-altas",
-    "markets": "2026-09-04-markets-grandes-ahorradores-reducen-treasuries"
+    "general": "2026-09-05-daily-empleo-devuelve-ventaja-al-alza-fed",
+    "national": "2026-09-05-national-presupuesto-gana-espacio-estructural",
+    "markets": "2026-09-05-markets-liquidez-gana-peso-ante-tasas-altas"
   },
-  "sourceCommit": "e458ac21118ec59f886cd0f741377469b7ad8181"
+  "sourceCommit": "74e4d789383cce8d3b7a75679ecb263576d3ac70"
 }
