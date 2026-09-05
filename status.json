@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f5a164ff4dd7f58930b98cbe7ebefea15b152029",
+  "sourceCommit": "74e4d789383cce8d3b7a75679ecb263576d3ac70",
   "latestDaily": {
-    "id": "2026-09-04-daily-septiembre-vuelve-a-ser-un-cincuenta-cincuenta",
-    "issueNumber": 33,
-    "title": "Septiembre vuelve a ser un 50/50 y el empleo recupera la decisión de la Fed",
-    "publishedAt": "2026-09-04T05:58:00-04:00",
-    "cutoffAt": "2026-09-04T05:58:00-04:00"
+    "id": "2026-09-05-daily-empleo-devuelve-ventaja-al-alza-fed",
+    "issueNumber": 34,
+    "title": "El empleo devuelve ventaja al alza de la Fed, pero la inflación debe confirmarla",
+    "publishedAt": "2026-09-05T06:00:00-04:00",
+    "cutoffAt": "2026-09-05T05:58:00-04:00"
   },
   "latestNational": {
-    "id": "2026-09-04-national-costos-se-moderan-pero-expectativas-siguen-altas",
-    "title": "Los costos se moderan, pero las empresas aún esperan inflación de 4% a doce meses",
-    "publishedAt": "2026-09-04T06:20:00-04:00",
-    "cutoffAt": "2026-09-04T06:18:00-04:00"
+    "id": "2026-09-05-national-presupuesto-gana-espacio-estructural",
+    "title": "El Presupuesto 2027 gana espacio estructural, pero la deuda limita cuánto puede gastarse",
+    "publishedAt": "2026-09-05T06:15:00-04:00",
+    "cutoffAt": "2026-09-05T06:15:00-04:00"
   },
   "latestMarkets": {
-    "id": "2026-09-04-markets-grandes-ahorradores-reducen-treasuries",
-    "title": "Los grandes ahorradores empiezan a retirar demanda de Treasuries",
-    "publishedAt": "2026-09-04T06:30:00-04:00",
-    "cutoffAt": "2026-09-04T06:28:00-04:00"
+    "id": "2026-09-05-markets-liquidez-gana-peso-ante-tasas-altas",
+    "title": "La liquidez gana peso mientras las tasas altas enfrían el apetito por acciones estadounidenses",
+    "publishedAt": "2026-09-05T06:25:00-04:00",
+    "cutoffAt": "2026-09-05T06:25:00-04:00"
   },
   "morningPackage": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 33,
+    "daily": 34,
     "weekly": 4,
-    "national": 26,
-    "markets": 25,
+    "national": 27,
+    "markets": 26,
     "readings": 7,
-    "total": 95
+    "total": 98
   },
   "indicators": {
     "status": "current",
