@@ -3,22 +3,22 @@
   "scriptVersion": 6,
   "speechNormalizerVersion": 1,
   "status": "published",
-  "date": "2026-09-05",
-  "title": "ATLAS NEWS — Resumen diario — 5 de septiembre de 2026",
+  "date": "2026-09-06",
+  "title": "ATLAS NEWS — Resumen diario — 6 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-09-05-resumen-diario.mp3",
-  "durationSeconds": 279.0,
+  "path": "/audio/2026-09-06-resumen-diario.mp3",
+  "durationSeconds": 284.3,
   "durationLabel": "5 min",
-  "bytes": 3348045,
-  "generatedAt": "2026-09-05T11:06:09.354821+00:00",
+  "bytes": 3411981,
+  "generatedAt": "2026-09-06T10:10:05.342879+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-09-05-daily-empleo-devuelve-ventaja-al-alza-fed",
-    "national": "2026-09-05-national-presupuesto-gana-espacio-estructural",
-    "markets": "2026-09-05-markets-liquidez-gana-peso-ante-tasas-altas"
+    "general": "2026-09-06-daily-hormuz-convierte-riesgo-energetico-en-restriccion-fisica",
+    "national": "2026-09-06-national-fondos-generacionales-cambian-demanda-marginal",
+    "markets": "2026-09-06-markets-caja-gana-valor-antes-reapertura-hormuz"
   },
-  "sourceCommit": "74e4d789383cce8d3b7a75679ecb263576d3ac70"
+  "sourceCommit": "d12f185b8d17dc8cb614be2874423c6d14846de2"
 }
