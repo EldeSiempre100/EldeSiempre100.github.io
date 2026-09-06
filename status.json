@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "48ba7cf0f279e5378ff6fb23173f1df0b79c07a3",
+  "sourceCommit": "d12f185b8d17dc8cb614be2874423c6d14846de2",
   "latestDaily": {
-    "id": "2026-09-05-daily-empleo-devuelve-ventaja-al-alza-fed",
-    "issueNumber": 34,
-    "title": "El empleo devuelve ventaja al alza de la Fed, pero la inflación debe confirmarla",
-    "publishedAt": "2026-09-05T06:00:00-04:00",
-    "cutoffAt": "2026-09-05T05:58:00-04:00"
+    "id": "2026-09-06-daily-hormuz-convierte-riesgo-energetico-en-restriccion-fisica",
+    "issueNumber": 35,
+    "title": "Hormuz convierte el riesgo energético en una restricción física",
+    "publishedAt": "2026-09-06T06:08:00-03:00",
+    "cutoffAt": "2026-09-06T06:05:00-03:00"
   },
   "latestNational": {
-    "id": "2026-09-05-national-presupuesto-gana-espacio-estructural",
-    "title": "El Presupuesto 2027 gana espacio estructural, pero la deuda limita cuánto puede gastarse",
-    "publishedAt": "2026-09-05T06:15:00-04:00",
-    "cutoffAt": "2026-09-05T06:15:00-04:00"
+    "id": "2026-09-06-national-fondos-generacionales-cambian-demanda-marginal",
+    "title": "Fondos generacionales cambian la demanda marginal por activos chilenos",
+    "publishedAt": "2026-09-06T06:18:00-03:00",
+    "cutoffAt": "2026-09-06T06:15:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-05-markets-liquidez-gana-peso-ante-tasas-altas",
-    "title": "La liquidez gana peso mientras las tasas altas enfrían el apetito por acciones estadounidenses",
-    "publishedAt": "2026-09-05T06:25:00-04:00",
-    "cutoffAt": "2026-09-05T06:25:00-04:00"
+    "id": "2026-09-06-markets-caja-gana-valor-antes-reapertura-hormuz",
+    "title": "La caja gana valor antes de que el mercado incorpore el nuevo shock de Hormuz",
+    "publishedAt": "2026-09-06T06:27:00-03:00",
+    "cutoffAt": "2026-09-06T06:24:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 34,
+    "daily": 35,
     "weekly": 4,
-    "national": 27,
-    "markets": 26,
+    "national": 28,
+    "markets": 27,
     "readings": 7,
-    "total": 98
+    "total": 101
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-05",
+    "asOf": "2026-09-06",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
