@@ -1,16 +1,19 @@
 {
   "schemaVersion": 1,
-  "scriptVersion": 6,
-  "speechNormalizerVersion": 1,
+  "scriptVersion": 7,
+  "speechNormalizerVersion": 3,
+  "lexiconVersion": 3,
+  "lexiconRevision": 1,
+  "questionProsodyVersion": 1,
   "status": "published",
   "date": "2026-09-06",
-  "title": "ATLAS NEWS — Resumen diario — 6 de septiembre de 2026",
+  "title": "ATLAS NEWS — Resumen diario — domingo 6 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
   "path": "/audio/2026-09-06-resumen-diario.mp3",
-  "durationSeconds": 284.3,
+  "durationSeconds": 274.5,
   "durationLabel": "5 min",
-  "bytes": 3411981,
-  "generatedAt": "2026-09-06T10:10:05.342879+00:00",
+  "bytes": 3294477,
+  "generatedAt": "2026-09-06T18:21:26.482635+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -20,5 +23,5 @@
     "national": "2026-09-06-national-fondos-generacionales-cambian-demanda-marginal",
     "markets": "2026-09-06-markets-caja-gana-valor-antes-reapertura-hormuz"
   },
-  "sourceCommit": "d12f185b8d17dc8cb614be2874423c6d14846de2"
+  "sourceCommit": "3bbbd92e1ae520d21945f9c8b87cd843aa311a6f"
 }
