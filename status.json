@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3f3aad2ecb4c527840ae120e301c3f56fd69d3c9",
+  "sourceCommit": "993a9fcc38848e066a439335f8f9bd733766ea56",
   "latestDaily": {
-    "id": "2026-09-06-daily-hormuz-convierte-riesgo-energetico-en-restriccion-fisica",
-    "issueNumber": 35,
-    "title": "Hormuz convierte el riesgo energético en una restricción física",
-    "publishedAt": "2026-09-06T06:08:00-03:00",
-    "cutoffAt": "2026-09-06T06:05:00-03:00"
+    "id": "2026-09-07-daily-hormuz-pasa-de-riesgo-a-restriccion-operativa",
+    "issueNumber": 36,
+    "title": "Hormuz pasa de riesgo a restricción operativa y sostiene la presión inflacionaria",
+    "publishedAt": "2026-09-07T06:59:12-03:00",
+    "cutoffAt": "2026-09-07T05:59:00-03:00"
   },
   "latestNational": {
-    "id": "2026-09-06-national-fondos-generacionales-cambian-demanda-marginal",
-    "title": "Fondos generacionales cambian la demanda marginal por activos chilenos",
-    "publishedAt": "2026-09-06T06:18:00-03:00",
-    "cutoffAt": "2026-09-06T06:15:00-03:00"
+    "id": "2026-09-07-national-iva-vivienda-mueve-stock-no-demanda-estructural",
+    "title": "IVA a la vivienda apunta al stock: el alivio de precio no resuelve por sí solo la demanda",
+    "publishedAt": "2026-09-07T06:59:49-03:00",
+    "cutoffAt": "2026-09-07T06:01:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-06-markets-caja-gana-valor-antes-reapertura-hormuz",
-    "title": "La caja gana valor antes de que el mercado incorpore el nuevo shock de Hormuz",
-    "publishedAt": "2026-09-06T06:27:00-03:00",
-    "cutoffAt": "2026-09-06T06:24:00-03:00"
+    "id": "2026-09-07-markets-mercado-precia-inflacion-antes-de-wall-street",
+    "title": "Europa ya cobra la prima energética antes de que Wall Street pueda responder",
+    "publishedAt": "2026-09-07T07:00:17-03:00",
+    "cutoffAt": "2026-09-07T06:03:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 35,
+    "daily": 36,
     "weekly": 4,
-    "national": 28,
-    "markets": 27,
+    "national": 29,
+    "markets": 28,
     "readings": 7,
-    "total": 101
+    "total": 104
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-06",
+    "asOf": "2026-09-07",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
