@@ -22,5 +22,86 @@ body{color:#151515;background:#f2efe5;margin:0}.lab-shell[data-astro-cid-6hfgsin
   tracker.dataset.doNotTrack = "true";
   tracker.dataset.excludeSearch = "true";
   tracker.dataset.excludeHash = "true";
+
+  const sectionForPath = () => {
+    const segments = window.location.pathname.split("/").filter(Boolean);
+    return segments[0] || "portada";
+  };
+
+  const contentIdForAnchor = (anchor) => {
+    const segments = anchor.pathname.split("/").filter(Boolean);
+    return segments[segments.length - 1] || "portada";
+  };
+
+  const track = (name, data = {}) => {
+    const umami = window.umami;
+    if (!umami || typeof umami.track !== "function") return;
+    umami.track(name, data);
+  };
+
+  const shareChannel = (element) => {
+    if (element.matches("[data-share-native]")) return "native";
+    if (element.matches("[data-share-copy]")) return "copy_link";
+
+    const href = element.getAttribute("href") || "";
+    if (href.includes("wa.me")) return "whatsapp";
+    if (href.includes("facebook.com")) return "facebook";
+    if (href.includes("linkedin.com")) return "linkedin";
+    if (href.includes("twitter.com") || href.includes("x.com")) return "x";
+    return "other";
+  };
+
+  const setupInteractionTracking = () => {
+    document.addEventListener("click", (event) => {
+      if (!(event.target instanceof Element)) return;
+
+      const target = event.target.closest("a, button");
+      if (!target) return;
+
+      const section = sectionForPath();
+
+      if (target.matches(".share-tools .share-action")) {
+        track("share_click", {
+          section,
+          channel: shareChannel(target),
+        });
+        return;
+      }
+
+      if (
+        target instanceof HTMLAnchorElement &&
+        (target.closest(".card") ||
+          target.matches(".lead-link, .closing-link"))
+      ) {
+        track("article_click", {
+          section,
+          content_id: contentIdForAnchor(target),
+        });
+        return;
+      }
+
+      if (
+        target instanceof HTMLAnchorElement &&
+        target.pathname.replace(/\/+$/, "") === "/archivo"
+      ) {
+        track("archive_open", { section });
+      }
+    });
+
+    document.querySelectorAll("[data-audio-player]").forEach((player) => {
+      if (!(player instanceof HTMLAudioElement)) return;
+
+      player.addEventListener(
+        "play",
+        () => track("audio_play", { section: sectionForPath() }),
+        { once: true },
+      );
+      player.addEventListener("ended", () => {
+        track("audio_complete", { section: sectionForPath() });
+      });
+    });
+  };
+
+  tracker.addEventListener("load", setupInteractionTracking, { once: true });
   document.head.appendChild(tracker);
 })();</script></head><body data-astro-cid-6hfgsin2><main class="lab-shell" data-astro-cid-6hfgsin2><p class="lab-kicker" data-astro-cid-6hfgsin2>ATLAS NEWS · LAB</p><h1 data-astro-cid-6hfgsin2>Zona experimental</h1><p class="lab-copy" data-astro-cid-6hfgsin2>Espacio de prueba para cambios editoriales, visuales, sonoros y funcionales antes de incorporarlos a ATLAS NEWS.</p><div class="lab-rule" aria-hidden="true" data-astro-cid-6hfgsin2></div><section class="experiment" aria-labelledby="exp1-title" data-astro-cid-6hfgsin2><p class="lab-status" data-astro-cid-6hfgsin2>Experimento 1 · Kokoro</p><h2 id="exp1-title" data-astro-cid-6hfgsin2>Comparación de voces</h2><p class="experiment-copy" data-astro-cid-6hfgsin2>Mismo guion estático del briefing. La única variable es la voz.</p><div class="voice-grid" data-astro-cid-6hfgsin2><article class="voice-card" data-astro-cid-6hfgsin2><p class="voice-label" data-astro-cid-6hfgsin2>A · em_alex</p><h3 data-astro-cid-6hfgsin2>Alex</h3><audio controls preload="metadata" data-astro-cid-6hfgsin2><source src="/lab/audio/exp1-em_alex.mp3" type="audio/mpeg" data-astro-cid-6hfgsin2></audio></article><article class="voice-card" data-astro-cid-6hfgsin2><p class="voice-label" data-astro-cid-6hfgsin2>B · em_santa</p><h3 data-astro-cid-6hfgsin2>Santa</h3><audio controls preload="metadata" data-astro-cid-6hfgsin2><source src="/lab/audio/exp1-em_santa.mp3" type="audio/mpeg" data-astro-cid-6hfgsin2></audio></article><article class="voice-card" data-astro-cid-6hfgsin2><p class="voice-label" data-astro-cid-6hfgsin2>C · af_heart</p><h3 data-astro-cid-6hfgsin2>Heart</h3><audio controls preload="metadata" data-astro-cid-6hfgsin2><source src="/lab/audio/exp1-af_heart.mp3" type="audio/mpeg" data-astro-cid-6hfgsin2></audio></article></div></section><div class="lab-rule" aria-hidden="true" data-astro-cid-6hfgsin2></div><section class="experiment" aria-labelledby="exp2-title" data-astro-cid-6hfgsin2><p class="lab-status" data-astro-cid-6hfgsin2>Experimento 2 · Diálogo de dos voces</p><h2 id="exp2-title" data-astro-cid-6hfgsin2>Conversación profunda</h2><p class="experiment-copy" data-astro-cid-6hfgsin2>Preview editorial del 25 de agosto. Voz 1 usa Dora y conduce la conversación; Voz 2 usa Alex y pregunta, desafía y aterriza la idea. Los guiones son estáticos: esta prueba evalúa únicamente dinámica, pronunciación, pausas y contraste entre voces.</p><div class="dialogue-grid" data-astro-cid-6hfgsin2><article class="voice-card" data-astro-cid-6hfgsin2><p class="voice-label" data-astro-cid-6hfgsin2>Nacional · Dora + Alex</p><h3 data-astro-cid-6hfgsin2>Costos de productor</h3><p class="card-copy" data-astro-cid-6hfgsin2>Del dato de IPP a una pregunta cotidiana: si producir cuesta más, ¿quién termina pagando la diferencia?</p><audio controls preload="metadata" data-astro-cid-6hfgsin2><source src="/lab/audio/exp2-national-dialogue.mp3" type="audio/mpeg" data-astro-cid-6hfgsin2></audio></article><article class="voice-card" data-astro-cid-6hfgsin2><p class="voice-label" data-astro-cid-6hfgsin2>Mercados · Dora + Alex</p><h3 data-astro-cid-6hfgsin2>Irán, Nvidia y el riesgo</h3><p class="card-copy" data-astro-cid-6hfgsin2>El mercado exige evidencia física a la geopolítica y devuelve el foco a resultados, inflación y retorno del capital.</p><audio controls preload="metadata" data-astro-cid-6hfgsin2><source src="/lab/audio/exp2-markets-dialogue.mp3" type="audio/mpeg" data-astro-cid-6hfgsin2></audio></article></div></section><div class="lab-rule" aria-hidden="true" data-astro-cid-6hfgsin2></div><section class="experiment" aria-labelledby="exp3-title" data-astro-cid-6hfgsin2><p class="lab-status" data-astro-cid-6hfgsin2>Experimento 3 · Fondos</p><h2 id="exp3-title" data-astro-cid-6hfgsin2>Módulo de rentabilidades</h2><p class="experiment-copy" data-astro-cid-6hfgsin2>La sección Fondos queda fuera de la navegación pública mientras se realizan nuevas pruebas. El módulo y su actualización de datos se mantienen intactos.</p><a class="lab-link" href="/fondos/" data-astro-cid-6hfgsin2>Abrir Fondos en LAB →</a></section></main></body></html>

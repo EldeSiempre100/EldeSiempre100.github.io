@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "024a219fa9e760dc925bace355be7daef148ef38",
+  "sourceCommit": "3f3aad2ecb4c527840ae120e301c3f56fd69d3c9",
   "latestDaily": {
     "id": "2026-09-06-daily-hormuz-convierte-riesgo-energetico-en-restriccion-fisica",
     "issueNumber": 35,
@@ -36,7 +36,7 @@
     "total": 101
   },
   "indicators": {
-    "status": "stale",
+    "status": "current",
     "asOf": "2026-09-06",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
