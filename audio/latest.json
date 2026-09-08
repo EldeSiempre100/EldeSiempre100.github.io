@@ -6,22 +6,22 @@
   "lexiconRevision": 1,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-07",
-  "title": "ATLAS NEWS — Resumen diario — lunes 7 de septiembre de 2026",
+  "date": "2026-09-08",
+  "title": "ATLAS NEWS — Resumen diario — martes 8 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-09-07-resumen-diario.mp3",
-  "durationSeconds": 255.9,
-  "durationLabel": "4 min",
-  "bytes": 3071277,
-  "generatedAt": "2026-09-07T10:06:24.256793+00:00",
+  "path": "/audio/2026-09-08-resumen-diario.mp3",
+  "durationSeconds": 286.3,
+  "durationLabel": "5 min",
+  "bytes": 3436173,
+  "generatedAt": "2026-09-08T10:09:10.248241+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-09-07-daily-hormuz-pasa-de-riesgo-a-restriccion-operativa",
-    "national": "2026-09-07-national-iva-vivienda-mueve-stock-no-demanda-estructural",
-    "markets": "2026-09-07-markets-mercado-precia-inflacion-antes-de-wall-street"
+    "general": "2026-09-08-daily-shock-energetico-amplia-su-alcance",
+    "national": "2026-09-08-national-salarios-reales-y-costos-laborales",
+    "markets": "2026-09-08-markets-cobre-record-y-energia-reordenan-primas"
   },
-  "sourceCommit": "993a9fcc38848e066a439335f8f9bd733766ea56"
+  "sourceCommit": "669c542e4f28c289591ed81fb7628391d015de2c"
 }
