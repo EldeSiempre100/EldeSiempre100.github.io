@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "scriptVersion": 7,
-  "speechNormalizerVersion": 3,
+  "speechNormalizerVersion": 4,
   "lexiconVersion": 3,
-  "lexiconRevision": 1,
+  "lexiconRevision": 2,
   "questionProsodyVersion": 2,
   "status": "published",
   "date": "2026-09-08",
   "title": "ATLAS NEWS — Resumen diario — martes 8 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
   "path": "/audio/2026-09-08-resumen-diario.mp3",
-  "durationSeconds": 286.3,
+  "durationSeconds": 293.4,
   "durationLabel": "5 min",
-  "bytes": 3436173,
-  "generatedAt": "2026-09-08T10:09:10.248241+00:00",
+  "bytes": 3520845,
+  "generatedAt": "2026-09-08T12:34:46.968822+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -23,5 +23,5 @@
     "national": "2026-09-08-national-salarios-reales-y-costos-laborales",
     "markets": "2026-09-08-markets-cobre-record-y-energia-reordenan-primas"
   },
-  "sourceCommit": "669c542e4f28c289591ed81fb7628391d015de2c"
+  "sourceCommit": "9d61458c393b3d4688f6af731c919192ffc76f14"
 }
