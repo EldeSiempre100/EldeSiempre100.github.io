@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "9d61458c393b3d4688f6af731c919192ffc76f14",
+  "sourceCommit": "061153c48ca119155b35b7c522293ba599ae284d",
   "latestDaily": {
     "id": "2026-09-08-daily-shock-energetico-amplia-su-alcance",
     "issueNumber": 37,
@@ -32,8 +32,8 @@
     "weekly": 4,
     "national": 30,
     "markets": 29,
-    "readings": 7,
-    "total": 107
+    "readings": 8,
+    "total": 108
   },
   "indicators": {
     "status": "stale",
