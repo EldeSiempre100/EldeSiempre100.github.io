@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-08-daily-shock-energetico-amplia-su-alcance.md",
+  "contractPath": "tools/social-renderer/.generated/daily-contract.json",
+  "canonicalUrl": "https://eldesiempre100.github.io/ediciones/2026-09-08-daily-shock-energetico-amplia-su-alcance/",
+  "childContainerIds": [
+    "18087030095386975",
+    "18087030116386975",
+    "18087030140386975",
+    "18087030161386975",
+    "18087030179386975"
+  ],
+  "carouselContainerId": "18087030197386975",
+  "mediaId": "18103458830214823",
+  "permalink": "https://www.instagram.com/p/DdBb665FtjV/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-08T10:08:25+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/669c542e4f28c289591ed81fb7628391d015de2c/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/669c542e4f28c289591ed81fb7628391d015de2c/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/669c542e4f28c289591ed81fb7628391d015de2c/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/669c542e4f28c289591ed81fb7628391d015de2c/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/669c542e4f28c289591ed81fb7628391d015de2c/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "34213679614",
+  "githubRunAttempt": "1",
+  "sourceCommit": "669c542e4f28c289591ed81fb7628391d015de2c"
+}
