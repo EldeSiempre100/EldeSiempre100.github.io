@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "labId": "AUD-INTERNATIONAL-2026-09-08-ALEX",
+  "status": "lab_generated",
+  "sourceId": "2026-09-08-daily-shock-energetico-amplia-su-alcance",
+  "sourceCommit": "0417b86928e49761630520235208a4b41f53b84c",
+  "labCommit": "0417b86928e49761630520235208a4b41f53b84c",
+  "voice": "em_alex",
+  "language": "es",
+  "engine": "Kokoro-82M",
+  "speed": 1.0,
+  "speechNormalizerVersion": 4,
+  "lexiconVersion": 3,
+  "lexiconRevision": 2,
+  "questionProsodyVersion": 2,
+  "durationSeconds": 163.0,
+  "durationLabel": "3 min",
+  "bytes": 1956717,
+  "sha256": "57290525095a03e037ada6e34e54a7a98b5c1d7a399f73ea3557f3298a44660d",
+  "path": "/lab/audio/international-2026-09-08-alex.mp3",
+  "generatedAt": "2026-09-08T15:43:58.756003+00:00",
+  "production": false
+}
