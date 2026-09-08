@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-07-daily-hormuz-pasa-de-riesgo-a-restriccion-operativa.md",
+  "contractPath": "tools/social-renderer/.generated/daily-contract.json",
+  "canonicalUrl": "https://eldesiempre100.github.io/ediciones/2026-09-07-daily-hormuz-pasa-de-riesgo-a-restriccion-operativa/",
+  "childContainerIds": [
+    "18086999027386975",
+    "18086999048386975",
+    "18086999066386975",
+    "18086999087386975",
+    "18086999105386975"
+  ],
+  "carouselContainerId": "18086999123386975",
+  "mediaId": "18094457903426700",
+  "permalink": "https://www.instagram.com/p/DdBAbxHHNkV/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-08T06:08:12+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/115cbbeb930232dac45b75c38ef5d311e456c7da/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/115cbbeb930232dac45b75c38ef5d311e456c7da/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/115cbbeb930232dac45b75c38ef5d311e456c7da/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/115cbbeb930232dac45b75c38ef5d311e456c7da/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/115cbbeb930232dac45b75c38ef5d311e456c7da/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "34193263681",
+  "githubRunAttempt": "1",
+  "sourceCommit": "115cbbeb930232dac45b75c38ef5d311e456c7da"
+}
