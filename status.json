@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "53bc5ceccdd20f77b1b3b17d474c97a6963a07ef",
+  "sourceCommit": "431cc0acd15a658fd6ef80207a5c7656737270e8",
   "latestDaily": {
     "id": "2026-09-07-daily-hormuz-pasa-de-riesgo-a-restriccion-operativa",
     "issueNumber": 36,
@@ -37,7 +37,7 @@
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-07",
+    "asOf": "2026-09-08",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
