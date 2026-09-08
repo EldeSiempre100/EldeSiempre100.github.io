@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f1888c73cc202138b93281d8969aa2c3ab7b2222",
+  "sourceCommit": "669c542e4f28c289591ed81fb7628391d015de2c",
   "latestDaily": {
-    "id": "2026-09-07-daily-hormuz-pasa-de-riesgo-a-restriccion-operativa",
-    "issueNumber": 36,
-    "title": "Hormuz pasa de riesgo a restricción operativa y sostiene la presión inflacionaria",
-    "publishedAt": "2026-09-07T06:59:12-03:00",
-    "cutoffAt": "2026-09-07T05:59:00-03:00"
+    "id": "2026-09-08-daily-shock-energetico-amplia-su-alcance",
+    "issueNumber": 37,
+    "title": "El shock energético amplía su alcance y vuelve a endurecer el mapa de inflación",
+    "publishedAt": "2026-09-08T07:03:58-03:00",
+    "cutoffAt": "2026-09-08T06:01:45-03:00"
   },
   "latestNational": {
-    "id": "2026-09-07-national-iva-vivienda-mueve-stock-no-demanda-estructural",
-    "title": "IVA a la vivienda apunta al stock: el alivio de precio no resuelve por sí solo la demanda",
-    "publishedAt": "2026-09-07T06:59:49-03:00",
-    "cutoffAt": "2026-09-07T06:01:00-03:00"
+    "id": "2026-09-08-national-salarios-reales-y-costos-laborales",
+    "title": "Salarios reales mejoran, pero el costo laboral acelera antes del IPC",
+    "publishedAt": "2026-09-08T07:03:58-03:00",
+    "cutoffAt": "2026-09-08T06:02:38-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-07-markets-mercado-precia-inflacion-antes-de-wall-street",
-    "title": "Europa ya cobra la prima energética antes de que Wall Street pueda responder",
-    "publishedAt": "2026-09-07T07:00:17-03:00",
-    "cutoffAt": "2026-09-07T06:03:00-03:00"
+    "id": "2026-09-08-markets-cobre-record-y-energia-reordenan-primas",
+    "title": "Cobre récord y energía cerca de US$100 reordenan las primas entre activos",
+    "publishedAt": "2026-09-08T07:03:58-03:00",
+    "cutoffAt": "2026-09-08T06:03:14-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 36,
+    "daily": 37,
     "weekly": 4,
-    "national": 29,
-    "markets": 28,
+    "national": 30,
+    "markets": 29,
     "readings": 7,
-    "total": 104
+    "total": 107
   },
   "indicators": {
     "status": "current",
