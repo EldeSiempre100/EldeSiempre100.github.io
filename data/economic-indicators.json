@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "status": "current",
   "asOf": "2026-09-08",
-  "fetchedAt": "2026-09-08T03:30:36.209Z",
-  "lastAttemptAt": "2026-09-08T03:30:36.209Z",
+  "fetchedAt": "2026-09-08T03:54:22.955Z",
+  "lastAttemptAt": "2026-09-08T03:54:22.955Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -49,17 +49,17 @@
       "label": "TPM",
       "value": 4.5,
       "unit": "percent",
-      "effectiveDate": "2026-09-07"
+      "effectiveDate": "2026-09-08"
     },
     {
       "code": "cobre",
       "label": "Cobre",
-      "value": 6.53,
+      "value": 6.57,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-09-07",
-      "previousValue": 6.49,
-      "previousEffectiveDate": "2026-09-04",
-      "changePercent": 0.62,
+      "effectiveDate": "2026-09-08",
+      "previousValue": 6.53,
+      "previousEffectiveDate": "2026-09-07",
+      "changePercent": 0.61,
       "trend": "up"
     }
   ]
