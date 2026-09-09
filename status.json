@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f58f622e45d2d38f65c667e303b2a370647bb639",
+  "sourceCommit": "8611b74557af4e1867352e84e63425181e74b23a",
   "latestDaily": {
     "id": "2026-09-09-daily-petroleo-sobre-cien-endurece-dilema-monetario",
     "issueNumber": 38,
@@ -32,11 +32,11 @@
     "weekly": 4,
     "national": 31,
     "markets": 30,
-    "readings": 8,
-    "total": 111
+    "readings": 9,
+    "total": 112
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-09",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
