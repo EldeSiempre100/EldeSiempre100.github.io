@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "e14ec85a06ede3ba76ebcc38dbe124dc46f8fead",
+  "sourceCommit": "f58f622e45d2d38f65c667e303b2a370647bb639",
   "latestDaily": {
-    "id": "2026-09-08-daily-shock-energetico-amplia-su-alcance",
-    "issueNumber": 37,
-    "title": "El shock energético amplía su alcance y vuelve a endurecer el mapa de inflación",
-    "publishedAt": "2026-09-08T07:03:58-03:00",
-    "cutoffAt": "2026-09-08T06:01:45-03:00"
+    "id": "2026-09-09-daily-petroleo-sobre-cien-endurece-dilema-monetario",
+    "issueNumber": 38,
+    "title": "El petróleo sobre US$100 endurece el dilema monetario global",
+    "publishedAt": "2026-09-09T06:59:21-03:00",
+    "cutoffAt": "2026-09-09T06:00:18-03:00"
   },
   "latestNational": {
-    "id": "2026-09-08-national-salarios-reales-y-costos-laborales",
-    "title": "Salarios reales mejoran, pero el costo laboral acelera antes del IPC",
-    "publishedAt": "2026-09-08T07:03:58-03:00",
-    "cutoffAt": "2026-09-08T06:02:38-03:00"
+    "id": "2026-09-09-national-banco-central-preserva-opcionalidad",
+    "title": "El Banco Central preserva opcionalidad antes de recalibrar su escenario",
+    "publishedAt": "2026-09-09T06:59:21-03:00",
+    "cutoffAt": "2026-09-09T06:01:20-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-08-markets-cobre-record-y-energia-reordenan-primas",
-    "title": "Cobre récord y energía cerca de US$100 reordenan las primas entre activos",
-    "publishedAt": "2026-09-08T07:03:58-03:00",
-    "cutoffAt": "2026-09-08T06:03:14-03:00"
+    "id": "2026-09-09-markets-yen-y-petroleo-endurecen-liquidez",
+    "title": "Yen y petróleo endurecen simultáneamente las condiciones de mercado",
+    "publishedAt": "2026-09-09T06:59:21-03:00",
+    "cutoffAt": "2026-09-09T06:02:05-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 37,
+    "daily": 38,
     "weekly": 4,
-    "national": 30,
-    "markets": 29,
+    "national": 31,
+    "markets": 30,
     "readings": 8,
-    "total": 108
+    "total": 111
   },
   "indicators": {
     "status": "current",
