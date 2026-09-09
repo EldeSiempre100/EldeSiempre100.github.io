@@ -6,22 +6,22 @@
   "lexiconRevision": 2,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-08",
-  "title": "ATLAS NEWS — Resumen diario — martes 8 de septiembre de 2026",
+  "date": "2026-09-09",
+  "title": "ATLAS NEWS — Resumen diario — miércoles 9 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-09-08-resumen-diario.mp3",
-  "durationSeconds": 293.4,
+  "path": "/audio/2026-09-09-resumen-diario.mp3",
+  "durationSeconds": 281.2,
   "durationLabel": "5 min",
-  "bytes": 3520845,
-  "generatedAt": "2026-09-08T12:34:46.968822+00:00",
+  "bytes": 3375117,
+  "generatedAt": "2026-09-09T10:06:18.551741+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-09-08-daily-shock-energetico-amplia-su-alcance",
-    "national": "2026-09-08-national-salarios-reales-y-costos-laborales",
-    "markets": "2026-09-08-markets-cobre-record-y-energia-reordenan-primas"
+    "general": "2026-09-09-daily-petroleo-sobre-cien-endurece-dilema-monetario",
+    "national": "2026-09-09-national-banco-central-preserva-opcionalidad",
+    "markets": "2026-09-09-markets-yen-y-petroleo-endurecen-liquidez"
   },
-  "sourceCommit": "9d61458c393b3d4688f6af731c919192ffc76f14"
+  "sourceCommit": "f58f622e45d2d38f65c667e303b2a370647bb639"
 }
