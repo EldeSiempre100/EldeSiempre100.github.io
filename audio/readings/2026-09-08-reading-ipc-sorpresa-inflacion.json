@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "kind": "contingency-analysis",
+  "sourceId": "2026-09-08-reading-ipc-sorpresa-inflacion",
+  "sourceCommit": "ca72ac1dc795a3f6b54d4b62fe3e1e2db60a7da6",
+  "generatorCommit": "ca72ac1dc795a3f6b54d4b62fe3e1e2db60a7da6",
+  "voice": "em_alex",
+  "voiceLabel": "Alex",
+  "language": "es",
+  "engine": "Kokoro-82M",
+  "speed": 1.0,
+  "lexiconVersion": 3,
+  "lexiconRevision": 2,
+  "speechNormalizerVersion": 4,
+  "durationSeconds": 150.7,
+  "durationLabel": "3 min",
+  "bytes": 1809261,
+  "sha256": "10b7e89658de7ae2b926458c7898a2653e418bf38b91124ef23a18ddc42677b7",
+  "path": "/audio/readings/2026-09-08-reading-ipc-sorpresa-inflacion.mp3",
+  "generatedAt": "2026-09-09T02:00:48.093560+00:00",
+  "production": true
+}
