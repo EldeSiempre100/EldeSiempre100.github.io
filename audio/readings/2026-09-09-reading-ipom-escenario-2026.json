@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "kind": "contingency-analysis",
+  "sourceId": "2026-09-09-reading-ipom-escenario-2026",
+  "sourceCommit": "e2802410547bfb20331c775609c8b72a4370b333",
+  "generatorCommit": "e2802410547bfb20331c775609c8b72a4370b333",
+  "voice": "em_alex",
+  "voiceLabel": "Alex",
+  "language": "es",
+  "engine": "Kokoro-82M",
+  "speed": 1.0,
+  "lexiconVersion": 3,
+  "lexiconRevision": 2,
+  "speechNormalizerVersion": 4,
+  "durationSeconds": 174.6,
+  "durationLabel": "3 min",
+  "bytes": 2094957,
+  "sha256": "64b276e9b21a0ca936ff79f0c023db409e7ba14addc07a9748472bafff19d9f7",
+  "path": "/audio/readings/2026-09-09-reading-ipom-escenario-2026.mp3",
+  "generatedAt": "2026-09-09T15:51:04.441377+00:00",
+  "production": true
+}
