@@ -6,22 +6,22 @@
   "lexiconRevision": 2,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-09",
-  "title": "ATLAS NEWS — Resumen diario — miércoles 9 de septiembre de 2026",
+  "date": "2026-09-10",
+  "title": "ATLAS NEWS — Resumen diario — jueves 10 de septiembre de 2026",
   "summary": "Una cápsula con las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-09-09-resumen-diario.mp3",
-  "durationSeconds": 281.2,
-  "durationLabel": "5 min",
-  "bytes": 3375117,
-  "generatedAt": "2026-09-09T10:06:18.551741+00:00",
+  "path": "/audio/2026-09-10-resumen-diario.mp3",
+  "durationSeconds": 265.9,
+  "durationLabel": "4 min",
+  "bytes": 3191373,
+  "generatedAt": "2026-09-10T10:08:57.856669+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-09-09-daily-petroleo-sobre-cien-endurece-dilema-monetario",
-    "national": "2026-09-09-national-banco-central-preserva-opcionalidad",
-    "markets": "2026-09-09-markets-yen-y-petroleo-endurecen-liquidez"
+    "general": "2026-09-10-daily-mercado-exige-prima-inflacion",
+    "national": "2026-09-10-national-reforma-capitales-mueve-hipotecario",
+    "markets": "2026-09-10-markets-refugios-se-desacoplan"
   },
-  "sourceCommit": "f58f622e45d2d38f65c667e303b2a370647bb639"
+  "sourceCommit": "972ad0febd82f82033ccedb9d963e6174f2d9a99"
 }
