@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "c6f8b295410ead3dd13c33514d53f97dc871febe",
+  "sourceCommit": "972ad0febd82f82033ccedb9d963e6174f2d9a99",
   "latestDaily": {
-    "id": "2026-09-09-daily-petroleo-sobre-cien-endurece-dilema-monetario",
-    "issueNumber": 38,
-    "title": "El petróleo sobre US$100 endurece el dilema monetario global",
-    "publishedAt": "2026-09-09T06:59:21-03:00",
-    "cutoffAt": "2026-09-09T06:00:18-03:00"
+    "id": "2026-09-10-daily-mercado-exige-prima-inflacion",
+    "issueNumber": 39,
+    "title": "El mercado exige prima de inflación incluso en modo refugio",
+    "publishedAt": "2026-09-10T07:01:19-03:00",
+    "cutoffAt": "2026-09-10T06:01:20-03:00"
   },
   "latestNational": {
-    "id": "2026-09-09-national-banco-central-preserva-opcionalidad",
-    "title": "El Banco Central preserva opcionalidad antes de recalibrar su escenario",
-    "publishedAt": "2026-09-09T06:59:21-03:00",
-    "cutoffAt": "2026-09-09T06:01:20-03:00"
+    "id": "2026-09-10-national-reforma-capitales-mueve-hipotecario",
+    "title": "La reforma de capitales mueve el problema hipotecario desde la tasa hacia la liquidez",
+    "publishedAt": "2026-09-10T07:01:37-03:00",
+    "cutoffAt": "2026-09-10T06:02:05-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-09-markets-yen-y-petroleo-endurecen-liquidez",
-    "title": "Yen y petróleo endurecen simultáneamente las condiciones de mercado",
-    "publishedAt": "2026-09-09T06:59:21-03:00",
-    "cutoffAt": "2026-09-09T06:02:05-03:00"
+    "id": "2026-09-10-markets-refugios-se-desacoplan",
+    "title": "Los refugios se desacoplan: suben los yields, el dólar cede y el oro resiste",
+    "publishedAt": "2026-09-10T07:01:48-03:00",
+    "cutoffAt": "2026-09-10T06:02:48-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 38,
+    "daily": 39,
     "weekly": 4,
-    "national": 31,
-    "markets": 30,
+    "national": 32,
+    "markets": 31,
     "readings": 9,
-    "total": 112
+    "total": 115
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-09",
+    "asOf": "2026-09-10",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
