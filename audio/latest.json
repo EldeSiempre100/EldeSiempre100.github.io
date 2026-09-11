@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "scriptVersion": 8,
-  "speechNormalizerVersion": 4,
+  "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 2,
   "questionProsodyVersion": 2,
@@ -10,10 +10,10 @@
   "title": "ATLAS NEWS — Resumen diario — viernes 11 de septiembre de 2026",
   "summary": "Un review breve de las señales principales de General, Nacional y Mercados.",
   "path": "/audio/2026-09-11-resumen-diario.mp3",
-  "durationSeconds": 202.5,
+  "durationSeconds": 204.1,
   "durationLabel": "3 min",
-  "bytes": 2430765,
-  "generatedAt": "2026-09-11T18:49:34.459465+00:00",
+  "bytes": 2449485,
+  "generatedAt": "2026-09-11T20:50:54.487573+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -23,5 +23,5 @@
     "national": "2026-09-11-national-costos-transporte-presionan-margen",
     "markets": "2026-09-11-markets-cpi-decide-el-cinco-por-ciento"
   },
-  "sourceCommit": "22a9c5f3b1d617ba3f81d73c03515d0c8ca8b3e0"
+  "sourceCommit": "2c7decd716d8829bde805467ba686359a8aa07cd"
 }

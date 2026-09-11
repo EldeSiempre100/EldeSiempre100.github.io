@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T18:49:34.459465+00:00",
-  "sourceCommit": "22a9c5f3b1d617ba3f81d73c03515d0c8ca8b3e0",
-  "speechNormalizerVersion": 4,
+  "generatedAt": "2026-09-11T20:50:54.487573+00:00",
+  "sourceCommit": "2c7decd716d8829bde805467ba686359a8aa07cd",
+  "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 2,
   "questionProsodyVersion": 2,
@@ -11,12 +11,12 @@
     "status": "published",
     "sourceId": "2026-09-11-daily-inflacion-vuelve-a-mandar",
     "path": "/audio/2026-09-11-international-analysis.mp3",
-    "durationSeconds": 167.1,
+    "durationSeconds": 172.6,
     "durationLabel": "3 min",
-    "bytes": 2005101,
+    "bytes": 2071053,
     "scriptVersion": 1,
     "scriptHash": "b00c832b81c83f1aa5933a4d388f755b2b437be1a42ac1272e64bd14876f675d",
-    "speechNormalizerVersion": 4,
+    "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 2,
     "questionProsodyVersion": 2,
@@ -33,35 +33,35 @@
     "bytes": 1752525,
     "scriptVersion": 3,
     "scriptHash": "c7536783d16b360c54d46acebf5ce084aaec13cc0f40be5223c00df99348281c",
-    "speechNormalizerVersion": 4,
+    "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 2,
     "questionProsodyVersion": 2,
     "engine": "Kokoro-82M",
+    "language": "es",
     "voices": {
       "voice1": "ef_dora",
       "voice2": "em_alex"
-    },
-    "language": "es"
+    }
   },
   "markets": {
     "status": "published",
     "sourceId": "2026-09-11-markets-cpi-decide-el-cinco-por-ciento",
     "path": "/audio/2026-09-11-markets-analysis.mp3",
-    "durationSeconds": 172.9,
+    "durationSeconds": 173.7,
     "durationLabel": "3 min",
-    "bytes": 2075373,
+    "bytes": 2084301,
     "scriptVersion": 3,
     "scriptHash": "93a9961c275401bb877fd486b533d50c9b36eca651c0152f249e07cb376b094b",
-    "speechNormalizerVersion": 4,
+    "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 2,
     "questionProsodyVersion": 2,
     "engine": "Kokoro-82M",
+    "language": "es",
     "voices": {
       "voice1": "ef_dora",
       "voice2": "em_alex"
-    },
-    "language": "es"
+    }
   }
 }
