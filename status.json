@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "972ad0febd82f82033ccedb9d963e6174f2d9a99",
+  "sourceCommit": "a67476d5ae136c30f8057208136390549149bb5e",
   "latestDaily": {
-    "id": "2026-09-10-daily-mercado-exige-prima-inflacion",
-    "issueNumber": 39,
-    "title": "El mercado exige prima de inflación incluso en modo refugio",
-    "publishedAt": "2026-09-10T07:01:19-03:00",
-    "cutoffAt": "2026-09-10T06:01:20-03:00"
+    "id": "2026-09-11-daily-inflacion-vuelve-a-mandar",
+    "issueNumber": 40,
+    "title": "La inflación vuelve a mandar y deja a la Fed frente a una prueba decisiva",
+    "publishedAt": "2026-09-11T06:57:51-03:00",
+    "cutoffAt": "2026-09-11T06:03:20-03:00"
   },
   "latestNational": {
-    "id": "2026-09-10-national-reforma-capitales-mueve-hipotecario",
-    "title": "La reforma de capitales mueve el problema hipotecario desde la tasa hacia la liquidez",
-    "publishedAt": "2026-09-10T07:01:37-03:00",
-    "cutoffAt": "2026-09-10T06:02:05-03:00"
+    "id": "2026-09-11-national-costos-transporte-presionan-margen",
+    "title": "El costo del transporte muestra dónde empieza a sentirse el shock externo en Chile",
+    "publishedAt": "2026-09-11T06:58:04-03:00",
+    "cutoffAt": "2026-09-11T06:04:15-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-10-markets-refugios-se-desacoplan",
-    "title": "Los refugios se desacoplan: suben los yields, el dólar cede y el oro resiste",
-    "publishedAt": "2026-09-10T07:01:48-03:00",
-    "cutoffAt": "2026-09-10T06:02:48-03:00"
+    "id": "2026-09-11-markets-cpi-decide-el-cinco-por-ciento",
+    "title": "El IPC decidirá si el Treasury rompe 5% o si el mercado desarma parte del shock",
+    "publishedAt": "2026-09-11T06:58:13-03:00",
+    "cutoffAt": "2026-09-11T06:04:55-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 39,
+    "daily": 40,
     "weekly": 4,
-    "national": 32,
-    "markets": 31,
+    "national": 33,
+    "markets": 32,
     "readings": 9,
-    "total": 115
+    "total": 118
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-10",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
