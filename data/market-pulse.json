@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-11T23:46:53.131Z",
+  "generatedAt": "2026-09-11T23:51:25.467Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -11,12 +11,12 @@
       "group": "fx",
       "value": 937.17,
       "unit": "clp",
-      "changePercent": 1.21,
-      "trend": "up",
+      "changePercent": null,
+      "trend": "flat",
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "eurclp",
@@ -29,7 +29,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "tpm",
@@ -42,7 +42,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "uf",
@@ -55,7 +55,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "copper",
@@ -68,7 +68,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "sp500",
@@ -206,11 +206,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77185,
+      "value": 77167,
       "unit": "usd",
-      "changePercent": 0.58,
+      "changePercent": 0.6,
       "trend": "up",
-      "effectiveAt": "2026-09-11T23:46:53.131Z",
+      "effectiveAt": "2026-09-11T23:51:25.467Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -273,5 +273,5 @@
       "error": "dato con 1346 horas de antigüedad; máximo 96"
     }
   ],
-  "freshnessCheckedAt": "2026-09-11T23:46:53.167Z"
+  "freshnessCheckedAt": "2026-09-11T23:51:25.501Z"
 }
