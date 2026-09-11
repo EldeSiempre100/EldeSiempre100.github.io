@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "status": "current",
+  "usage": "lab-evaluation",
+  "generatedAt": "2026-09-11T20:55:48.672Z",
+  "timeZone": "America/Santiago",
+  "assets": [
+    {
+      "id": "usdclp",
+      "label": "USD/CLP",
+      "group": "fx",
+      "value": 937.17,
+      "unit": "clp",
+      "changePercent": 1.21,
+      "trend": "up",
+      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "provider": "mindicador",
+      "sourceUrl": "https://mindicador.cl/",
+      "status": "current"
+    },
+    {
+      "id": "eurclp",
+      "label": "EUR/CLP",
+      "group": "fx",
+      "value": 1088.97,
+      "unit": "clp",
+      "changePercent": 1.04,
+      "trend": "up",
+      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "provider": "mindicador",
+      "sourceUrl": "https://mindicador.cl/",
+      "status": "current"
+    },
+    {
+      "id": "tpm",
+      "label": "TPM Chile",
+      "group": "rates",
+      "value": 4.5,
+      "unit": "percent",
+      "changePercent": null,
+      "trend": "flat",
+      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "provider": "mindicador",
+      "sourceUrl": "https://mindicador.cl/",
+      "status": "current"
+    },
+    {
+      "id": "uf",
+      "label": "UF",
+      "group": "chile",
+      "value": 40901.94,
+      "unit": "clp",
+      "changePercent": null,
+      "trend": "flat",
+      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "provider": "mindicador",
+      "sourceUrl": "https://mindicador.cl/",
+      "status": "current"
+    },
+    {
+      "id": "copper",
+      "label": "Cobre",
+      "group": "commodities",
+      "value": 6.72,
+      "unit": "usd-per-pound",
+      "changePercent": 0.45,
+      "trend": "up",
+      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "provider": "mindicador",
+      "sourceUrl": "https://mindicador.cl/",
+      "status": "current"
+    },
+    {
+      "id": "sp500",
+      "label": "S&P 500",
+      "group": "indices",
+      "value": 7656.98,
+      "unit": "points",
+      "changePercent": -0.96,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T20:46:20.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC",
+      "status": "current"
+    },
+    {
+      "id": "nasdaq",
+      "label": "Nasdaq Composite",
+      "group": "indices",
+      "value": 26333.035,
+      "unit": "points",
+      "changePercent": -0.78,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T20:55:46.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC",
+      "status": "current"
+    },
+    {
+      "id": "dow",
+      "label": "Dow Jones",
+      "group": "indices",
+      "value": 52573.29,
+      "unit": "points",
+      "changePercent": -1.86,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T20:46:29.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5EDJI",
+      "status": "current"
+    },
+    {
+      "id": "stoxx50",
+      "label": "Euro Stoxx 50",
+      "group": "indices",
+      "value": 6325.13,
+      "unit": "points",
+      "changePercent": -1.48,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T16:00:00.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5ESTOXX50E",
+      "status": "current"
+    },
+    {
+      "id": "ipsa",
+      "label": "IPSA",
+      "group": "chile",
+      "value": 10887.72,
+      "unit": "points",
+      "changePercent": -0.55,
+      "trend": "down",
+      "effectiveAt": "2026-07-17T21:36:10.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5EIPSA",
+      "status": "current"
+    },
+    {
+      "id": "ust10y",
+      "label": "Treasury EE.UU. 10Y",
+      "group": "rates",
+      "value": 4.975,
+      "unit": "percent",
+      "changePercent": 5.4,
+      "trend": "up",
+      "effectiveAt": "2026-09-11T18:59:54.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5ETNX",
+      "status": "current"
+    },
+    {
+      "id": "brent",
+      "label": "Brent",
+      "group": "commodities",
+      "value": 104.75,
+      "unit": "usd-per-barrel",
+      "changePercent": 15.76,
+      "trend": "up",
+      "effectiveAt": "2026-09-11T20:45:46.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
+      "status": "current"
+    },
+    {
+      "id": "gold",
+      "label": "Oro",
+      "group": "commodities",
+      "value": 4389.3,
+      "unit": "usd-per-ounce",
+      "changePercent": -0.94,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T20:45:34.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
+      "status": "current"
+    },
+    {
+      "id": "eurusd",
+      "label": "EUR/USD",
+      "group": "fx",
+      "value": 1.1592,
+      "unit": "ratio",
+      "changePercent": -0.21,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T16:00:00Z",
+      "provider": "frankfurter-ecb",
+      "sourceUrl": "https://frankfurter.app/",
+      "status": "current"
+    },
+    {
+      "id": "usdjpy",
+      "label": "USD/JPY",
+      "group": "fx",
+      "value": 154.04,
+      "unit": "ratio",
+      "changePercent": -0.09,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T16:00:00Z",
+      "provider": "frankfurter-ecb",
+      "sourceUrl": "https://frankfurter.app/",
+      "status": "current"
+    },
+    {
+      "id": "bitcoin",
+      "label": "Bitcoin",
+      "group": "crypto",
+      "value": 77283,
+      "unit": "usd",
+      "changePercent": 0.02,
+      "trend": "up",
+      "effectiveAt": "2026-09-11T20:55:48.672Z",
+      "provider": "coingecko-public",
+      "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
+      "status": "current"
+    }
+  ],
+  "diagnostics": [
+    {
+      "id": "sp500",
+      "ok": true,
+      "provider": "yahoo-public-chart"
+    },
+    {
+      "id": "nasdaq",
+      "ok": true,
+      "provider": "yahoo-public-chart"
+    },
+    {
+      "id": "dow",
+      "ok": true,
+      "provider": "yahoo-public-chart"
+    },
+    {
+      "id": "stoxx50",
+      "ok": true,
+      "provider": "yahoo-public-chart"
+    },
+    {
+      "id": "ipsa",
+      "ok": true,
+      "provider": "yahoo-public-chart"
+    },
+    {
+      "id": "ust10y",
+      "ok": true,
+      "provider": "yahoo-public-chart"
+    },
+    {
+      "id": "brent",
+      "ok": true,
+      "provider": "yahoo-public-chart"
+    },
+    {
+      "id": "gold",
+      "ok": true,
+      "provider": "yahoo-public-chart"
+    },
+    {
+      "id": "fx-global",
+      "ok": true,
+      "provider": "frankfurter-ecb"
+    },
+    {
+      "id": "bitcoin",
+      "ok": true,
+      "provider": "coingecko-public"
+    }
+  ]
+}
