@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-11T21:23:17.486Z",
+  "generatedAt": "2026-09-11T21:45:22.723Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -206,11 +206,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77380,
+      "value": 77340,
       "unit": "usd",
-      "changePercent": 0.26,
+      "changePercent": 0.27,
       "trend": "up",
-      "effectiveAt": "2026-09-11T21:23:17.486Z",
+      "effectiveAt": "2026-09-11T21:45:22.723Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -273,5 +273,5 @@
       "error": "dato con 1344 horas de antigüedad; máximo 96"
     }
   ],
-  "freshnessCheckedAt": "2026-09-11T21:23:17.536Z"
+  "freshnessCheckedAt": "2026-09-11T21:45:22.762Z"
 }
