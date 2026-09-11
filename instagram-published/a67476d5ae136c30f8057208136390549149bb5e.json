@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-11-daily-inflacion-vuelve-a-mandar.md",
+  "contractPath": "tools/social-renderer/.generated/daily-contract.json",
+  "canonicalUrl": "https://eldesiempre100.github.io/ediciones/2026-09-11-daily-inflacion-vuelve-a-mandar/",
+  "childContainerIds": [
+    "18087652547386975",
+    "18087652595386975",
+    "18087652640386975",
+    "18087652676386975",
+    "18087652739386975"
+  ],
+  "carouselContainerId": "18087652781386975",
+  "mediaId": "18203081386371213",
+  "permalink": "https://www.instagram.com/p/DdJJzlECR7A/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-11T10:04:02+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/a67476d5ae136c30f8057208136390549149bb5e/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/a67476d5ae136c30f8057208136390549149bb5e/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/a67476d5ae136c30f8057208136390549149bb5e/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/a67476d5ae136c30f8057208136390549149bb5e/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/a67476d5ae136c30f8057208136390549149bb5e/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "34587158205",
+  "githubRunAttempt": "1",
+  "sourceCommit": "a67476d5ae136c30f8057208136390549149bb5e"
+}
