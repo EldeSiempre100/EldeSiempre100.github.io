@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "status": "stale",
   "asOf": "2026-09-11",
-  "fetchedAt": "2026-09-11T19:25:59.794Z",
-  "lastAttemptAt": "2026-09-11T19:48:38.946Z",
+  "fetchedAt": "2026-09-11T19:46:52.233Z",
+  "lastAttemptAt": "2026-09-11T19:50:15.203Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -56,7 +56,11 @@
       "label": "Cobre",
       "value": 6.72,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-09-11"
+      "effectiveDate": "2026-09-11",
+      "previousValue": 6.69,
+      "previousEffectiveDate": "2026-09-10",
+      "changePercent": 0.45,
+      "trend": "up"
     }
   ]
 }
