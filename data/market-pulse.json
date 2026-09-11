@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-11T21:45:22.723Z",
+  "generatedAt": "2026-09-11T22:12:34.783Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -135,7 +135,7 @@
       "sourceUrl": "https://finance.yahoo.com/quote/%5EIPSA",
       "status": "stale",
       "displayEligible": false,
-      "staleReason": "dato con 1344 horas de antigüedad; máximo 96"
+      "staleReason": "dato con 1345 horas de antigüedad; máximo 96"
     },
     {
       "id": "ust10y",
@@ -206,11 +206,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77340,
+      "value": 77072,
       "unit": "usd",
-      "changePercent": 0.27,
-      "trend": "up",
-      "effectiveAt": "2026-09-11T21:45:22.723Z",
+      "changePercent": -0.11,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T22:12:34.783Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -270,8 +270,8 @@
     {
       "id": "ipsa-freshness",
       "ok": false,
-      "error": "dato con 1344 horas de antigüedad; máximo 96"
+      "error": "dato con 1345 horas de antigüedad; máximo 96"
     }
   ],
-  "freshnessCheckedAt": "2026-09-11T21:45:22.762Z"
+  "freshnessCheckedAt": "2026-09-11T22:12:34.819Z"
 }
