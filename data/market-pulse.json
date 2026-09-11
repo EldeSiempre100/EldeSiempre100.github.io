@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "current",
+  "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-11T20:55:48.672Z",
+  "generatedAt": "2026-09-11T21:02:14.146Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -16,7 +16,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "eurclp",
@@ -29,7 +29,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "tpm",
@@ -42,7 +42,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "uf",
@@ -55,7 +55,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "copper",
@@ -68,7 +68,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "sp500",
@@ -91,7 +91,7 @@
       "unit": "points",
       "changePercent": -0.78,
       "trend": "down",
-      "effectiveAt": "2026-09-11T20:55:46.000Z",
+      "effectiveAt": "2026-09-11T21:02:09.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC",
       "status": "current"
@@ -133,7 +133,9 @@
       "effectiveAt": "2026-07-17T21:36:10.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EIPSA",
-      "status": "current"
+      "status": "stale",
+      "displayEligible": false,
+      "staleReason": "dato con 1343 horas de antigüedad; máximo 96"
     },
     {
       "id": "ust10y",
@@ -152,11 +154,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 104.75,
+      "value": 104.47,
       "unit": "usd-per-barrel",
-      "changePercent": 15.76,
+      "changePercent": 15.45,
       "trend": "up",
-      "effectiveAt": "2026-09-11T20:45:46.000Z",
+      "effectiveAt": "2026-09-11T20:52:05.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current"
@@ -165,11 +167,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4389.3,
+      "value": 4389.2,
       "unit": "usd-per-ounce",
-      "changePercent": -0.94,
+      "changePercent": -0.95,
       "trend": "down",
-      "effectiveAt": "2026-09-11T20:45:34.000Z",
+      "effectiveAt": "2026-09-11T20:52:07.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current"
@@ -204,11 +206,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77283,
+      "value": 77314,
       "unit": "usd",
-      "changePercent": 0.02,
+      "changePercent": 0.07,
       "trend": "up",
-      "effectiveAt": "2026-09-11T20:55:48.672Z",
+      "effectiveAt": "2026-09-11T21:02:14.146Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -264,6 +266,12 @@
       "id": "bitcoin",
       "ok": true,
       "provider": "coingecko-public"
+    },
+    {
+      "id": "ipsa-freshness",
+      "ok": false,
+      "error": "dato con 1343 horas de antigüedad; máximo 96"
     }
-  ]
+  ],
+  "freshnessCheckedAt": "2026-09-11T21:02:14.180Z"
 }
