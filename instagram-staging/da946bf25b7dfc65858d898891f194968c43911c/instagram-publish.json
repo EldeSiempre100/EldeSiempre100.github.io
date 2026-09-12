@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-12-daily-shock-energetico-pierde-via-de-escape.md",
+  "contractPath": "tools/social-renderer/.generated/daily-contract.json",
+  "canonicalUrl": "https://eldesiempre100.github.io/ediciones/2026-09-12-daily-shock-energetico-pierde-via-de-escape/",
+  "childContainerIds": [
+    "18087895490386975",
+    "18087895511386975",
+    "18087895529386975",
+    "18087895550386975",
+    "18087895580386975"
+  ],
+  "carouselContainerId": "18087895604386975",
+  "mediaId": "17907616689311551",
+  "permalink": "https://www.instagram.com/p/DdL_6KSlToK/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-12T12:35:16+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/da946bf25b7dfc65858d898891f194968c43911c/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/da946bf25b7dfc65858d898891f194968c43911c/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/da946bf25b7dfc65858d898891f194968c43911c/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/da946bf25b7dfc65858d898891f194968c43911c/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/EldeSiempre100/EldeSiempre100.github.io/social-assets/instagram-staging/da946bf25b7dfc65858d898891f194968c43911c/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "34694022797",
+  "githubRunAttempt": "1",
+  "sourceCommit": "da946bf25b7dfc65858d898891f194968c43911c"
+}
