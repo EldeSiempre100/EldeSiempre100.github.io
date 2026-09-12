@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "partial",
+  "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-12T06:39:40.049Z",
+  "generatedAt": "2026-09-12T06:59:49.978Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -126,16 +126,14 @@
       "id": "ipsa",
       "label": "IPSA",
       "group": "chile",
-      "value": 10887.72,
+      "value": 11315.26,
       "unit": "points",
-      "changePercent": -0.55,
+      "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-07-17T21:36:10.000Z",
-      "provider": "yahoo-public-chart",
-      "sourceUrl": "https://finance.yahoo.com/quote/%5EIPSA",
-      "status": "stale",
-      "displayEligible": false,
-      "staleReason": "dato con 1353 horas de antigüedad; máximo 96"
+      "effectiveAt": "2026-09-12T06:59:49.746Z",
+      "provider": "diario-financiero-public",
+      "sourceUrl": "https://www.df.cl/marketdata/bolsas",
+      "status": "current"
     },
     {
       "id": "ust10y",
@@ -206,11 +204,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77255,
+      "value": 77280,
       "unit": "usd",
-      "changePercent": 0.06,
+      "changePercent": 0.02,
       "trend": "up",
-      "effectiveAt": "2026-09-12T06:39:40.049Z",
+      "effectiveAt": "2026-09-12T06:59:49.978Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -240,7 +238,7 @@
     {
       "id": "ipsa",
       "ok": true,
-      "provider": "yahoo-public-chart"
+      "provider": "diario-financiero-public"
     },
     {
       "id": "ust10y",
@@ -266,15 +264,10 @@
       "id": "bitcoin",
       "ok": true,
       "provider": "coingecko-public"
-    },
-    {
-      "id": "ipsa-freshness",
-      "ok": false,
-      "error": "dato con 1353 horas de antigüedad; máximo 96"
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-12T06:39:42.559Z",
+  "historyGeneratedAt": "2026-09-12T06:59:50.536Z",
   "history": [
     {
       "id": "usdclp",
@@ -683,5 +676,5 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-09-12T06:39:42.594Z"
+  "freshnessCheckedAt": "2026-09-12T06:59:50.568Z"
 }
