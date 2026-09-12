@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-12T01:04:30.134Z",
+  "generatedAt": "2026-09-12T01:14:36.126Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -11,12 +11,12 @@
       "group": "fx",
       "value": 937.17,
       "unit": "clp",
-      "changePercent": null,
-      "trend": "flat",
+      "changePercent": 1.21,
+      "trend": "up",
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale"
+      "status": "current"
     },
     {
       "id": "eurclp",
@@ -24,12 +24,12 @@
       "group": "fx",
       "value": 1088.97,
       "unit": "clp",
-      "changePercent": null,
-      "trend": "flat",
+      "changePercent": 1.04,
+      "trend": "up",
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale"
+      "status": "current"
     },
     {
       "id": "tpm",
@@ -42,7 +42,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale"
+      "status": "current"
     },
     {
       "id": "uf",
@@ -55,7 +55,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale"
+      "status": "current"
     },
     {
       "id": "copper",
@@ -68,7 +68,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale"
+      "status": "current"
     },
     {
       "id": "sp500",
@@ -130,7 +130,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-12T01:04:29.833Z",
+      "effectiveAt": "2026-09-12T01:14:35.808Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current"
@@ -204,11 +204,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77264,
+      "value": 77340,
       "unit": "usd",
-      "changePercent": 0.39,
+      "changePercent": 0.52,
       "trend": "up",
-      "effectiveAt": "2026-09-12T01:04:30.134Z",
+      "effectiveAt": "2026-09-12T01:14:36.126Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -266,5 +266,5 @@
       "provider": "coingecko-public"
     }
   ],
-  "freshnessCheckedAt": "2026-09-12T01:04:30.162Z"
+  "freshnessCheckedAt": "2026-09-12T01:14:36.163Z"
 }
