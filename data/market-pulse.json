@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "partial",
+  "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-12T23:53:10.546Z",
+  "generatedAt": "2026-09-12T23:55:48.844Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -130,7 +130,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-12T23:53:00.482Z",
+      "effectiveAt": "2026-09-12T23:55:48.501Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current"
@@ -175,14 +175,40 @@
       "status": "current"
     },
     {
+      "id": "eurusd",
+      "label": "EUR/USD",
+      "group": "fx",
+      "value": 1.1592,
+      "unit": "ratio",
+      "changePercent": -0.21,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T16:00:00Z",
+      "provider": "frankfurter-ecb",
+      "sourceUrl": "https://frankfurter.app/",
+      "status": "current"
+    },
+    {
+      "id": "usdjpy",
+      "label": "USD/JPY",
+      "group": "fx",
+      "value": 154.04,
+      "unit": "ratio",
+      "changePercent": -0.09,
+      "trend": "down",
+      "effectiveAt": "2026-09-11T16:00:00Z",
+      "provider": "frankfurter-ecb",
+      "sourceUrl": "https://frankfurter.app/",
+      "status": "current"
+    },
+    {
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77260,
+      "value": 77274,
       "unit": "usd",
-      "changePercent": 0.11,
+      "changePercent": 0.13,
       "trend": "up",
-      "effectiveAt": "2026-09-12T23:53:10.546Z",
+      "effectiveAt": "2026-09-12T23:55:48.844Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -231,8 +257,8 @@
     },
     {
       "id": "fx-global",
-      "ok": false,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "provider": "frankfurter-ecb"
     },
     {
       "id": "bitcoin",
@@ -241,7 +267,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-12T23:53:11.289Z",
+  "historyGeneratedAt": "2026-09-12T23:55:49.496Z",
   "history": [
     {
       "id": "usdclp",
@@ -650,5 +676,5 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-09-12T23:53:11.325Z"
+  "freshnessCheckedAt": "2026-09-12T23:55:49.529Z"
 }
