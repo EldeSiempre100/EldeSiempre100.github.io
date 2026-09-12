@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T11:52:58.782Z",
+  "updatedAt": "2026-09-12T12:07:40.871Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -23,6 +23,30 @@
       "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CP%20FOMC%20Group%207.5x10%2011142022%20DSCF5769%20(52563724010).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-09-12-daily-shock-energetico-pierde-via-de-escape": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
+      "alt": "Miembros y personal de la Reserva Federal reunidos en Washington, D.C.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-09-12-national-reforma-pasa-de-anuncio-a-tramitacion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Panorama.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Panorama.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-09-12-markets-bonos-no-compran-alivio": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
