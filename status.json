@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "77653363d8f9affb2f170dabbf58af1c11e246d1",
+  "sourceCommit": "f95229ca54bcd0ea630892b3b77540668f9fa8a9",
   "latestDaily": {
     "id": "2026-09-11-daily-inflacion-vuelve-a-mandar",
     "issueNumber": 40,
@@ -36,7 +36,7 @@
     "total": 118
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-12",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
