@@ -6,22 +6,22 @@
   "lexiconRevision": 2,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-11",
-  "title": "ATLAS NEWS — Resumen diario — viernes 11 de septiembre de 2026",
+  "date": "2026-09-12",
+  "title": "ATLAS NEWS — Resumen diario — sábado 12 de septiembre de 2026",
   "summary": "Un review breve de las señales principales de General, Nacional y Mercados.",
-  "path": "/audio/2026-09-11-resumen-diario.mp3",
-  "durationSeconds": 204.1,
+  "path": "/audio/2026-09-12-resumen-diario.mp3",
+  "durationSeconds": 203.9,
   "durationLabel": "3 min",
-  "bytes": 2449485,
-  "generatedAt": "2026-09-11T20:50:54.487573+00:00",
+  "bytes": 2447181,
+  "generatedAt": "2026-09-12T12:10:45.853570+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "general": "2026-09-11-daily-inflacion-vuelve-a-mandar",
-    "national": "2026-09-11-national-costos-transporte-presionan-margen",
-    "markets": "2026-09-11-markets-cpi-decide-el-cinco-por-ciento"
+    "general": "2026-09-12-daily-shock-energetico-pierde-via-de-escape",
+    "national": "2026-09-12-national-reforma-pasa-de-anuncio-a-tramitacion",
+    "markets": "2026-09-12-markets-bonos-no-compran-alivio"
   },
-  "sourceCommit": "2c7decd716d8829bde805467ba686359a8aa07cd"
+  "sourceCommit": "da946bf25b7dfc65858d898891f194968c43911c"
 }
