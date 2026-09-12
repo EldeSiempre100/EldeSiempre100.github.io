@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-12T02:45:54.772Z",
+  "generatedAt": "2026-09-12T06:22:42.457Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -48,11 +48,11 @@
       "id": "uf",
       "label": "UF",
       "group": "chile",
-      "value": 40901.94,
+      "value": 40910.1,
       "unit": "clp",
       "changePercent": null,
       "trend": "flat",
-      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "effectiveAt": "2026-09-12T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current"
@@ -130,7 +130,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-12T02:45:54.393Z",
+      "effectiveAt": "2026-09-12T06:22:42.204Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current"
@@ -152,9 +152,9 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 104.42,
+      "value": 104.61,
       "unit": "usd-per-barrel",
-      "changePercent": 15.39,
+      "changePercent": 15.6,
       "trend": "up",
       "effectiveAt": "2026-09-11T20:59:57.000Z",
       "provider": "yahoo-public-chart",
@@ -165,9 +165,9 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4390,
+      "value": 4408.9,
       "unit": "usd-per-ounce",
-      "changePercent": -0.93,
+      "changePercent": -0.5,
       "trend": "down",
       "effectiveAt": "2026-09-11T20:59:59.000Z",
       "provider": "yahoo-public-chart",
@@ -204,11 +204,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77224,
+      "value": 77220,
       "unit": "usd",
-      "changePercent": 0.47,
-      "trend": "up",
-      "effectiveAt": "2026-09-12T02:45:54.772Z",
+      "changePercent": -0.08,
+      "trend": "down",
+      "effectiveAt": "2026-09-12T06:22:42.456Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -266,5 +266,415 @@
       "provider": "coingecko-public"
     }
   ],
-  "freshnessCheckedAt": "2026-09-12T02:45:54.797Z"
+  "historyWindowDays": 30,
+  "historyGeneratedAt": "2026-09-12T06:22:43.122Z",
+  "history": [
+    {
+      "id": "usdclp",
+      "label": "USD/CLP",
+      "unit": "clp",
+      "provider": "mindicador",
+      "sourceUrl": "https://mindicador.cl/",
+      "points": [
+        {
+          "date": "2026-08-13",
+          "value": 912
+        },
+        {
+          "date": "2026-08-14",
+          "value": 913.2
+        },
+        {
+          "date": "2026-08-17",
+          "value": 913.15
+        },
+        {
+          "date": "2026-08-18",
+          "value": 914.19
+        },
+        {
+          "date": "2026-08-19",
+          "value": 922.12
+        },
+        {
+          "date": "2026-08-20",
+          "value": 920.26
+        },
+        {
+          "date": "2026-08-21",
+          "value": 923.23
+        },
+        {
+          "date": "2026-08-24",
+          "value": 918.17
+        },
+        {
+          "date": "2026-08-25",
+          "value": 914.64
+        },
+        {
+          "date": "2026-08-26",
+          "value": 911.43
+        },
+        {
+          "date": "2026-08-27",
+          "value": 918.42
+        },
+        {
+          "date": "2026-08-28",
+          "value": 925.25
+        },
+        {
+          "date": "2026-08-31",
+          "value": 929.18
+        },
+        {
+          "date": "2026-09-01",
+          "value": 933.4
+        },
+        {
+          "date": "2026-09-02",
+          "value": 936.86
+        },
+        {
+          "date": "2026-09-03",
+          "value": 936.32
+        },
+        {
+          "date": "2026-09-04",
+          "value": 933.47
+        },
+        {
+          "date": "2026-09-07",
+          "value": 934.35
+        },
+        {
+          "date": "2026-09-08",
+          "value": 933.82
+        },
+        {
+          "date": "2026-09-09",
+          "value": 926.94
+        },
+        {
+          "date": "2026-09-10",
+          "value": 925.97
+        },
+        {
+          "date": "2026-09-11",
+          "value": 937.17
+        }
+      ]
+    },
+    {
+      "id": "copper",
+      "label": "Cobre",
+      "unit": "usd-per-pound",
+      "provider": "mindicador",
+      "sourceUrl": "https://mindicador.cl/",
+      "points": [
+        {
+          "date": "2026-08-13",
+          "value": 6.51
+        },
+        {
+          "date": "2026-08-14",
+          "value": 6.48
+        },
+        {
+          "date": "2026-08-17",
+          "value": 6.53
+        },
+        {
+          "date": "2026-08-18",
+          "value": 6.61
+        },
+        {
+          "date": "2026-08-19",
+          "value": 6.62
+        },
+        {
+          "date": "2026-08-20",
+          "value": 6.46
+        },
+        {
+          "date": "2026-08-21",
+          "value": 6.52
+        },
+        {
+          "date": "2026-08-24",
+          "value": 6.4
+        },
+        {
+          "date": "2026-08-25",
+          "value": 6.48
+        },
+        {
+          "date": "2026-08-26",
+          "value": 6.51
+        },
+        {
+          "date": "2026-08-27",
+          "value": 6.58
+        },
+        {
+          "date": "2026-08-28",
+          "value": 6.56
+        },
+        {
+          "date": "2026-08-31",
+          "value": 6.56
+        },
+        {
+          "date": "2026-09-01",
+          "value": 6.55
+        },
+        {
+          "date": "2026-09-02",
+          "value": 6.55
+        },
+        {
+          "date": "2026-09-03",
+          "value": 6.53
+        },
+        {
+          "date": "2026-09-04",
+          "value": 6.49
+        },
+        {
+          "date": "2026-09-07",
+          "value": 6.53
+        },
+        {
+          "date": "2026-09-08",
+          "value": 6.57
+        },
+        {
+          "date": "2026-09-09",
+          "value": 6.62
+        },
+        {
+          "date": "2026-09-10",
+          "value": 6.69
+        },
+        {
+          "date": "2026-09-11",
+          "value": 6.72
+        }
+      ]
+    },
+    {
+      "id": "sp500",
+      "label": "S&P 500",
+      "unit": "points",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC",
+      "points": [
+        {
+          "date": "2026-08-13",
+          "value": 7798.990234375
+        },
+        {
+          "date": "2026-08-14",
+          "value": 7785.759765625
+        },
+        {
+          "date": "2026-08-17",
+          "value": 7745.06005859375
+        },
+        {
+          "date": "2026-08-18",
+          "value": 7691.759765625
+        },
+        {
+          "date": "2026-08-19",
+          "value": 7707.97998046875
+        },
+        {
+          "date": "2026-08-20",
+          "value": 7641.16015625
+        },
+        {
+          "date": "2026-08-21",
+          "value": 7674.3701171875
+        },
+        {
+          "date": "2026-08-24",
+          "value": 7652.85986328125
+        },
+        {
+          "date": "2026-08-25",
+          "value": 7677.27978515625
+        },
+        {
+          "date": "2026-08-26",
+          "value": 7675.7001953125
+        },
+        {
+          "date": "2026-08-27",
+          "value": 7730.990234375
+        },
+        {
+          "date": "2026-08-28",
+          "value": 7711.759765625
+        },
+        {
+          "date": "2026-08-31",
+          "value": 7686.14013671875
+        },
+        {
+          "date": "2026-09-01",
+          "value": 7631.47021484375
+        },
+        {
+          "date": "2026-09-02",
+          "value": 7666.60009765625
+        },
+        {
+          "date": "2026-09-03",
+          "value": 7747.7099609375
+        },
+        {
+          "date": "2026-09-04",
+          "value": 7718.60009765625
+        },
+        {
+          "date": "2026-09-08",
+          "value": 7673.52001953125
+        },
+        {
+          "date": "2026-09-09",
+          "value": 7636.35986328125
+        },
+        {
+          "date": "2026-09-10",
+          "value": 7591.7001953125
+        },
+        {
+          "date": "2026-09-11",
+          "value": 7656.97998046875
+        }
+      ]
+    },
+    {
+      "id": "brent",
+      "label": "Brent",
+      "unit": "usd-per-barrel",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
+      "points": [
+        {
+          "date": "2026-08-13",
+          "value": 87.06999969482422
+        },
+        {
+          "date": "2026-08-14",
+          "value": 88.5199966430664
+        },
+        {
+          "date": "2026-08-17",
+          "value": 90.87000274658203
+        },
+        {
+          "date": "2026-08-18",
+          "value": 91.0199966430664
+        },
+        {
+          "date": "2026-08-19",
+          "value": 91.62000274658203
+        },
+        {
+          "date": "2026-08-20",
+          "value": 93.77999877929688
+        },
+        {
+          "date": "2026-08-21",
+          "value": 94.38999938964844
+        },
+        {
+          "date": "2026-08-24",
+          "value": 92.16999816894531
+        },
+        {
+          "date": "2026-08-25",
+          "value": 88.58000183105469
+        },
+        {
+          "date": "2026-08-26",
+          "value": 87.83999633789062
+        },
+        {
+          "date": "2026-08-27",
+          "value": 89.69999694824219
+        },
+        {
+          "date": "2026-08-28",
+          "value": 89.30999755859375
+        },
+        {
+          "date": "2026-08-31",
+          "value": 90.48999786376953
+        },
+        {
+          "date": "2026-09-01",
+          "value": 94.6500015258789
+        },
+        {
+          "date": "2026-09-02",
+          "value": 95.62999725341797
+        },
+        {
+          "date": "2026-09-03",
+          "value": 95.5199966430664
+        },
+        {
+          "date": "2026-09-04",
+          "value": 96.27999877929688
+        },
+        {
+          "date": "2026-09-08",
+          "value": 97.91999816894531
+        },
+        {
+          "date": "2026-09-09",
+          "value": 101.20999908447266
+        },
+        {
+          "date": "2026-09-10",
+          "value": 107.62999725341797
+        },
+        {
+          "date": "2026-09-11",
+          "value": 104.61000061035156
+        }
+      ]
+    }
+  ],
+  "historyDiagnostics": [
+    {
+      "id": "usdclp",
+      "ok": true,
+      "provider": "mindicador",
+      "observations": 22
+    },
+    {
+      "id": "copper",
+      "ok": true,
+      "provider": "mindicador",
+      "observations": 22
+    },
+    {
+      "id": "sp500",
+      "ok": true,
+      "provider": "yahoo-public-chart",
+      "observations": 21
+    },
+    {
+      "id": "brent",
+      "ok": true,
+      "provider": "yahoo-public-chart",
+      "observations": 21
+    }
+  ],
+  "freshnessCheckedAt": "2026-09-12T06:22:43.150Z"
 }
