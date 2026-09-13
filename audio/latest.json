@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "scriptVersion": 8,
+  "scriptVersion": 9,
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 2,
@@ -8,20 +8,21 @@
   "status": "published",
   "date": "2026-09-12",
   "title": "ATLAS NEWS — Resumen diario — sábado 12 de septiembre de 2026",
-  "summary": "Un review breve de las señales principales de General, Nacional y Mercados.",
+  "summary": "Un briefing transversal de Internacional, Nacional y Mercados.",
   "path": "/audio/2026-09-12-resumen-diario.mp3",
-  "durationSeconds": 203.9,
-  "durationLabel": "3 min",
-  "bytes": 2447181,
-  "generatedAt": "2026-09-12T12:10:45.853570+00:00",
+  "durationSeconds": 121.1,
+  "durationLabel": "2 min",
+  "bytes": 1453005,
+  "generatedAt": "2026-09-13T00:36:49.206078+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
+    "international": "2026-09-12-daily-shock-energetico-pierde-via-de-escape",
     "general": "2026-09-12-daily-shock-energetico-pierde-via-de-escape",
     "national": "2026-09-12-national-reforma-pasa-de-anuncio-a-tramitacion",
     "markets": "2026-09-12-markets-bonos-no-compran-alivio"
   },
-  "sourceCommit": "da946bf25b7dfc65858d898891f194968c43911c"
+  "sourceCommit": "b00c45ea328f61b69c3802da14e8e53e460d5a58"
 }
