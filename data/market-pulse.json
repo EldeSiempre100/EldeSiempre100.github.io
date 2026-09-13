@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-13T01:27:27.453Z",
+  "generatedAt": "2026-09-13T02:00:45.372Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -11,12 +11,12 @@
       "group": "fx",
       "value": 937.17,
       "unit": "clp",
-      "changePercent": 1.21,
-      "trend": "up",
+      "changePercent": null,
+      "trend": "flat",
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "eurclp",
@@ -29,7 +29,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "tpm",
@@ -42,7 +42,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "uf",
@@ -55,7 +55,7 @@
       "effectiveAt": "2026-09-12T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "copper",
@@ -68,7 +68,7 @@
       "effectiveAt": "2026-09-11T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current"
+      "status": "stale"
     },
     {
       "id": "sp500",
@@ -130,7 +130,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-13T01:27:27.009Z",
+      "effectiveAt": "2026-09-13T02:00:45.187Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current"
@@ -204,11 +204,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77315,
+      "value": 77281,
       "unit": "usd",
-      "changePercent": 0.01,
-      "trend": "flat",
-      "effectiveAt": "2026-09-13T01:27:27.453Z",
+      "changePercent": 0.02,
+      "trend": "up",
+      "effectiveAt": "2026-09-13T02:00:45.372Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -267,7 +267,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-13T01:27:28.419Z",
+  "historyGeneratedAt": "2026-09-13T02:00:47.817Z",
   "history": [
     {
       "id": "usdclp",
@@ -676,5 +676,5 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-09-13T01:27:28.452Z"
+  "freshnessCheckedAt": "2026-09-13T02:00:47.892Z"
 }

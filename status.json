@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "24dabfc1f71fb603c6d6129017ee4c86c73cab48",
+  "sourceCommit": "4a47ae0bd91a4517199cc37f426ba13a2e9dc9c7",
   "latestDaily": {
     "id": "2026-09-12-daily-shock-energetico-pierde-via-de-escape",
     "issueNumber": 41,
@@ -36,7 +36,7 @@
     "total": 121
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-12",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
