@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "scriptVersion": 10,
+  "scriptVersion": 11,
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
-  "lexiconRevision": 2,
+  "lexiconRevision": 3,
   "questionProsodyVersion": 2,
   "status": "published",
   "date": "2026-09-12",
   "title": "ATLAS NEWS — Resumen diario — sábado 12 de septiembre de 2026",
-  "summary": "Un briefing transversal de Internacional, Nacional y Mercados, con pulso cuantitativo de apertura.",
+  "summary": "Un briefing transversal de Internacional, Nacional y Mercados, con pulso cuantitativo ampliado de apertura.",
   "path": "/audio/2026-09-12-resumen-diario.mp3",
-  "durationSeconds": 166.4,
+  "durationSeconds": 162.1,
   "durationLabel": "3 min",
-  "bytes": 1997037,
-  "generatedAt": "2026-09-13T01:28:32.015287+00:00",
+  "bytes": 1946061,
+  "generatedAt": "2026-09-13T02:04:55.383820+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -24,5 +24,5 @@
     "national": "2026-09-12-national-reforma-pasa-de-anuncio-a-tramitacion",
     "markets": "2026-09-12-markets-bonos-no-compran-alivio"
   },
-  "sourceCommit": "9c19c297a85a8ea0332dd7ec210bf3db4f1320d8"
+  "sourceCommit": "4a47ae0bd91a4517199cc37f426ba13a2e9dc9c7"
 }
